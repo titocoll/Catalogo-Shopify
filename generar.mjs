@@ -3,6 +3,8 @@ import fs from "fs";
 const TIENDAS = {
   "eyelit.xml": { dominio: "eyelit.com.ar", moneda: "ARS" },
   "scalpers.xml": { dominio: "cl-scalperscompany-com.myshopify.com", moneda: "CLP" },
+  "amphora.xml": { dominio: "amphora-cl.myshopify.com", moneda: "CLP" },
+  "renatta.xml": { dominio: "renattandgo.cl", moneda: "CLP" },
 };
 
 const esc = (t) => String(t ?? "")
