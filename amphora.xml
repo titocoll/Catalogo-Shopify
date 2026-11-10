@@ -5,6 +5,20 @@
     <link>https://amphora-cl.myshopify.com</link>
     <description>Catalogo completo de productos</description>
     <item>
+      <g:id>14946192490860</g:id>
+      <g:title>Tarjetero carlota pequeña verde oliva</g:title>
+      <g:description>El tarjetero Carlota en verde oliva comparte la línea de la billetera del mismo nombre, con broche de cierre rápido y herrajes niquelados. Compacto y práctico, es ideal para llevar las tarjetas de uso frecuente sin cargar con la billetera completa.. Variantes disponibles: Verde Oliva / Única.</g:description>
+      <g:link>https://amphora-cl.myshopify.com/products/tarjetero-carlota-pequena-verde-oliva</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-90355511938-1-677157b0-a741-454d-bb15-39404aadbf17.jpg?v=1762964504</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>9990.00 CLP</g:price>
+      <g:sale_price>5990.00 CLP</g:sale_price>
+      <g:brand>Trinus</g:brand>
+      <g:product_type>TARJETERO</g:product_type>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>15465867968876</g:id>
       <g:title>Mochila de viaje prisma mediana mix color</g:title>
       <g:description>Prisma es una mochila travel mediana en mix color, diseñada para acompañarte en cada viaje con espacio de sobra y un diseño que combina con todo. El básico infaltable para tus próximas aventuras. Se convierte en tu compañera ideal para cualquier plan, del trabajo a los viajes cortos. Variantes disponibles: Única.</g:description>
@@ -6091,7 +6105,7 @@
     <item>
       <g:id>15422703927660</g:id>
       <g:title>Chaqueta claudia</g:title>
-      <g:description> Variantes disponibles: Verde Oliva / M, Verde Oliva / L, Verde Oliva / XL, Negro / S, Negro / M, Negro / L, Negro / XL.</g:description>
+      <g:description> Variantes disponibles: Verde Oliva / M, Verde Oliva / L, Verde Oliva / XL, Negro / M, Negro / L, Negro / XL.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/chaqueta-claudia</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/cfb0c9bbc4fa86f0-web-1600-edf1f283-01ae-416a-9520-1b3dd2083c0e.jpg?v=1793984144</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -9562,7 +9576,7 @@
     <item>
       <g:id>15307149279596</g:id>
       <g:title>Chaqueta claudia negro</g:title>
-      <g:description>Claudia es una chaqueta en mezclilla negro, de perfil clásico básico con cierre de botón y herrajes en grafito. Un básico rebelde que se lleva con todo, de día o de noche. Una pieza clave para elevar cualquier look casual, de día o de noche. Variantes disponibles: Negro / S, Negro / M, Negro / L, Negro / XL.</g:description>
+      <g:description>Claudia es una chaqueta en mezclilla negro, de perfil clásico básico con cierre de botón y herrajes en grafito. Un básico rebelde que se lleva con todo, de día o de noche. Una pieza clave para elevar cualquier look casual, de día o de noche. Variantes disponibles: Negro / M, Negro / L, Negro / XL.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/chaqueta-claudia-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/2b02d11ceec99689-web-1600-16221578-0508-489e-b069-90e03c43eec0.jpg?v=1793984140</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -36453,11 +36467,12 @@
     <item>
       <g:id>15065608290668</g:id>
       <g:title>Tarjetero carlota pequeña</g:title>
-      <g:description></g:description>
+      <g:description> Variantes disponibles: Verde Oliva / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/tarjetero-carlota-pequena</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-90355511901-1-0e19a627-8020-4401-b0f8-043e3cc87f3e.jpg?v=1762963582</g:image_link>
-      <g:availability>out_of_stock</g:availability>
-      <g:price>5990.00 CLP</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:price>9990.00 CLP</g:price>
+      <g:sale_price>5990.00 CLP</g:sale_price>
       <g:brand>Amphora Chile</g:brand>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
