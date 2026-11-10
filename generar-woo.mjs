@@ -31,12 +31,19 @@ const numero = (t) => {
 };
 const enStock = (t) => /in.?stock/i.test(t) && !/out/i.test(t);
 
+const CABECERAS_NAVEGADOR = {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "es-UY,es;q=0.9,en;q=0.8",
+  "Cache-Control": "no-cache",
+};
+
 async function traerFeed(url) {
   for (let intento = 1; intento <= 3; intento++) {
     try {
-      const res = await fetch(url, { headers: { "User-Agent": "Mozilla/5.0" } });
+      const res = await fetch(url, { headers: CABECERAS_NAVEGADOR });
       if (res.ok) return await res.text();
-      console.log(`  Intento ${intento} fallo (codigo ${res.status})`);
+      console.log(`  Intento ${intento} fallo (codigo ${res.status}, servidor: ${res.headers.get("server") || "desconocido"})`);
     } catch (e) {
       console.log(`  Intento ${intento} fallo (${e.message})`);
     }
