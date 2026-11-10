@@ -28,6 +28,8 @@ jobs:
       - run: node generar.mjs
       - run: node generar-vtex.mjs
         continue-on-error: true
+      - run: node generar-woo.mjs
+        continue-on-error: true
       - run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
