@@ -26,7 +26,8 @@ jobs:
         with:
           node-version: 20
       - run: node generar.mjs
-      - run: node generar-vtex.mjs
+      - id: vtex
+        run: node generar-vtex.mjs
         continue-on-error: true
       - run: |
           git config user.name "github-actions"
@@ -42,3 +43,12 @@ jobs:
           path: .
       - id: deployment
         uses: actions/deploy-pages@v4
+      - name: Avisar si algo fallo
+        if: always()
+        run: |
+          if [ -f /tmp/fallos-feeds.txt ] || [ "${{ steps.vtex.outcome }}" = "failure" ]; then
+            echo "Hubo feeds que no se actualizaron:"
+            cat /tmp/fallos-feeds.txt 2>/dev/null || true
+            exit 1
+          fi
+          echo "Todos los feeds se actualizaron correctamente"
