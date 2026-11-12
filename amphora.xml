@@ -16609,7 +16609,7 @@
     <item>
       <g:id>15261648552300</g:id>
       <g:title>Billetera adeline mediana</g:title>
-      <g:description> Variantes disponibles: Negro / Única, Beige Oscuro / Única, Rojo Oscuro / Única.</g:description>
+      <g:description> Variantes disponibles: Negro / Única, Rojo Oscuro / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/billetera-adeline-mediana</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-7071553990001-1-485ac25c-670e-4d90-9c54-b1e08fd69fea.jpg?v=1787282501</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -20012,19 +20012,6 @@
       <g:price>46990.00 CLP</g:price>
       <g:brand>Trinus</g:brand>
       <g:product_type>MOCHILA</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>15257618841964</g:id>
-      <g:title>Billetera adeline mediana beige oscuro</g:title>
-      <g:description>Adeline también viene en formato billetera mediana, en PU beige oscuro con cierre y botón, herrajes dorado claro. Un accesorio elegante y práctico. Ideal para llevar siempre contigo, ese básico que no puede faltar en tu día a día. Variantes disponibles: Beige Oscuro / Única.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/billetera-adeline-mediana-beige-oscuro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-7071553990006-1-913c3931-8e7d-41e1-85f1-bfbd28caedad.jpg?v=1787267559</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>18990.00 CLP</g:price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>BILLETERA</g:product_type>
       <g:condition>new</g:condition>
       <g:identifier_exists>no</g:identifier_exists>
     </item>
