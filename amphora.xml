@@ -1620,20 +1620,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>15193771442540</g:id>
-      <g:title>Zapato jade cuero negro</g:title>
-      <g:description>Flats Amphora Jade con punta afilada y detalle de pedrería, un diseño elegante que realza cualquier look. Un básico que se convierte en el complemento perfecto para tu estilo personal. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Variantes disponibles: Negro / 36.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/zapato-jade-cuero-negro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/6897cf5f-2bba-4a51-9cc2-f0b0d9b1da68-p-jadez30601-1-0664806d-d7cb-442c-b31b-d3fe79246460.jpg?v=1784145986</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>89990.00 CLP</g:price>
-      <g:sale_price>57990.00 CLP</g:sale_price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>ZAPATO</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>15086347256172</g:id>
       <g:title>Botin olsen cuero taupe</g:title>
       <g:description>Olsen es un botín en cuero taupe, de estilo clásico para uso casual. Un calzado versátil que se adapta a cualquier look de temporada fría. Perfecto para renovar tu colección de calzado con un diseño que combina con todo. Variantes disponibles: Taupe / 36.</g:description>
@@ -5028,12 +5014,11 @@
     <item>
       <g:id>15439626273132</g:id>
       <g:title>Zapato jade cuero</g:title>
-      <g:description> Variantes disponibles: Negro / 36, Taupe / 36, Taupe / 38, Café / 37, Café / 36, Café / 38, Café / 35, Café / 40, Café / 39.</g:description>
+      <g:description> Variantes disponibles: Taupe / 36, Taupe / 38, Café / 37, Café / 36, Café / 38, Café / 35, Café / 40, Café / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/zapato-jade-cuero</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/6897cf5f-2bba-4a51-9cc2-f0b0d9b1da68-p-jadez30601-1-0664806d-d7cb-442c-b31b-d3fe79246460.jpg?v=1784145986</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>89990.00 CLP</g:price>
-      <g:sale_price>57990.00 CLP</g:sale_price>
       <g:brand>Amphora</g:brand>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
