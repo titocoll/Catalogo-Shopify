@@ -89,5 +89,5 @@ for (const [archivo, { api, dominio, coleccion, moneda }] of Object.entries(TIEN
     console.log(`${archivo}: ${lista.length} productos guardados`);
   } catch (e) {
     console.log(`${archivo}: NO se actualizo (${e.message}). Se mantiene el archivo anterior.`);
+    fs.appendFileSync("/tmp/fallos-feeds.txt", `${archivo}: ${e.message}\n`);
   }
-}
