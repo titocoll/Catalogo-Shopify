@@ -78,8 +78,10 @@ for (const [archivo, { dominio, moneda }] of Object.entries(TIENDAS)) {
     xml += `  </channel>\n</rss>\n`;
 
     fs.writeFileSync(archivo, xml);
-    console.log(`${archivo}: ${lista.length} productos guardados`);
+    const mb = (Buffer.byteLength(xml) / 1048576).toFixed(1);
+    console.log(`${archivo}: ${lista.length} productos guardados (${mb} MB)`);
   } catch (e) {
     console.log(`${archivo}: NO se actualizo (${e.message}). Se mantiene el archivo anterior.`);
+    fs.appendFileSync("/tmp/fallos-feeds.txt", `${archivo}: ${e.message}\n`);
   }
 }
