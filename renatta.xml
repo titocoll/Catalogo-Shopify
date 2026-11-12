@@ -2893,7 +2893,7 @@
     <item>
       <g:id>8715459264612</g:id>
       <g:title>CAMISA MANGA CORTA TROQUELADOS</g:title>
-      <g:description>Camisa de manga corta de color marrón con detalle de troquelados y botones en delantero. Variantes disponibles: MARRON / XS, MARRON / S, MARRON / M, MARRON / XL.</g:description>
+      <g:description>Camisa de manga corta de color marrón con detalle de troquelados y botones en delantero. Variantes disponibles: MARRON / XS, MARRON / S, MARRON / M.</g:description>
       <g:link>https://renattandgo.cl/products/camisa-manga-corta-troquelados</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0766/7738/2244/files/p-57693-1-83cf2f65-ba49-48bb-aef1-fb97b51eed0f.jpg?v=1788358825</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -4320,10 +4320,10 @@
     <item>
       <g:id>8513257865316</g:id>
       <g:title>JERSEY VOLANTES LATERALES PESPUNTES</g:title>
-      <g:description>Jersey de punto de color gris con detalle de volantes en laterales con pespuntes en granate. Variantes disponibles: GRIS / U.</g:description>
+      <g:description>Jersey de punto de color gris con detalle de volantes en laterales con pespuntes en granate.</g:description>
       <g:link>https://renattandgo.cl/products/jersey-volantes-laterales-pespuntes-gris-57377</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0766/7738/2244/files/p-57377-1-2b6791fe-ff99-41db-a08b-4bfeb7c4310d.jpg?v=1776175701</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>35900.00 CLP</g:price>
       <g:sale_price>28790.00 CLP</g:sale_price>
       <g:brand>Renatta&amp;Go</g:brand>
@@ -8474,7 +8474,7 @@
     <item>
       <g:id>8719343419492</g:id>
       <g:title>CAMISA MANGA CORTA TROQUELADOS</g:title>
-      <g:description> Variantes disponibles: BLANCO / XS, BLANCO / M, BLANCO / L, MARRON / XS, MARRON / S, MARRON / M, MARRON / XL.</g:description>
+      <g:description> Variantes disponibles: BLANCO / XS, BLANCO / M, BLANCO / L, MARRON / XS, MARRON / S, MARRON / M.</g:description>
       <g:link>https://renattandgo.cl/products/camisa-manga-corta-troquelados-1</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0766/7738/2244/files/p-57692-1-ac5afb93-dcf0-498f-9726-8d513822aa84.jpg?v=1787088698</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -8799,10 +8799,10 @@
     <item>
       <g:id>8513529610340</g:id>
       <g:title>JERSEY VOLANTES LATERALES PESPUNTES</g:title>
-      <g:description> Variantes disponibles: GRIS / U.</g:description>
+      <g:description></g:description>
       <g:link>https://renattandgo.cl/products/jersey-volantes-laterales-pespuntes</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0766/7738/2244/files/p-57377-1-2b6791fe-ff99-41db-a08b-4bfeb7c4310d.jpg?v=1776175701</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>35900.00 CLP</g:price>
       <g:sale_price>28790.00 CLP</g:sale_price>
       <g:brand>Renatta Chile</g:brand>

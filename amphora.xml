@@ -5,6 +5,48 @@
     <link>https://amphora-cl.myshopify.com</link>
     <description>Catalogo completo de productos</description>
     <item>
+      <g:id>15484728607084</g:id>
+      <g:title>Mochila cloe mediana azul oscuro</g:title>
+      <g:description>Amamos los accesorios minimalistas. Te presentamos a Cloe de Amphora, la mochila perfecta en color azúl para acompañarte a todas partes, ya sea a la oficina o en tu día a día. Su combinación de colores y detalles exclusivos la hacen un modelo muy versátil. Confeccionada en PU graneado, de tamaño mediano, cuenta con dos compartimentos externos, tres internos y una tapa que protege todos tus objetos. Elegancia concentrada en un solo accesorio: Cloe, moderna y atemporal. Variantes disponibles: Única.</g:description>
+      <g:link>https://amphora-cl.myshopify.com/products/mochila-cloe-mediana-azul-oscuro</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/1748f1eb4790fa41-web-1600-22d4c26c-3b78-4855-9df3-04f7fd877497.jpg?v=1794502696</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>39990.00 CLP</g:price>
+      <g:sale_price>29990.00 CLP</g:sale_price>
+      <g:brand>Amphora</g:brand>
+      <g:product_type></g:product_type>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>14871856447852</g:id>
+      <g:title>Billetera cierre exterior catriel pequeña plateado</g:title>
+      <g:description>Catriel es un nuevo accesorio que viene a cargar de buenas energías tu cartera. Nuestra billetera mediana y cierre tiene la textura de PU liso que te encantará. Su abertura es a través de broche a presión y su interior tiene porta tarjetas, porta billetes y un bolsillo monedero con cierre. Súper funcional y cómoda para organizar tus cosas. Catriel baby!</g:description>
+      <g:link>https://amphora-cl.myshopify.com/products/billetera-cierre-exterior-pequena-catriel-plateado</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-70195159061-1-699ef647-b21c-4f1e-92de-86db9cdb5522.jpg?v=1756126830</g:image_link>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>14990.00 CLP</g:price>
+      <g:sale_price>11990.00 CLP</g:sale_price>
+      <g:brand>Amphora</g:brand>
+      <g:product_type>BILLETERA</g:product_type>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>15193840222572</g:id>
+      <g:title>Botin Taco kim cuero negro</g:title>
+      <g:description>Kim es un botín con taco en cuero grano negro, de estilo clásico con cordones. Un calzado con actitud que suma altura sin sacrificar comodidad. Perfecto para renovar tu colección de calzado con un diseño que combina con todo.</g:description>
+      <g:link>https://amphora-cl.myshopify.com/products/botin-taco-kim-cuero-negro</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/41d21dd4-2c9a-434b-b01a-e246abd0c42f-p-kimz24701-1-eb7bb2ce-fa6b-495f-be64-c4196e9c7fd2.jpg?v=1784667142</g:image_link>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>99990.00 CLP</g:price>
+      <g:sale_price>59990.00 CLP</g:sale_price>
+      <g:brand>Amphora</g:brand>
+      <g:product_type>BOTIN TACO</g:product_type>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>9468446277947</g:id>
       <g:title>Cartera tote tres divisiones noix mediana negro</g:title>
       <g:description>Aquellos clásicos modelos atemporales que son siempre bienvenidos en tu armario. Conoce nuestra cartera dos asas tres divisones Noix. Este modelo de Amphora confeccionada en PU graneado y es totalmente atemporal. Puedes usarla durante el díay llevar todo lo necesario, dado sus compartimientos internos. Además, cuenta con tres bolsillos internos para mantener todo de forma ordenada. Viene con asas cortas de mano y su strap regulable, que te permite llevarla al hombro o cruzada. So long, hello Dear Noix! Variantes disponibles: Única.</g:description>
@@ -61,7 +103,7 @@
     </item>
     <item>
       <g:id>15257602851180</g:id>
-      <g:title>DIANA ZAPATO TIPO REINA ROJO</g:title>
+      <g:title>Zapato Tipo reina diana rojo</g:title>
       <g:description>Diana suma el rojo a su versión tipo reina en cuero brillante, con herrajes niquelados. Un color intenso que no pasa desapercibido en looks formales o de fiesta. Cómodo para el uso diario y fácil de combinar con looks casuales o más formales. Variantes disponibles: Rojo / 37, Rojo / 36, Rojo / 35.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/zapato-tipo-reina-diana-rojo-2</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-dianaz22240-1-7cad6f0d-19ee-4584-8da2-544cdf96add6.jpg?v=1787282899</g:image_link>
@@ -201,20 +243,6 @@
       <g:price>45900.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
       <g:product_type></g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>15035737571692</g:id>
-      <g:title>Cartera bandolera cloe pequeña café</g:title>
-      <g:description>Ideal para moverte por la ciudad con estilo. La bandolera Cloe de Amphora en color café, confeccionada en PU, de tamaño pequeño y detalles dorados, combina diseño y funcionalidad, con correas anchas y cómodas, además de bolsillos internos y externos con cierre. ¿Lo mejor? Incluye un hanging perfecto para guardar dinero o llaves, aportando un toque moderno y práctico.. Variantes disponibles: Café / Única.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/cartera-bandolera-cloe-pequena-cafe</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042423400010-1-d60bd673-0710-4c90-b493-ab592233d8f6.jpg?v=1792151434</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>38990.00 CLP</g:price>
-      <g:sale_price>34990.00 CLP</g:sale_price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>BANDOLERA</g:product_type>
       <g:condition>new</g:condition>
       <g:identifier_exists>no</g:identifier_exists>
     </item>
@@ -737,7 +765,7 @@
       <g:title>Cartera bandolera metallique rosa viejo</g:title>
       <g:description>Metallique es una bandolera en PU metalizado rosa viejo, con cierre y herrajes pintados en negro. Ese brillo distinto suma personalidad a cualquier look. La opción ideal si buscas renovar tu colección de carteras con un toque de actitud. Variantes disponibles: Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-bandolera-metallique-rosa-viejo</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036434100058-1-be8ec06f-f308-4296-a685-15f21116a7d7.jpg?v=1793879663</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036434100058-1-dd224964-c36d-4e00-8d7f-92d8be3d2d3c.jpg?v=1793879663</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>36990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
@@ -776,7 +804,7 @@
       <g:title>Cartera bandolera allure rojo oscuro</g:title>
       <g:description>Allure suma el rojo oscuro a su versión en PU croco, con botón imantado y herrajes niquelados. Un color intenso con una textura distinta. Ideal para quienes buscan un diseño que combine funcionalidad y actitud en un mismo accesorio. Variantes disponibles: Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-bandolera-allure-rojo-oscuro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036434390044-1-b776f605-51b4-4b42-97a1-f5cb3587e501.jpg?v=1793879654</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036434390044-1-b404f6ee-dbe7-415b-b62b-9663c2bc229a.jpg?v=1793879654</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>38990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
@@ -893,7 +921,7 @@
       <g:title>Cartera tote porta notebook oblina blanco crudo</g:title>
       <g:description>Oblina también viene en PU graneado blanco crudo, esa tote porta notebook con cierre y herrajes niquelados. Organización total para tu día a día. Un diseño pensado para quienes están siempre en movimiento y necesitan practicidad sin perder estilo. Variantes disponibles: Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-tote-porta-notebook-oblina-blanco-crudo</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036434201357-1-bd0174df-fd79-4447-b66e-3b20c1913aac.jpg?v=1793879624</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036434201357-1-1ca0610d-e505-48e0-96b8-95f7dd2e51e6.jpg?v=1793879624</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>44990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
@@ -1023,7 +1051,7 @@
       <g:title>Cartera bandolera oblina negro</g:title>
       <g:description>Oblina también viene en PU graneado negro, en formato bandolera con cierre y herrajes niquelados. Una textura distinta y versátil. Un diseño pensado para acompañarte del trabajo a la salida, sin perder su encanto. Variantes disponibles: Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-bandolera-oblina-negro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036434160001-1-63a2dea2-2ea4-47d2-b36f-8f7fe1068c8f.jpg?v=1793879592</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036434160001-1-66c2ab82-780c-4d3c-8c02-0c43d14ba9bf.jpg?v=1793879592</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>36990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
@@ -1062,7 +1090,7 @@
       <g:title>Cartera bandolera isela beige oscuro</g:title>
       <g:description>Isela es una bandolera en PU graneado beige oscuro, con cierre y herrajes niquelados. Un diseño elegante y versátil para el día a día. Un básico que no puede faltar en tu colección, versátil para cualquier ocasión del día. Variantes disponibles: Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-bandolera-isela-beige-oscuro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036434410006-1-7c7f102b-df3f-466b-a902-28ae0da6ff4e.jpg?v=1793879583</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036434410006-1-a5204668-2355-4a22-80ad-6c457fcedf61.jpg?v=1793879583</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>29990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
@@ -1337,7 +1365,7 @@
       <g:title>Cartera bandolera malgaria rojo oscuro</g:title>
       <g:description>Malgaria es una bandolera en PU mix rojo oscuro, con cierre y herrajes niquelados. Un diseño versátil y elegante para el día a día. Ideal para quienes buscan un diseño que combine funcionalidad y actitud en un mismo accesorio. Variantes disponibles: Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-bandolera-malgaria-rojo-oscuro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036434350044-1-c14efc53-1b43-4fc5-848e-1e7126a61e0d.jpg?v=1793879520</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036434350044-1-d99a7368-952f-4139-84ce-59b85b2660d5.jpg?v=1793879520</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>38990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
@@ -2028,19 +2056,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>14623965708652</g:id>
-      <g:title>Botin taco samy cuero negro</g:title>
-      <g:description>El botín vaquero Samy by Amphora, es la elección para quienes buscan un calzado que combina con todo y lleno de carácter. Con un taco de 3 cm, Samy se inspira en el clásico estilo western, este botín de color negro y confeccionado en cuero, combina lo casual con un toque urbano, creando un diseño atemporal y versátil que complementa cualquier outfit.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/botin-taco-samy-negro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-samyz23701-3-aa512667-8467-4041-9f43-8461d7002201_752f16ed-e07e-4a2d-939e-5e52f53c6b34.jpg?v=1733311716</g:image_link>
-      <g:availability>out_of_stock</g:availability>
-      <g:price>84990.00 CLP</g:price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>BOTIN TACO</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>15257576210796</g:id>
       <g:title>Mochila durian café</g:title>
       <g:description>Durian suma el PU liso a su línea de mochilas café, con cierre, herrajes pintados en negro y 13 litros de capacidad. Una textura distinta con estilo. Se convierte en tu compañera ideal para cualquier plan, del trabajo a los viajes cortos. Variantes disponibles: Café / Única.</g:description>
@@ -2595,7 +2610,7 @@
       <g:title>Cartera bandolera trinidad mediana beige</g:title>
       <g:description>Trinidad suma el formato bandolera mediana a su colección, en PU graneado beige con cierre y herrajes en grafito. Un diseño versátil. Perfecta para llevar tus esenciales organizados sin sacrificar el estilo que te caracteriza. Variantes disponibles: Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-bandolera-trinidad-mediana-beige</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036435680005-1-003eb4a1-677b-410e-9201-9727bf85f802.jpg?v=1793738048</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036435680005-1-51301cf9-a354-42b3-b131-1fe22c088709.jpg?v=1793738048</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>36990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
@@ -3086,20 +3101,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>14878522999148</g:id>
-      <g:title>Hanging tarjetero con espejo lex rosa viejo</g:title>
-      <g:description>Lex es un colgante hanging con función de tarjetero y espejo, en PU snake rosa viejo de perfil clásico básico con botón a presión y herrajes dorado claro. Un accesorio práctico que renueva el look de tus carteras favoritas sin esfuerzo. Variantes disponibles: Rosa Viejo / Única.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/hanging-tarjetero-con-espejo-lex-rosa-viejo</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-7032h24558-1-d423ab62-9806-4873-b392-ff4321625c90.jpg?v=1757073696</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>11990.00 CLP</g:price>
-      <g:sale_price>6990.00 CLP</g:sale_price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>HANGING</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>9766412255547</g:id>
       <g:title>Cartera bandolera ostara mediana negro</g:title>
       <g:description>Su diseño no pasa desapercibido. Conoce nuestra Ostara, la cartera bandolera de Amphora, que combina lo mejor de un accesorio casual y sporty cool. Confeccionada en Nylon, su tamaño es mediana y tiene tres bolsillos internos, uno externo y uno trasero con cierre. Cuenta con su correa ajustable para acomodarla a tu estilo. Ostara es perfecta para transportar todo lo que necesitas en tus paseos por la ciudad o incluso llevarla a panoramas por la noche. ¡Nice to meet you! Variantes disponibles: Negro / Única.</g:description>
@@ -3209,7 +3210,7 @@
       <g:title>Cartera corte recto casimira café oscuro</g:title>
       <g:description>Casimira suma el café oscuro a su línea de corte recto, en canvas con cierre y herrajes niquelados. Un tono profundo con una textura distinta. Ese tipo de pieza que eleva un look casual y se vuelve protagonista en looks más elaborados. Variantes disponibles: Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-corte-recto-casimira-cafe-oscuro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036435420013-1-1f09c3de-1302-4f28-8557-300e1005964b.jpg?v=1793737940</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036435420013-1-a04f76ec-1a05-47f6-bb52-2926edc9a109.jpg?v=1793737944</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>42990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
@@ -3970,7 +3971,7 @@
       <g:title>Cartera tote porta notebook aferdita rosado</g:title>
       <g:description>Aferdita es una tote porta notebook en nylon rosado, con cierre y herrajes dorado claro. Práctica y organizada para llevar tu computador con estilo. Ideal para llevar tus esenciales organizados mientras te mueves con comodidad todo el día. Variantes disponibles: Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-tote-porta-notebook-aferdita-rosado</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042434471327-1-9e5d1c53-b332-4d0b-8889-0a452608e3e2.jpg?v=1793110708</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042434471327-1-6582a17c-8c39-42f0-bcfa-d7cf15aac9e1.jpg?v=1793110708</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>44990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
@@ -3983,7 +3984,7 @@
       <g:title>Cartera bandolera ornella pequeña rojo oscuro</g:title>
       <g:description>Ornella también viene en formato bandolera, en nylon rojo oscuro con cierre y herrajes niquelados. Un diseño elegante y práctico. Ideal para quienes buscan un diseño que combine funcionalidad y actitud en un mismo accesorio. Variantes disponibles: Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-bandolera-ornella-pequena-rojo-oscuro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042435850044-1-7e33339e-bc0b-4403-bd60-69e113132ac6.jpg?v=1793110702</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042435850044-1-a9127849-ed7f-4b8a-ba9c-93349b866621.jpg?v=1793110702</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>36990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
@@ -9401,7 +9402,7 @@
     <item>
       <g:id>14879319490924</g:id>
       <g:title>Sandalia leonor cuero negro</g:title>
-      <g:description>Sandalias Amphora Leonor con cuña de yute y estampado animal print, un diseño audaz que eleva cualquier look. Un básico que se convierte en el complemento perfecto para tu estilo personal. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día.. Variantes disponibles: Negro / 36, Negro / 37.</g:description>
+      <g:description>Sandalias Amphora Leonor con cuña de yute y estampado animal print, un diseño audaz que eleva cualquier look. Un básico que se convierte en el complemento perfecto para tu estilo personal. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Variantes disponibles: Negro / 36, Negro / 37.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-leonor-cuero-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-leonorz29801-1-0e09b932-9695-498f-9b62-99c1f080ac89.jpg?v=1757074631</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -10502,7 +10503,7 @@
     <item>
       <g:id>15257596887404</g:id>
       <g:title>Zapato Tipo reina luna beige oscuro</g:title>
-      <g:description>Luna repite su versión tipo reina en beige oscuro, ese zapato elegante y versátil que combina looks de oficina con salidas formales sin esfuerzo. Cómodo para el uso diario y fácil de combinar con looks casuales o más formales. Variantes disponibles: Beige Oscuro / 36, Beige Oscuro / 37, Beige Oscuro / 38, Beige Oscuro / 39.</g:description>
+      <g:description>Luna repite su versión tipo reina en beige oscuro, ese zapato elegante y versátil que combina looks de oficina con salidas formales sin esfuerzo. Cómodo para el uso diario y fácil de combinar con looks casuales o más formales. Variantes disponibles: Beige Oscuro / 37, Beige Oscuro / 38, Beige Oscuro / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/zapato-tipo-reina-luna-beige-oscuro-1</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-lunaz28306-1-8252c4a3-b138-4dbe-9f15-ebca248a93fe.jpg?v=1787288403</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -10595,7 +10596,7 @@
     <item>
       <g:id>14623967871340</g:id>
       <g:title>Sandalia carolina cuero café</g:title>
-      <g:description>Descubre las sandalias Carolina by Amphora, una fusión perfecta entre estilo y comodidad. Confeccionadas en cuero, estas sandalias de color café, presentan un diseño elegante y versátil, ideal para acompañarte en cualquier ocasión, desde un día de oficina hasta una salida nocturna. Con un taco de 4 cm estilo cuña y detalles en dorado claro, son la elección perfecta para esta temporada.. Variantes disponibles: Café / 35, Café / 36, Café / 37, Café / 38, Café / 39, Café / 40.</g:description>
+      <g:description>Descubre las sandalias Carolina by Amphora, una fusión perfecta entre estilo y comodidad. Confeccionadas en cuero, estas sandalias de color café, presentan un diseño elegante y versátil, ideal para acompañarte en cualquier ocasión, desde un día de oficina hasta una salida nocturna. Con un taco de 4 cm estilo cuña y detalles en dorado claro, son la elección perfecta para esta temporada. Variantes disponibles: Café / 35, Café / 36, Café / 37, Café / 38, Café / 39, Café / 40.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-carolina-cafe</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/carolinaz23110-4-1-e5e4b018-cb8d-4e61-9756-77f66e4bcd1e_1c375e07-93a7-4d58-8be0-80c90be0c83c.jpg?v=1733311856</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -10909,7 +10910,7 @@
     <item>
       <g:id>9719020388667</g:id>
       <g:title>Sandalia salma cuero camel</g:title>
-      <g:description>Salma es una sandalia en cuero camel, con hebilla ajustable para un calce perfecto. El calzado infaltable de la temporada cálida, cómodo para caminar todo el día sin perder estilo. Cómodo para el uso diario y fácil de combinar con looks casuales o más formales.. Variantes disponibles: Camel / 38.</g:description>
+      <g:description>Salma es una sandalia en cuero camel, con hebilla ajustable para un calce perfecto. El calzado infaltable de la temporada cálida, cómodo para caminar todo el día sin perder estilo. Cómodo para el uso diario y fácil de combinar con looks casuales o más formales. Variantes disponibles: Camel / 38.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-salma-camel</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-salmaz19107-1-883f12c5-fb92-42d7-a79d-f881ab061cdb.jpg?v=1733311760</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -10923,7 +10924,7 @@
     <item>
       <g:id>14628226040172</g:id>
       <g:title>Sandalia ruth cuero café</g:title>
-      <g:description>Las sandalias estilo alpargata Ruth by Amphora que se transforma en la mejor opción para el verano. Este diseño es cómodo, ondero y combinable con todo. Confeccionada en cuero, de color café y con detalles en dorado claro, Ruth posee una plataforma de cuña de 4 cm, que te dará altura y te hará sentir fresca en cualquier momento del día.. Variantes disponibles: Café / 37, Café / 36, Café / 38, Café / 35.</g:description>
+      <g:description>Las sandalias estilo alpargata Ruth by Amphora que se transforma en la mejor opción para el verano. Este diseño es cómodo, ondero y combinable con todo. Confeccionada en cuero, de color café y con detalles en dorado claro, Ruth posee una plataforma de cuña de 4 cm, que te dará altura y te hará sentir fresca en cualquier momento del día. Variantes disponibles: Café / 37, Café / 36, Café / 38, Café / 35.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-ruth-cafe</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-ruthz22707-2-fc57bf3a-d1d2-452a-8c9e-bbb3fac3375d.jpg?v=1789585114</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -10965,7 +10966,7 @@
     <item>
       <g:id>9628274786619</g:id>
       <g:title>Sandalia marta cuero negro</g:title>
-      <g:description>Marta es una sandalia en cuero negro, cómoda y versátil para los días de calor. El calzado que combina con todo, de looks urbanos a paseos de playa. Ideal para acompañarte todo el día, de la oficina a tus planes después del trabajo.. Variantes disponibles: Negro / 38, Negro / 37, Negro / 36, Negro / 35.</g:description>
+      <g:description>Marta es una sandalia en cuero negro, cómoda y versátil para los días de calor. El calzado que combina con todo, de looks urbanos a paseos de playa. Ideal para acompañarte todo el día, de la oficina a tus planes después del trabajo. Variantes disponibles: Negro / 38, Negro / 37, Negro / 36, Negro / 35.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-marta-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-martaz17701-1-44d6d8b1-aef4-4f69-aa22-569d9c5f66f8.jpg?v=1789652116</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -11049,7 +11050,7 @@
     <item>
       <g:id>14879321424236</g:id>
       <g:title>Sandalia margot cuero negro</g:title>
-      <g:description>Sandalia Amphora Margot con diseño minimalista y suela ligera, perfecta para el día a día con un look fresco y relajado. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Ideal para quienes buscan un diseño versátil que combine con cualquier look.. Variantes disponibles: Negro / 35, Negro / 36, Negro / 37, Negro / 38.</g:description>
+      <g:description>Sandalia Amphora Margot con diseño minimalista y suela ligera, perfecta para el día a día con un look fresco y relajado. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Variantes disponibles: Negro / 35, Negro / 36, Negro / 37, Negro / 38.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-margot-cuero-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-margotz29101-1-6ec199a4-818c-4c7c-93f1-cc4b9fcbda8f.jpg?v=1757075301</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -11118,7 +11119,7 @@
     <item>
       <g:id>14623994839404</g:id>
       <g:title>Sandalia carolina cuero blanco crudo</g:title>
-      <g:description>Descubre las sandalias Carolina by Amphora, una fusión perfecta entre estilo y comodidad. Confeccionadas en cuero, estas sandalias de color blanco crudo, presentan un diseño elegante y versátil, ideal para acompañarte en cualquier ocasión, desde un día de oficina hasta una salida nocturna. Con un taco de 4 cm estilo cuña y detalles en dorado claro, son la elección perfecta para esta temporada.. Variantes disponibles: Blanco Crudo / 36, Blanco Crudo / 37, Blanco Crudo / 38, Blanco Crudo / 39.</g:description>
+      <g:description>Descubre las sandalias Carolina by Amphora, una fusión perfecta entre estilo y comodidad. Confeccionadas en cuero, estas sandalias de color blanco crudo, presentan un diseño elegante y versátil, ideal para acompañarte en cualquier ocasión, desde un día de oficina hasta una salida nocturna. Con un taco de 4 cm estilo cuña y detalles en dorado claro, son la elección perfecta para esta temporada. Variantes disponibles: Blanco Crudo / 36, Blanco Crudo / 37, Blanco Crudo / 38, Blanco Crudo / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-carolina-blanco-crudo</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/carolinaz23157-4-1-31bec984-28ae-4d70-9ede-3bbacc03b93f_05491486-1d65-43cd-ac0e-018cc7e1dd4a.jpg?v=1733311701</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -11132,7 +11133,7 @@
     <item>
       <g:id>14881674920300</g:id>
       <g:title>Sandalia freya cuero negro</g:title>
-      <g:description>Sandalias Amphora Freya con diseño animal print, un básico trendy que aporta carácter a cualquier look. Un básico que se convierte en el complemento perfecto para tu estilo personal. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día.. Variantes disponibles: Negro / 35, Negro / 36, Negro / 37, Negro / 38.</g:description>
+      <g:description>Sandalias Amphora Freya con diseño animal print, un básico trendy que aporta carácter a cualquier look. Un básico que se convierte en el complemento perfecto para tu estilo personal. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Variantes disponibles: Negro / 35, Negro / 36, Negro / 37, Negro / 38.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-freya-cuero-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-freyaz30001-1-b0e7fc54-5d0d-4c28-a7a1-d324303635e5.jpg?v=1757430243</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -11173,7 +11174,7 @@
     <item>
       <g:id>14879320015212</g:id>
       <g:title>Sandalia margot cuero café</g:title>
-      <g:description>Sandalias Margot de Amphora, un modelo cómodo y ligero que aporta frescura a tus outfits urbanos. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Un básico que se convierte en el complemento perfecto para tu estilo personal.. Variantes disponibles: Café / 35, Café / 36, Café / 37, Café / 38.</g:description>
+      <g:description>Sandalias Margot de Amphora, un modelo cómodo y ligero que aporta frescura a tus outfits urbanos. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Un básico que se convierte en el complemento perfecto para tu estilo personal. Variantes disponibles: Café / 35, Café / 36, Café / 37, Café / 38.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-margot-cuero-cafe</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-margotz29110-1-ff54cc50-dc48-4af3-9cc1-2f6d3df48b0e.jpg?v=1757075324</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -11215,7 +11216,7 @@
     <item>
       <g:id>9805075153211</g:id>
       <g:title>Sandalia ruth cuero negro</g:title>
-      <g:description>Las sandalias estilo alpargata Ruth by Amphora que se transforma en la mejor opción para el verano. Este diseño es cómodo, ondero y combinable con todo. Confeccionada en cuero, de color negro y con detalles en dorado claro, Ruth posee una plataforma de cuña de 4 cm, que te dará altura y te hará sentir fresca en cualquier momento del día.. Variantes disponibles: Negro / 37, Negro / 38, Negro / 36, Negro / 39.</g:description>
+      <g:description>Las sandalias estilo alpargata Ruth by Amphora que se transforma en la mejor opción para el verano. Este diseño es cómodo, ondero y combinable con todo. Confeccionada en cuero, de color negro y con detalles en dorado claro, Ruth posee una plataforma de cuña de 4 cm, que te dará altura y te hará sentir fresca en cualquier momento del día. Variantes disponibles: Negro / 37, Negro / 38, Negro / 36, Negro / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-ruth-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/ruthz22701-2-1-1-a3c4bebb-955c-4aa8-b79d-588111e5dcbc.jpg?v=1733311612</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -11243,7 +11244,7 @@
     <item>
       <g:id>14623429656940</g:id>
       <g:title>Sandalia karina cuero blanco crudo</g:title>
-      <g:description>Nuestra Karina by Amphora es ese modelo cómodo y moderno que llamará la atención por donde la lleves. Confeccionado en cuero y con un diseño que traspasa temporadas, estas sandalias de color blanco, con detalles en dorado claro, poseen una plataforma de 3 cm ideal para caminar por la ciudad. Karina se convertirá en tu partner diario. We love it!. Variantes disponibles: 37.</g:description>
+      <g:description>Nuestra Karina by Amphora es ese modelo cómodo y moderno que llamará la atención por donde la lleves. Confeccionado en cuero y con un diseño que traspasa temporadas, estas sandalias de color blanco, con detalles en dorado claro, poseen una plataforma de 3 cm ideal para caminar por la ciudad. Karina se convertirá en tu partner diario. We love it! Variantes disponibles: 37.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-karina-blanco-crudo</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/karinaz22957-2-1-f2bba40e-0d80-484c-9f59-67831d0778bb.jpg?v=1733311774</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -11379,7 +11380,7 @@
     <item>
       <g:id>15193844121964</g:id>
       <g:title>Zapato matilda cuero negro</g:title>
-      <g:description>Matilda es un zapato en cuero negro, de estilo clásico. Un básico versátil que combina con looks de oficina o salidas casuales sin esfuerzo. Cómodo para el uso diario y fácil de combinar con looks casuales o más formales.. Variantes disponibles: Negro / 36, Negro / 35.</g:description>
+      <g:description>Matilda es un zapato en cuero negro, de estilo clásico. Un básico versátil que combina con looks de oficina o salidas casuales sin esfuerzo. Cómodo para el uso diario y fácil de combinar con looks casuales o más formales. Variantes disponibles: Negro / 36, Negro / 35.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/zapato-matilda-cuero-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/86cf2e09-3632-4ab3-b9de-a53269de120a-p-matildaz25101-1-d7019bbd-6c27-4277-9bc5-bdf47237f0dd.jpg?v=1784667171</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -11435,9 +11436,9 @@
     <item>
       <g:id>14914656797036</g:id>
       <g:title>Cinturón victoria negro</g:title>
-      <g:description>Victoria es un cinturón en PU liso negro, de perfil clásico básico con hebilla dorado claro. El accesorio infaltable para marcar la cintura con estilo. El accesorio perfecto para marcar la cintura y darle estructura a cualquier look, casual o formal.. Variantes disponibles: Negro / L.</g:description>
+      <g:description>Victoria es un cinturón en PU liso negro, de perfil clásico básico con hebilla dorado claro. El accesorio infaltable para marcar la cintura con estilo. El accesorio perfecto para marcar la cintura y darle estructura a cualquier look, casual o formal. Variantes disponibles: Negro / L.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cinturon-victoria-negro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-victoriab45601-1-a131c61f-2ec2-4219-8d5b-11457a62ce63.jpg?v=1760700878</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-victoriab45601-1-51581c9e-985b-4377-af5e-96e359961ed7.jpg?v=1760700878</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>11990.00 CLP</g:price>
       <g:sale_price>9990.00 CLP</g:sale_price>
@@ -11463,7 +11464,7 @@
     <item>
       <g:id>9805075546427</g:id>
       <g:title>Sandalia pasy cuero negro</g:title>
-      <g:description>Comfy always con nuestras Pasy by Amphora. Las sandalias que te acompañarán a todo momento por su estilo casual chic esta primavera-verano. Confeccionada en cuero, de color negro y con una plataforma de 3 cm de color blanca, son ideales para combinarlas de día o de noche. Pasy you are the perfect match!. Variantes disponibles: Negro / 37, Negro / 36, Negro / 35.</g:description>
+      <g:description>Comfy always con nuestras Pasy by Amphora. Las sandalias que te acompañarán a todo momento por su estilo casual chic esta primavera-verano. Confeccionada en cuero, de color negro y con una plataforma de 3 cm de color blanca, son ideales para combinarlas de día o de noche. Pasy you are the perfect match! Variantes disponibles: Negro / 37, Negro / 36, Negro / 35.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-pasy-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/pasyz23801-1-1-75f33ab2-0fba-4078-b73c-8274fda2aa21.jpg?v=1733311796</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -11491,7 +11492,7 @@
     <item>
       <g:id>14732726698348</g:id>
       <g:title>Botin Taco sandra cuero camel</g:title>
-      <g:description>Sandra es un botín con taco en cuero suave camel, de estilo clásico con cierre lateral. Cómodo y versátil, es tu aliado para looks casuales de temporada fría. Ideal para acompañarte todo el día, de la oficina a tus planes después del trabajo.. Variantes disponibles: Camel / 37, Camel / 36, Camel / 35.</g:description>
+      <g:description>Sandra es un botín con taco en cuero suave camel, de estilo clásico con cierre lateral. Cómodo y versátil, es tu aliado para looks casuales de temporada fría. Ideal para acompañarte todo el día, de la oficina a tus planes después del trabajo. Variantes disponibles: Camel / 37, Camel / 36, Camel / 35.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/botin-taco-sandra-camel</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-sandraz24407-1-86dc659c-afb2-43d3-a17a-6c6ca1c80d59.jpg?v=1746813154</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -11531,7 +11532,7 @@
     <item>
       <g:id>15043215491436</g:id>
       <g:title>Cinturón paula negro</g:title>
-      <g:description>El estilo vive en los detalles silver. El cinturón Paula de Amphora es ese toque rock justo que eleva cualquier look sin esfuerzo. Su diseño en PU liso con acentos plateados suma actitud y hace que combine fácil con todo. En tono negro, es el complemento perfecto para darle personalidad a tu outfit, de día o de noche. Cool, versátil y con carácter. Paula, total crush.. Variantes disponibles: Negro / L, Negro / S.</g:description>
+      <g:description>El estilo vive en los detalles silver. El cinturón Paula de Amphora es ese toque rock justo que eleva cualquier look sin esfuerzo. Su diseño en PU liso con acentos plateados suma actitud y hace que combine fácil con todo. En tono negro, es el complemento perfecto para darle personalidad a tu outfit, de día o de noche. Cool, versátil y con carácter. Paula, total crush. Variantes disponibles: Negro / L, Negro / S.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cinturon-paula-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-paulab48101-1-c78ed5a3-8ebc-4278-b97e-92bd0ebd5105.jpg?v=1773066254</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -11545,7 +11546,7 @@
     <item>
       <g:id>15082768728428</g:id>
       <g:title>Botin Taco mae cuero negro</g:title>
-      <g:description>Mae es un botín con taco en cuero grano negro, de estilo clásico con cordones. Un calzado con actitud que suma altura sin sacrificar comodidad. Cómodo para el uso diario y fácil de combinar con looks casuales o más formales.. Variantes disponibles: Negro / 36.</g:description>
+      <g:description>Mae es un botín con taco en cuero grano negro, de estilo clásico con cordones. Un calzado con actitud que suma altura sin sacrificar comodidad. Cómodo para el uso diario y fácil de combinar con looks casuales o más formales. Variantes disponibles: Negro / 36.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/botin-taco-mae-cuero-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-maez25801-1-a6ea9e45-801c-4c66-9cef-924c3511337b-52d5b563-f044-42a2-8d88-55a8a25d1c8b.jpg?v=1776360665</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -11559,7 +11560,7 @@
     <item>
       <g:id>14879320932716</g:id>
       <g:title>Zapatilla stella cuero negro</g:title>
-      <g:description>Zapatillas Amphora Stella con acabado metálico brillante, un diseño urbano que combina estilo y comodidad para tu día a día. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Ideal para quienes buscan un diseño versátil que combine con cualquier look.. Variantes disponibles: Negro / 36.</g:description>
+      <g:description>Zapatillas Amphora Stella con acabado metálico brillante, un diseño urbano que combina estilo y comodidad para tu día a día. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Variantes disponibles: Negro / 36.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/zapatilla-stella-cuero-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-stellaz29001-1-c253b14f-c24d-493f-bf3a-079f59847f02.jpg?v=1789587045</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -11601,7 +11602,7 @@
     <item>
       <g:id>14879319523692</g:id>
       <g:title>Sandalia crystal cuero negro</g:title>
-      <g:description>Mule Amphora Crystal con diseño cerrado y tachas metálicas, un modelo urbano que combina comodidad y estilo. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Ideal para quienes buscan un diseño versátil que combine con cualquier look.. Variantes disponibles: 35, 36.</g:description>
+      <g:description>Mule Amphora Crystal con diseño cerrado y tachas metálicas, un modelo urbano que combina comodidad y estilo. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Variantes disponibles: 35, 36.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-crystal-cuero-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-crystalz30901-4-be27eab0-6084-4823-a7bf-e2154a074cc1.jpg?v=1789583353</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -11657,7 +11658,7 @@
     <item>
       <g:id>14721360167276</g:id>
       <g:title>Botin Taco mae cuero beige</g:title>
-      <g:description>Mae es un botín con taco en cuero grano beige, de estilo clásico con cordones. Un calzado con actitud que suma altura sin sacrificar comodidad. Cómodo para el uso diario y fácil de combinar con looks casuales o más formales.. Variantes disponibles: Beige / 37, Beige / 36, Beige / 38, Beige / 35.</g:description>
+      <g:description>Mae es un botín con taco en cuero grano beige, de estilo clásico con cordones. Un calzado con actitud que suma altura sin sacrificar comodidad. Cómodo para el uso diario y fácil de combinar con looks casuales o más formales. Variantes disponibles: Beige / 37, Beige / 36, Beige / 38, Beige / 35.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/botin-taco-mae-beige</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-maez25805-1-97323c2a-9730-48c8-abaf-2a3c50ae465e.jpg?v=1745261863</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -11685,7 +11686,7 @@
     <item>
       <g:id>14879321129324</g:id>
       <g:title>Zapato tipo reina luna cuero animal print</g:title>
-      <g:description>Perfectos para un almuerzo de negocios, los Luna transmiten profesionalismo y estilo. Un básico que se convierte en el complemento perfecto para tu estilo personal. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día.. Variantes disponibles: Negro especial / 36, Negro especial / 37.</g:description>
+      <g:description>Perfectos para un almuerzo de negocios, los Luna transmiten profesionalismo y estilo. Un básico que se convierte en el complemento perfecto para tu estilo personal. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Variantes disponibles: Negro especial / 36, Negro especial / 37.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/zapato-taco-tipo-reina-luna-cuero-negro-especial</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-lunaz28356-1-c477cdc8-7d03-481d-b09d-62db89ddedbb.jpg?v=1757075088</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -11796,7 +11797,7 @@
     <item>
       <g:id>14879319556460</g:id>
       <g:title>Sueco onyx cuero negro</g:title>
-      <g:description>Mule Amphora Onyx con acabado en gamuza sintética y apliques metálicos, un diseño moderno y urbano. Un básico que se convierte en el complemento perfecto para tu estilo personal. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día.. Variantes disponibles: 35, 36, 37.</g:description>
+      <g:description>Mule Amphora Onyx con acabado en gamuza sintética y apliques metálicos, un diseño moderno y urbano. Un básico que se convierte en el complemento perfecto para tu estilo personal. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Variantes disponibles: 35, 36, 37.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-onyx-cuero-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-onyxz31001-1-fc496fef-0cd5-4294-adac-5bc8da7d3684.jpg?v=1757074630</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -11810,7 +11811,7 @@
     <item>
       <g:id>14721358004588</g:id>
       <g:title>Botin Taco kristen cuero beige</g:title>
-      <g:description>Kristen es un botín con taco en cuero brillante beige, de estilo clásico con cierre lateral. Un calzado con actitud que suma altura sin sacrificar comodidad. Perfecto para renovar tu colección de calzado con un diseño que combina con todo.. Variantes disponibles: Beige / 37, Beige / 38, Beige / 39.</g:description>
+      <g:description>Kristen es un botín con taco en cuero brillante beige, de estilo clásico con cierre lateral. Un calzado con actitud que suma altura sin sacrificar comodidad. Perfecto para renovar tu colección de calzado con un diseño que combina con todo. Variantes disponibles: Beige / 37, Beige / 38, Beige / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/botin-taco-kristen-beige</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-kristenz26005-1-efdf4ed0-f2f8-417a-8855-bc116ec7a693.jpg?v=1745261319</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -11824,7 +11825,7 @@
     <item>
       <g:id>14881675673964</g:id>
       <g:title>Sandalia bianca cuero negro especial</g:title>
-      <g:description>El equilibrio ideal entre moda y confort: las sandalias Amphora Bianca ofrecen soporte con su taco medio y un diseño chic para el día a día. Un básico que se convierte en el complemento perfecto para tu estilo personal.. Variantes disponibles: Negro especial / 36, Negro especial / 37, Negro especial / 39.</g:description>
+      <g:description>El equilibrio ideal entre moda y confort: las sandalias Amphora Bianca ofrecen soporte con su taco medio y un diseño chic para el día a día. Un básico que se convierte en el complemento perfecto para tu estilo personal. Variantes disponibles: Negro especial / 36, Negro especial / 37, Negro especial / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-bianca-cuero-negro-especial</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-biancaz28556-1-aeeadb7a-cf0a-4059-9e56-3c4314dca0e3.jpg?v=1757431211</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -11851,7 +11852,7 @@
     <item>
       <g:id>14732726763884</g:id>
       <g:title>Botin Taco jacinta cuero negro</g:title>
-      <g:description>Effortlessly chic! Los botines Jacinta en negro son ideales para quienes buscan un look fresco y sofisticado. Hechos en cuero 100%, su tono neutro los convierte en el complemento perfecto para cualquier outfit. Su taco de 3 cm aporta comodidad y un toque de altura sutil, mientras que el cierre lateral asegura un ajuste fácil y rápido. Combinan increíble con denim, tonos tierra o total white looks. Livianos, versátiles y listos para acompañarte en cualquier ocasión. ¿Te animas?. Variantes disponibles: Negro / 36, Negro / 38, Negro / 39.</g:description>
+      <g:description>Effortlessly chic! Los botines Jacinta en negro son ideales para quienes buscan un look fresco y sofisticado. Hechos en cuero 100%, su tono neutro los convierte en el complemento perfecto para cualquier outfit. Su taco de 3 cm aporta comodidad y un toque de altura sutil, mientras que el cierre lateral asegura un ajuste fácil y rápido. Combinan increíble con denim, tonos tierra o total white looks. Livianos, versátiles y listos para acompañarte en cualquier ocasión. ¿Te animas? Variantes disponibles: Negro / 36, Negro / 38, Negro / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/botin-taco-jacinta-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/fab847f65622c2aa-web-1600-3594aef1-e07e-4127-98e7-38d8ef5a6654.jpg?v=1793755394</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -11865,7 +11866,7 @@
     <item>
       <g:id>14962699207020</g:id>
       <g:title>Zapatilla susana cuero dorado medio</g:title>
-      <g:description>Susana es una zapatilla en cuero grano dorado medio, de estilo clásico con herrajes dorado claro. Cómoda para el día a día y fácil de combinar con looks casuales. Un básico versátil que se adapta a cualquier ocasión sin sacrificar comodidad.. Variantes disponibles: Dorado Medio / 36.</g:description>
+      <g:description>Susana es una zapatilla en cuero grano dorado medio, de estilo clásico con herrajes dorado claro. Cómoda para el día a día y fácil de combinar con looks casuales. Un básico versátil que se adapta a cualquier ocasión sin sacrificar comodidad. Variantes disponibles: Dorado Medio / 36.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/zapatilla-susana-cuero-dorado-medio-1</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-susanaz23167-1-9653d68a-3735-4b64-898c-1de58307bb34.jpg?v=1764247978</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -11879,7 +11880,7 @@
     <item>
       <g:id>14756072718700</g:id>
       <g:title>Botin Taco colbert cuero plateado oscuro</g:title>
-      <g:description>Shine with every step! Los botines Colbert en plateado oscuro son la pieza clave para quienes buscan un look con actitud. Confeccionados en cuero brillante 100%, su acabado metálico les da un aire futurista y sofisticado. Su taco de 3 cm ofrece un balance ideal entre comodidad y estilo, mientras que el cierre lateral facilita el ajuste. Perfectos para combinar con total black, tonos neutros o incluso un toque de color. Audaces, versátiles y con ese glow especial. ¿Te atreves?. Variantes disponibles: Plateado Oscuro / 37, Plateado Oscuro / 36, Plateado Oscuro / 38, Plateado Oscuro / 35.</g:description>
+      <g:description>Shine with every step! Los botines Colbert en plateado oscuro son la pieza clave para quienes buscan un look con actitud. Confeccionados en cuero brillante 100%, su acabado metálico les da un aire futurista y sofisticado. Su taco de 3 cm ofrece un balance ideal entre comodidad y estilo, mientras que el cierre lateral facilita el ajuste. Perfectos para combinar con total black, tonos neutros o incluso un toque de color. Audaces, versátiles y con ese glow especial. ¿Te atreves? Variantes disponibles: Plateado Oscuro / 37, Plateado Oscuro / 36, Plateado Oscuro / 38, Plateado Oscuro / 35.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/botin-taco-colbert-plateado-oscuro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-colbertz24662-1-6e500de9-860f-4d0f-a550-dbf543f61eb6.jpg?v=1789583747</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -11907,7 +11908,7 @@
     <item>
       <g:id>14879319359852</g:id>
       <g:title>Ballerina iris cuero negro</g:title>
-      <g:description>Sandalias Amphora Capri con plataforma de madera y tiras cruzadas, un diseño retro con estilo moderno. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Un básico que se convierte en el complemento perfecto para tu estilo personal.. Variantes disponibles: Negro / 35, Negro / 36, Negro / 37, Negro / 38.</g:description>
+      <g:description>Sandalias Amphora Capri con plataforma de madera y tiras cruzadas, un diseño retro con estilo moderno. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Un básico que se convierte en el complemento perfecto para tu estilo personal. Variantes disponibles: Negro / 35, Negro / 36, Negro / 37, Negro / 38.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/ballerina-iris-cuero-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-irisz28201-1-95bb4931-a45f-4952-b7fc-bb0155e4aa33.jpg?v=1789586535</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -11921,7 +11922,7 @@
     <item>
       <g:id>14732726665580</g:id>
       <g:title>Botin Taco sandra cuero negro</g:title>
-      <g:description>Sandra es un botín con taco en cuero suave negro, de estilo clásico con cierre lateral. Cómodo y versátil, es tu aliado para looks casuales de temporada fría. Ideal para acompañarte todo el día, de la oficina a tus planes después del trabajo.. Variantes disponibles: Negro / 36.</g:description>
+      <g:description>Sandra es un botín con taco en cuero suave negro, de estilo clásico con cierre lateral. Cómodo y versátil, es tu aliado para looks casuales de temporada fría. Ideal para acompañarte todo el día, de la oficina a tus planes después del trabajo. Variantes disponibles: Negro / 36.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/botin-taco-sandra-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-sandraz24401-1-0ad0e076-9e4a-473a-9a72-489e37d5c7a1.jpg?v=1746813119</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -11949,7 +11950,7 @@
     <item>
       <g:id>14623964627308</g:id>
       <g:title>Sandalia helga cuero camel</g:title>
-      <g:description>Las plataformas que no podrás sacarte esta temporada. Nuestras Helga by Amphora, confeccionada en cuero son de alto impacto. Con un color camel predominante y una plataforma de 7 cm y pequeños detalles en dorado, son perfectas para usarla de día o de noche. Helga no pasa desapercibida en ningún lugar.. Variantes disponibles: Camel / 37, Camel / 36, Camel / 38.</g:description>
+      <g:description>Las plataformas que no podrás sacarte esta temporada. Nuestras Helga by Amphora, confeccionada en cuero son de alto impacto. Con un color camel predominante y una plataforma de 7 cm y pequeños detalles en dorado, son perfectas para usarla de día o de noche. Helga no pasa desapercibida en ningún lugar. Variantes disponibles: Camel / 37, Camel / 36, Camel / 38.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-helga-camel</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-helgaz22707-2-a3a062d2-d621-4390-bd04-d43a24c4bb81.jpg?v=1789583880</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -11977,7 +11978,7 @@
     <item>
       <g:id>14623964135788</g:id>
       <g:title>Sandalia pasy cuero camel</g:title>
-      <g:description>Comfy always con nuestras Pasy by Amphora. Las sandalias que te acompañarán a todo momento por su estilo casual chic esta primavera-verano. Confeccionada en cuero, de color camel y con una plataforma de 3 cm de color blanca, son ideales para combinarlas de día o de noche. Pasy you are the perfect match!. Variantes disponibles: Camel / 36.</g:description>
+      <g:description>Comfy always con nuestras Pasy by Amphora. Las sandalias que te acompañarán a todo momento por su estilo casual chic esta primavera-verano. Confeccionada en cuero, de color camel y con una plataforma de 3 cm de color blanca, son ideales para combinarlas de día o de noche. Pasy you are the perfect match! Variantes disponibles: Camel / 36.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-pasy-camel</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-pasyz23807-2-1bb6d38c-a87b-4549-9cb6-72c80e1e0421_68a5b2ae-da30-4f0c-af22-99ea7fb765a9.jpg?v=1733311779</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -12005,7 +12006,7 @@
     <item>
       <g:id>14879320244588</g:id>
       <g:title>Sandalia amber cuero negro</g:title>
-      <g:description>Sandalias Amphora Amber con plataforma de corcho y diseño moderno, ideales para looks frescos y versátiles. Un básico que se convierte en el complemento perfecto para tu estilo personal. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día.. Variantes disponibles: Negro / 36, Negro / 37, Negro / 38.</g:description>
+      <g:description>Sandalias Amphora Amber con plataforma de corcho y diseño moderno, ideales para looks frescos y versátiles. Un básico que se convierte en el complemento perfecto para tu estilo personal. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Variantes disponibles: Negro / 36, Negro / 37, Negro / 38.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-amber-cuero-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-amberz29701-1-a3484e29-11e4-45af-8135-b68f10d0c856.jpg?v=1789585301</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -12032,7 +12033,7 @@
     <item>
       <g:id>14623963218284</g:id>
       <g:title>Sandalia miare cuero café</g:title>
-      <g:description>Muy chic es nuestra sandalia Miare. Este modelo by Amphora es un must have para esos días de oficina o salidas con amigas. Confeccionada en cuero, con una plataforma de 4 cm, es ideal para andar cómoda y con estilo. diseñada en color café predominante y con toques en dorado claro, Miare se convierte en el zapato ideal para este verano.. Variantes disponibles: Café / 37, Café / 38, Café / 39.</g:description>
+      <g:description>Muy chic es nuestra sandalia Miare. Este modelo by Amphora es un must have para esos días de oficina o salidas con amigas. Confeccionada en cuero, con una plataforma de 4 cm, es ideal para andar cómoda y con estilo. diseñada en color café predominante y con toques en dorado claro, Miare se convierte en el zapato ideal para este verano. Variantes disponibles: Café / 37, Café / 38, Café / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-miare-cafe</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/miarez22110-4-1-c2b8e71f-5bf6-429a-be28-d8d7673da0d6.jpg?v=1733311653</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -12060,7 +12061,7 @@
     <item>
       <g:id>15193843204460</g:id>
       <g:title>Zapato matilda cuero camel</g:title>
-      <g:description>Matilda es un zapato en cuero camel, de estilo clásico. Un básico versátil que combina con looks de oficina o salidas casuales sin esfuerzo. Cómodo para el uso diario y fácil de combinar con looks casuales o más formales.. Variantes disponibles: Camel / 36.</g:description>
+      <g:description>Matilda es un zapato en cuero camel, de estilo clásico. Un básico versátil que combina con looks de oficina o salidas casuales sin esfuerzo. Cómodo para el uso diario y fácil de combinar con looks casuales o más formales. Variantes disponibles: Camel / 36.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/zapato-matilda-cuero-camel</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/6437ea47-7b2a-4780-b7dd-6d0db97809b9-p-matildaz25107-1-31583543-2c49-47eb-ab6e-1b8ef5ea96c7.jpg?v=1784667101</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -12074,7 +12075,7 @@
     <item>
       <g:id>14879314870636</g:id>
       <g:title>Sandalia amber cuero café</g:title>
-      <g:description>Diseño chic y natural: las sandalias Amber combinan corcho y gamuza sintética en un calzado versátil. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Ideal para quienes buscan un diseño versátil que combine con cualquier look.. Variantes disponibles: Café / 36, Café / 37, Café / 38, Café / 39.</g:description>
+      <g:description>Diseño chic y natural: las sandalias Amber combinan corcho y gamuza sintética en un calzado versátil. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Variantes disponibles: Café / 36, Café / 37, Café / 38, Café / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-amber-cuero-cafe</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-amberz29710-1-0088178e-ab68-4d61-b4c0-e94b639c2c20.jpg?v=1789586678</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -12102,7 +12103,7 @@
     <item>
       <g:id>14881594769772</g:id>
       <g:title>Sandalia amalfi cuero negro</g:title>
-      <g:description>Sandalias Amphora Amalfi con taco bajo y diseño minimalista, perfectas para looks frescos y modernos. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Un básico que se convierte en el complemento perfecto para tu estilo personal.. Variantes disponibles: Negro / 35, Negro / 36, Negro / 37.</g:description>
+      <g:description>Sandalias Amphora Amalfi con taco bajo y diseño minimalista, perfectas para looks frescos y modernos. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Un básico que se convierte en el complemento perfecto para tu estilo personal. Variantes disponibles: Negro / 35, Negro / 36, Negro / 37.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-amalfi-cuero-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-amalfiz30301-1-a2184b7d-f37b-407b-a802-2ee9105b3de8.jpg?v=1757428860</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -12130,7 +12131,7 @@
     <item>
       <g:id>14881594704236</g:id>
       <g:title>Sandalia duna cuero negro</g:title>
-      <g:description>El modelo Duna de Amphora combina diseño elegante y suela wedge, perfecto para largas jornadas en la oficina o salidas casuales. Ideal para quienes buscan un diseño versátil que combine con cualquier look.. Variantes disponibles: Negro / 36, Negro / 37, Negro / 38.</g:description>
+      <g:description>El modelo Duna de Amphora combina diseño elegante y suela wedge, perfecto para largas jornadas en la oficina o salidas casuales. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Variantes disponibles: Negro / 36, Negro / 37, Negro / 38.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-duna-cuero-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/dunaz28801-1-2b75b584-1d56-4b5d-9a30-5461002484d4.jpg?v=1758811160</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -12158,7 +12159,7 @@
     <item>
       <g:id>14732726600044</g:id>
       <g:title>Botin Taco jacinta cuero blanco crudo</g:title>
-      <g:description>Effortlessly chic! Los botines Jacinta en blanco crudo son ideales para quienes buscan un look fresco y sofisticado. Hechos en cuero 100%, su tono neutro los convierte en el complemento perfecto para cualquier outfit. Su taco de 3 cm aporta comodidad y un toque de altura sutil, mientras que el cierre lateral asegura un ajuste fácil y rápido. Combinan increíble con denim, tonos tierra o total white looks. Livianos, versátiles y listos para acompañarte en cualquier ocasión. ¿Te animas?. Variantes disponibles: Blanco Crudo / 37, Blanco Crudo / 36, Blanco Crudo / 38.</g:description>
+      <g:description>Effortlessly chic! Los botines Jacinta en blanco crudo son ideales para quienes buscan un look fresco y sofisticado. Hechos en cuero 100%, su tono neutro los convierte en el complemento perfecto para cualquier outfit. Su taco de 3 cm aporta comodidad y un toque de altura sutil, mientras que el cierre lateral asegura un ajuste fácil y rápido. Combinan increíble con denim, tonos tierra o total white looks. Livianos, versátiles y listos para acompañarte en cualquier ocasión. ¿Te animas? Variantes disponibles: Blanco Crudo / 37, Blanco Crudo / 36, Blanco Crudo / 38.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/botin-taco-jacinta-blanco-crudo</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-jacintaz24857-1-7a0f3ee8-b4c2-4ca1-8353-627b016152dc.jpg?v=1790610965</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -12186,7 +12187,7 @@
     <item>
       <g:id>14623993889132</g:id>
       <g:title>Zapato Taco nelia cuero negro</g:title>
-      <g:description>El zapato Nelia by Amphora es la máxima expresión de elegancia y sofisticación. Diseñada para destacar tu feminidad, esta sandalia confeccionada en cuero y con un tacón de 2 cm, combina un diseño vanguardista con un toque clásico. De color negro predominante, es ideal para marcar tendencia este verano.. Variantes disponibles: Negro / 35.</g:description>
+      <g:description>El zapato Nelia by Amphora es la máxima expresión de elegancia y sofisticación. Diseñada para destacar tu feminidad, esta sandalia confeccionada en cuero y con un tacón de 2 cm, combina un diseño vanguardista con un toque clásico. De color negro predominante, es ideal para marcar tendencia este verano. Variantes disponibles: Negro / 35.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/zapato-taco-nelia-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-neliaz22701-1-8f109b3b-8745-4cd5-b59b-b3b17b7c7733_0253bad5-ff48-4446-82d3-c0e70d32d9b1.jpg?v=1733311646</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -12467,7 +12468,7 @@
     <item>
       <g:id>14623994085740</g:id>
       <g:title>Zapato Taco nelia cuero plateado</g:title>
-      <g:description>El zapato Nelia by Amphora es la máxima expresión de elegancia y sofisticación. Diseñada para destacar tu feminidad, esta sandalia confeccionada en cuero y con un tacón de 2 cm, combina un diseño vanguardista con un toque clásico. De color plateado predominante, es ideal para marcar tendencia este verano.. Variantes disponibles: Plateado / 35, Plateado / 36, Plateado / 37, Plateado / 38.</g:description>
+      <g:description>El zapato Nelia by Amphora es la máxima expresión de elegancia y sofisticación. Diseñada para destacar tu feminidad, esta sandalia confeccionada en cuero y con un tacón de 2 cm, combina un diseño vanguardista con un toque clásico. De color plateado predominante, es ideal para marcar tendencia este verano. Variantes disponibles: Plateado / 35, Plateado / 36, Plateado / 37, Plateado / 38.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/zapato-taco-nelia-plateado</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/neliaz22761-1-1-f0ade058-619d-488f-80f1-d86b58fe231a_58c4865b-8830-48da-bbf5-5c7ee8cfcdfb.jpg?v=1733311821</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -12632,7 +12633,7 @@
     <item>
       <g:id>14879320801644</g:id>
       <g:title>Zapatilla noa cuero negro</g:title>
-      <g:description>Zapatilla Amphora Noa con acabado brillante, un diseño urbano y versátil que se adapta a looks casuales y modernos. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Ideal para quienes buscan un diseño versátil que combine con cualquier look.. Variantes disponibles: Negro / 36.</g:description>
+      <g:description>Zapatilla Amphora Noa con acabado brillante, un diseño urbano y versátil que se adapta a looks casuales y modernos. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Variantes disponibles: Negro / 36.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/zapatilla-noa-cuero-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-noaz28901-1-8cc43b6a-dc3e-4417-a933-71d4189a8e80.jpg?v=1789586864</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -13488,7 +13489,7 @@
       <g:title>Cartera tote porta notebook cyric</g:title>
       <g:description> Variantes disponibles: Negro / Única, Beige / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-tote-porta-notebook-cyric</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042430691401-1-7ddcf294-62b4-488e-93be-c008c01c2deb.jpg?v=1788197695</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042430691401-1-89559eb6-ddd6-4e1c-9fbd-c6f11e6f4498.jpg?v=1789040443</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>44990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
@@ -13501,7 +13502,7 @@
       <g:title>Cartera tote cyric pequeña</g:title>
       <g:description> Variantes disponibles: Negro / Única, Camel / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-tote-cyric-pequena-1</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042430660001-1-08b95bf5-52da-4809-a84b-f4df13b2e258.jpg?v=1788197564</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042430660001-1-3eae84eb-15d2-49c5-985c-56762eb0658d.jpg?v=1789040471</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>34990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
@@ -13748,7 +13749,7 @@
       <g:title>Cartera tote cyric pequeña</g:title>
       <g:description> Variantes disponibles: Verde Oliva / Única, Beige / Única, Negro / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-tote-cyric-pequena</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042430650038-1-8a8d097e-d687-469c-8021-78a0c78e2982.jpg?v=1788197621</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042430650038-1-cfebff4f-a6af-4f14-883c-3f503cb86191.jpg?v=1789040469</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>34990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
@@ -13891,7 +13892,7 @@
       <g:title>Mochila tiana</g:title>
       <g:description> Variantes disponibles: Negro / Única, Rojo Oscuro / Única, Café / Única, Blanco Crudo / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/mochila-tiana</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036429540001-1-f54ceaa6-224c-4ed1-8f15-06728faf4134.jpg?v=1788187562</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036429540001-1-692ee2a2-5063-46b7-8189-71e3b2a105fd.jpg?v=1788197171</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>42990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
@@ -13904,7 +13905,7 @@
       <g:title>Cartera tote tiana</g:title>
       <g:description> Variantes disponibles: Negro / Única, Café / Única, Blanco Crudo / Única, Rojo Oscuro / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-tote-tiana</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036429500001-1-b30443bc-3489-4480-924b-e71999e3c5b5.jpg?v=1788187570</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036429500001-1-4f6be911-5aa3-4f05-a799-40d4acd1fc4c.jpg?v=1788197182</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>42990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
@@ -13997,7 +13998,7 @@
       <g:title>Cartera tote porta notebook cyric negro</g:title>
       <g:description>Cyric es una tote porta notebook en nylon negro, con cierre y herrajes niquelados. Práctica y organizada para llevar tu computador con estilo. Un accesorio que suma practicidad sin sacrificar el estilo en tu día a día. Variantes disponibles: Negro / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-tote-porta-notebook-cyric-negro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042430691401-1-7ddcf294-62b4-488e-93be-c008c01c2deb.jpg?v=1788197695</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042430691401-1-89559eb6-ddd6-4e1c-9fbd-c6f11e6f4498.jpg?v=1789040443</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>44990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
@@ -14257,7 +14258,7 @@
       <g:title>Cartera tote cyric pequeña verde oliva</g:title>
       <g:description>Cyric suma el verde oliva a su formato tote pequeña, en nylon con cierre y herrajes niquelados. Un tono neutro con estilo. Un accesorio versátil que combina con jeans, vestidos y todo lo que ya tienes en tu clóset. Variantes disponibles: Verde Oliva / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-tote-cyric-pequena-verde-oliva</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042430650038-1-8a8d097e-d687-469c-8021-78a0c78e2982.jpg?v=1788197621</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042430650038-1-cfebff4f-a6af-4f14-883c-3f503cb86191.jpg?v=1789040469</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>34990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
@@ -14426,7 +14427,7 @@
       <g:title>Cartera tote cyric pequeña negro</g:title>
       <g:description>Cyric suma el negro a su formato tote pequeña en PU graneado, con cierre y herrajes niquelados. Un tono cálido con estilo. Un accesorio que suma estilo a cualquier look, desde el día a día hasta las salidas más especiales. Variantes disponibles: Negro / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-tote-cyric-pequena-negro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042430660001-1-08b95bf5-52da-4809-a84b-f4df13b2e258.jpg?v=1788197564</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042430660001-1-3eae84eb-15d2-49c5-985c-56762eb0658d.jpg?v=1789040471</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>34990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
@@ -14645,7 +14646,7 @@
     <item>
       <g:id>14879319294316</g:id>
       <g:title>Sandalia coral cuero negro</g:title>
-      <g:description>Mule Amphora Coral con aplicaciones de tachas metálicas, un diseño moderno que eleva cualquier outfit con un toque de tendencia y estilo. Ideal para quienes buscan un diseño versátil que combine con cualquier look.. Variantes disponibles: Negro / 35, Negro / 36, Negro / 37, Negro / 38, Negro / 39.</g:description>
+      <g:description>Mule Amphora Coral con aplicaciones de tachas metálicas, un diseño moderno que eleva cualquier outfit con un toque de tendencia y estilo. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Variantes disponibles: Negro / 35, Negro / 36, Negro / 37, Negro / 38, Negro / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-coral-cuero-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-coralz28701-1-a59971ff-2bf4-4e82-be7a-1460c09dab12.jpg?v=1757074753</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -14659,7 +14660,7 @@
     <item>
       <g:id>14879319589228</g:id>
       <g:title>Sandalia marina cuero negro</g:title>
-      <g:description>Sandalia Amphora Marina fabricada en cuero sintético con suela chunky, un diseño urbano que combina comodidad y estilo para todos los días. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día.. Variantes disponibles: Negro / 35, Negro / 36, Negro / 37, Negro / 38, Negro / 39.</g:description>
+      <g:description>Sandalia Amphora Marina fabricada en cuero sintético con suela chunky, un diseño urbano que combina comodidad y estilo para todos los días. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Variantes disponibles: Negro / 35, Negro / 36, Negro / 37, Negro / 38, Negro / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-marina-cuero-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-marinaz28601-1-46f6adca-55f9-4f51-9d3f-7b5ce6833842.jpg?v=1789584641</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -14673,7 +14674,7 @@
     <item>
       <g:id>14881673707884</g:id>
       <g:title>Sandalia coral cuero café</g:title>
-      <g:description>Con un acabado moderno y detalles metálicos, los zapatos Coral de Amphora son el accesorio perfecto para elevar un outfit casual o de fiesta. Un básico que se convierte en el complemento perfecto para tu estilo personal.. Variantes disponibles: Café / 35, Café / 36, Café / 37, Café / 38, Café / 39.</g:description>
+      <g:description>Con un acabado moderno y detalles metálicos, los zapatos Coral de Amphora son el accesorio perfecto para elevar un outfit casual o de fiesta. Un básico que se convierte en el complemento perfecto para tu estilo personal. Variantes disponibles: Café / 35, Café / 36, Café / 37, Café / 38, Café / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-coral-cuero-cafe</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-coralz28710-1-8b93d060-f74b-4baf-9b6f-b5c3d1095498.jpg?v=1757430158</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -14687,7 +14688,7 @@
     <item>
       <g:id>14881684160876</g:id>
       <g:title>Sandalia capri cuero negro</g:title>
-      <g:description>Sandalias Amphora Capri con plataforma de madera y tiras cruzadas, un diseño retro con estilo moderno. Un básico que se convierte en el complemento perfecto para tu estilo personal. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día.. Variantes disponibles: Negro / 35, Negro / 36, Negro / 37, Negro / 38, Negro / 39.</g:description>
+      <g:description>Sandalias Amphora Capri con plataforma de madera y tiras cruzadas, un diseño retro con estilo moderno. Un básico que se convierte en el complemento perfecto para tu estilo personal. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Variantes disponibles: Negro / 35, Negro / 36, Negro / 37, Negro / 38, Negro / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-capri-cuero-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-capriz28101-1-cd06072b-2cc6-4a20-be5f-b6aba76b064b.jpg?v=1789586325</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -14701,7 +14702,7 @@
     <item>
       <g:id>14879319818604</g:id>
       <g:title>Sandalia bianca cuero camel</g:title>
-      <g:description>Sandalia Amphora Bianca elaborada en cuero sintético con acabados de alta calidad, perfecta para quienes buscan comodidad y estilo en un mismo diseño. Ideal para quienes buscan un diseño versátil que combine con cualquier look.. Variantes disponibles: Camel / 35, Camel / 36, Camel / 37, Camel / 38, Camel / 39.</g:description>
+      <g:description>Sandalia Amphora Bianca elaborada en cuero sintético con acabados de alta calidad, perfecta para quienes buscan comodidad y estilo en un mismo diseño. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Variantes disponibles: Camel / 35, Camel / 36, Camel / 37, Camel / 38, Camel / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-bianca-cuero-camel</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-biancaz28507-1-327204c1-0aab-4e83-aa92-eeb31251ada1.jpg?v=1789586604</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -14715,7 +14716,7 @@
     <item>
       <g:id>14881665778028</g:id>
       <g:title>Sandalia solana cuero negro</g:title>
-      <g:description>El modelo Solana combina comodidad y altura en un calzado versátil y sofisticado. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Ideal para quienes buscan un diseño versátil que combine con cualquier look.. Variantes disponibles: Negro / 35, Negro / 36, Negro / 37, Negro / 38, Negro / 39.</g:description>
+      <g:description>El modelo Solana combina comodidad y altura en un calzado versátil y sofisticado. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Variantes disponibles: Negro / 35, Negro / 36, Negro / 37, Negro / 38, Negro / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-solana-cuero-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-solanaz28001-1-a05fdfcc-0bc5-4bdb-8488-39ba31c7996d.jpg?v=1789591701</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -14874,7 +14875,7 @@
       <g:title>Cartera tote tiana negro</g:title>
       <g:description>Tiana suma el negro a su versión tote, en PU graneado con cierre y herrajes dorado claro. Un color fresco para ese diseño elegante. Un accesorio versátil que combina con jeans, vestidos y todo lo que ya tienes en tu clóset. Variantes disponibles: Negro / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-tote-tiana-negro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036429500001-1-b30443bc-3489-4480-924b-e71999e3c5b5.jpg?v=1788187570</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036429500001-1-4f6be911-5aa3-4f05-a799-40d4acd1fc4c.jpg?v=1788197182</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>42990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
@@ -14900,7 +14901,7 @@
       <g:title>Mochila tiana negro</g:title>
       <g:description>Tiana es una mochila en PU graneado negro, con cierre, herrajes dorado claro y 13 litros de capacidad. Espacio de sobra para tu día a día. Un diseño pensado para quienes están siempre en movimiento y necesitan practicidad sin perder estilo. Variantes disponibles: Negro / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/mochila-tiana-negro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036429540001-1-f54ceaa6-224c-4ed1-8f15-06728faf4134.jpg?v=1788187562</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036429540001-1-692ee2a2-5063-46b7-8189-71e3b2a105fd.jpg?v=1788197171</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>42990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
@@ -15240,7 +15241,7 @@
     <item>
       <g:id>15065147179372</g:id>
       <g:title>Longstrap riz lila</g:title>
-      <g:description>Riz es un longstrap en lila, ese accesorio versátil que te permite personalizar y renovar el look de tu cartera favorita. Un toque de color que suma actitud a cualquier outfit. Ese detalle pequeño que suma personalidad y estilo a cualquier cartera o look.. Variantes disponibles: Única.</g:description>
+      <g:description>Riz es un longstrap en lila, ese accesorio versátil que te permite personalizar y renovar el look de tu cartera favorita. Un toque de color que suma actitud a cualquier outfit. Ese detalle pequeño que suma personalidad y estilo a cualquier cartera o look. Variantes disponibles: Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/longstrap-riz-lila</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-70320l8323-1-186a982d-ce4c-4c19-96fd-b07802a334ed.jpg?v=1774293982</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -17979,7 +17980,7 @@
       <g:title>Mochila cyric grande negro</g:title>
       <g:description>Cyric también viene en formato mochila grande, en nylon negro con cierre y herrajes niquelados. Espacio de sobra con estilo. Un diseño pensado para quienes están siempre en movimiento y necesitan practicidad sin perder estilo. Variantes disponibles: Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/mochila-cyric-grande-negro-1</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042430670001-1-8b4c457b-fbbe-4808-b68a-8b31f046dbe7.jpg?v=1787288078</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042430670001-1-4e9b8456-64e7-4467-a69e-513bc04f7fbe.jpg?v=1789040460</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>42990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
@@ -18161,7 +18162,7 @@
       <g:title>Cartera tote lys mediana café</g:title>
       <g:description>Lys suma el PU croco a su línea de totes medianas café, con botón imantado y herrajes dorado claro. Una textura distinta con estilo. Ese tipo de pieza que eleva un look casual y se vuelve protagonista en looks más elaborados. Variantes disponibles: Café / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-tote-lys-mediana-cafe</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036428390010-1-1db0ac9d-544b-4e85-a66a-a6c2f6f5034a.jpg?v=1787287455</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036428390010-1-bc3a599f-2717-4972-8c00-1dc7a0b17639.jpg?v=1788197170</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>38990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
@@ -18551,7 +18552,7 @@
       <g:title>Cartera tote cyric pequeña camel</g:title>
       <g:description>Cyric suma el camel a su formato tote pequeña en PU graneado, con cierre y herrajes niquelados. Un tono cálido con estilo. Un accesorio que suma estilo a cualquier look, desde el día a día hasta las salidas más especiales. Variantes disponibles: Camel / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-tote-cyric-pequena-camel</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042430660007-1-99b92b7a-4a3e-4fbb-af64-9765f9688336.jpg?v=1787285572</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042430660007-1-152478a3-660b-446e-9acd-a928bbdd0105.jpg?v=1789040439</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>34990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
@@ -20261,19 +20262,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>15043216965996</g:id>
-      <g:title>Cartera tote magdalena grande negro</g:title>
-      <g:description>La cartera Magdalena de Amphora es ese bolso de dos asas que querrás tener para todas tus salidas diarias. Su tamaño grande y sus asas predominantes le dan un toque sofisticado,además de su strap negro para llevarla cruzada. De confección en PU liso, la convierte en la opción perfecta tanto para días de oficina como para salidas casuales. El color negro y los detalles con el logo en la parte delantera aseguran que no pase desapercibida. Además, cuenta con un amplio compartimento principal, tres bolsillos internos y uno trasero, para mantener todos tus objetos organizados con estilo. Magdalena, we are in love! Variantes disponibles: Negro / Única.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/cartera-tote-magdalena-grande-negro-1</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4043423530001-1-7a29436c-5e13-41e0-901b-7a4e450013b4.jpg?v=1773066128</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>44990.00 CLP</g:price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>TOTE</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>9478839927099</g:id>
       <g:title>Mochila quitria pequeña blanco</g:title>
       <g:description>Nuestra mochila Quitria está pensada en un diseño casual. Este modelo de Amphora es deal para combinar con tus outfits más urbanos sin perder el estilo Realizada en PU graneado, sus correas son regulables y tiene tres bolsillos interiores y tres exteriores con cierre. Está pensada para que sea esa mochila que nunca falla. Get it know! Variantes disponibles: Blanco / Única.</g:description>
@@ -20537,7 +20525,7 @@
       <g:title>Cartera bandolera fleur pequeña blanco crudo</g:title>
       <g:description>Fleur también viene en formato bandolera pequeña, en PU graneado blanco crudo con cierre y herrajes niquelados. Compacta y versátil para el día a día. Ideal para quienes buscan un diseño que combine funcionalidad y actitud en un mismo accesorio. Variantes disponibles: Blanco Crudo / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-bandolera-fleur-pequena-blanco-crudo</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036428300057-1-5d6d9332-e921-411d-9956-5b83ee23b879.jpg?v=1787156953</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036428300057-1-cb3f7acc-2fcb-4a4a-989f-f0599e094f32.jpg?v=1788197160</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>34990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
@@ -21257,7 +21245,7 @@
       <g:title>Cartera bandolera clio pequeña negro</g:title>
       <g:description>Clio es una bandolera pequeña en nylon negro, con cierre y herrajes niquelados. Un diseño elegante y compacto para el día a día. Un accesorio versátil que combina con jeans, vestidos y todo lo que ya tienes en tu clóset. Variantes disponibles: Negro / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-bandolera-clio-pequena-negro-1</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042430310001-1-f96635eb-c764-41d5-a13e-1b0aa7fa57b1.jpg?v=1786623516</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042430310001-1-710779e5-c48f-4abf-876f-b482e1bf454b.jpg?v=1788197190</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>29990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
@@ -21283,7 +21271,7 @@
       <g:title>Cartera bandolera clio pequeña blanco</g:title>
       <g:description>Clio también viene en PU liso blanco, con cierre y herrajes niquelados. Una textura distinta y elegante para el día a día. Un accesorio que suma estilo a cualquier look, desde el día a día hasta las salidas más especiales. Variantes disponibles: Blanco / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-bandolera-clio-pequena-blanco</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042430320002-1jpg-5d865c0b-914e-4c18-a4cd-b0d3b7acfd43.jpg?v=1786623516</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042430320002-1-d3043ce6-cf38-4f3f-a9d9-6156c91a634a.jpg?v=1788197220</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>29990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
@@ -22965,7 +22953,7 @@
     <item>
       <g:id>15193772425580</g:id>
       <g:title>Billetera con aleta fabio café oscuro</g:title>
-      <g:description>Fabio también viene con aleta, en cuero café oscuro, un básico atemporal y elegante para llevar en el bolsillo. La opción ideal si buscas renovar tus accesorios con un diseño práctico y actual. Ideal para llevar siempre contigo, ese básico que no puede faltar en tu día a día.. Variantes disponibles: Café Oscuro / Única.</g:description>
+      <g:description>Fabio también viene con aleta, en cuero café oscuro, un básico atemporal y elegante para llevar en el bolsillo. La opción ideal si buscas renovar tus accesorios con un diseño práctico y actual. Ideal para llevar siempre contigo, ese básico que no puede faltar en tu día a día. Variantes disponibles: Café Oscuro / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/billetera-con-aleta-fabio-cafe-oscuro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-80225171113-1-05549ff6-9d06-4f4f-a20f-46f326b9cae2.jpg?v=1784146023</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -23141,7 +23129,7 @@
     <item>
       <g:id>14946192097644</g:id>
       <g:title>Billetera school mediana negro</g:title>
-      <g:description>Take it with you! La billetera School en negro es ideal para quienes buscan un diseño práctico sin complicaciones. Confeccionada en nylon con detalles metálicos, su formato mediano te permite organizar billetes, tarjetas y monedas sin esfuerzo. Su cierre seguro mantiene todo en su lugar, perfecta para un estilo sport casual con un toque funcional.. Variantes disponibles: Negro / Única.</g:description>
+      <g:description>Take it with you! La billetera School en negro es ideal para quienes buscan un diseño práctico sin complicaciones. Confeccionada en nylon con detalles metálicos, su formato mediano te permite organizar billetes, tarjetas y monedas sin esfuerzo. Su cierre seguro mantiene todo en su lugar, perfecta para un estilo sport casual con un toque funcional. Variantes disponibles: Negro / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/billetera-mediana-school-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-90355497901-1-6102a2fe-34ba-44bc-acc1-a6f39ddede8f.jpg?v=1762964442</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -25037,7 +25025,7 @@
     <item>
       <g:id>15193860342124</g:id>
       <g:title>Cinturón astrid negro</g:title>
-      <g:description>Astrid es un cinturón en negro, de perfil clásico básico con hebilla. El accesorio infaltable para marcar la cintura con estilo. El accesorio perfecto para marcar la cintura y darle estructura a cualquier look, casual o formal.. Variantes disponibles: Negro / S, Negro / M, Negro / L.</g:description>
+      <g:description>Astrid es un cinturón en negro, de perfil clásico básico con hebilla. El accesorio infaltable para marcar la cintura con estilo. El accesorio perfecto para marcar la cintura y darle estructura a cualquier look, casual o formal. Variantes disponibles: Negro / S, Negro / M, Negro / L.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cinturon-astrid-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-astridb4501-1-e0b437e6-d903-4f20-bfb9-4bdacbfbe791.jpg?v=1784667152</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -25078,7 +25066,7 @@
     <item>
       <g:id>15193841664364</g:id>
       <g:title>Zapato isabel cuero camel</g:title>
-      <g:description>Isabel es un zapato en PU con acabado de cuero brillante camel, de perfil clásico básico. Un básico elegante que combina con todo, ideal para looks de oficina o formales. Cómodo para el uso diario y fácil de combinar con looks casuales o más formales.. Variantes disponibles: Camel / 37, Camel / 36, Camel / 39.</g:description>
+      <g:description>Isabel es un zapato en PU con acabado de cuero brillante camel, de perfil clásico básico. Un básico elegante que combina con todo, ideal para looks de oficina o formales. Cómodo para el uso diario y fácil de combinar con looks casuales o más formales. Variantes disponibles: Camel / 37, Camel / 36, Camel / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/zapato-isabel-cuero-camel</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/0a6c6226-048b-4742-aeb2-24136d6d62ad-p-isabelz26107-1-fbb33d81-f8e5-4ad6-a36c-aa9d7a8595bc.jpg?v=1784667062</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -25680,7 +25668,7 @@
     <item>
       <g:id>15193770361196</g:id>
       <g:title>Sandalia leonor cuero negro especial</g:title>
-      <g:description>Amphora Leonor es la sandalia que destaca por su estampado animal y comodidad diaria. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Ideal para quienes buscan un diseño versátil que combine con cualquier look.. Variantes disponibles: Negro especial / 38.</g:description>
+      <g:description>Amphora Leonor es la sandalia que destaca por su estampado animal y comodidad diaria. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Variantes disponibles: Negro especial / 38.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-leonor-cuero-negro-especial</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/15d3d186-be4d-4bc6-ae0b-64940a3aa997-p-leonorz29856-1-d63b755e-d3a8-4794-8a3a-3c43c588247c.jpg?v=1784145935</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -25776,7 +25764,7 @@
     <item>
       <g:id>15193770951020</g:id>
       <g:title>Billetera con aleta fabio negro</g:title>
-      <g:description>Fabio también viene con aleta, en cuero negro, un básico atemporal y elegante para llevar en el bolsillo. La opción ideal si buscas renovar tus accesorios con un diseño práctico y actual. Ideal para llevar siempre contigo, ese básico que no puede faltar en tu día a día.. Variantes disponibles: Negro / Única.</g:description>
+      <g:description>Fabio también viene con aleta, en cuero negro, un básico atemporal y elegante para llevar en el bolsillo. La opción ideal si buscas renovar tus accesorios con un diseño práctico y actual. Ideal para llevar siempre contigo, ese básico que no puede faltar en tu día a día. Variantes disponibles: Negro / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/billetera-con-aleta-fabio-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-80225171101-1jpg-355eb60a-da43-4d75-b30c-a0a4c2eff703.jpg?v=1786114029</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -25892,20 +25880,6 @@
       <g:price>42990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
       <g:product_type>TOTE</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>15065148490092</g:id>
-      <g:title>Cartera bandolera nuit mediana rojo oscuro</g:title>
-      <g:description>Wake up your style with Nuit by Amphora. Confeccionada en nylon, de color rojo oscuro, esta bandolera es para quienes se atreven a explorar sin límites, acompañándote a todas partes. Su diseño sport-casual, combinado con un espacio interior con dos divisiones y bolsillos internos y externos con cremallera, permite llevar tus esenciales de manera organizada. ¿Lo mejor? Sus tachas en forma de estrella, que le dan un toque único y diferente donde quiera que la lleves. Si buscas un bolso para el día a día que no pase desapercibido, Nuit es tu elección. Variantes disponibles: Rojo Oscuro / Única.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/cartera-bandolera-nuit-mediana-rojo-oscuro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036422040044-1-c3bd4f72-72d8-4958-9288-4c03db8c0186.jpg?v=1774294541</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>36990.00 CLP</g:price>
-      <g:sale_price>32990.00 CLP</g:sale_price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>BANDOLERA</g:product_type>
       <g:condition>new</g:condition>
       <g:identifier_exists>no</g:identifier_exists>
     </item>
@@ -32154,7 +32128,7 @@
     <item>
       <g:id>15064950931820</g:id>
       <g:title>Cartera tote samanta grande</g:title>
-      <g:description> Variantes disponibles: Beige / Única, Negro / Única.</g:description>
+      <g:description> Variantes disponibles: Negro / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-tote-samanta-grande</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-40434205905-1-b52f85a5-20e7-4b57-a24d-fb08c4b652c0.jpg?v=1757427400</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -37597,7 +37571,7 @@
       <g:title>Cinturon victoria</g:title>
       <g:description> Variantes disponibles: Beige / M, Beige / L, Negro / L.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cinturon-victoria</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-victoriab45605-1-f8ac86cb-23af-402b-bb4d-1fc4faa52085.jpg?v=1760700358</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-victoriab45605-1-5cf69711-0ecc-4d48-a2a3-46c9397f0442.jpg?v=1760700358</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>11990.00 CLP</g:price>
       <g:sale_price>9990.00 CLP</g:sale_price>
@@ -37611,7 +37585,7 @@
       <g:title>Cinturon sara</g:title>
       <g:description> Variantes disponibles: Negro / S, Negro / M, Negro / L, Rojo / S, Rojo / M, Rojo / L.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cinturon-sara</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-sarab45801-1-4929bc9c-921e-4039-9473-83d7ae82cfdc.jpg?v=1760700993</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-sarab45801-1-48d099fb-836e-4eb3-8f2f-e1a05d8da19d.jpg?v=1760700993</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>11990.00 CLP</g:price>
       <g:sale_price>9990.00 CLP</g:sale_price>
@@ -38470,7 +38444,7 @@
     <item>
       <g:id>15066835878252</g:id>
       <g:title>Hanging lucy</g:title>
-      <g:description> Variantes disponibles: Beige / Única, Verde Claro / Única.</g:description>
+      <g:description> Variantes disponibles: Beige / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/hanging-lucy</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-7032h23305-1-5cbe906e-f051-48f4-a5da-6af4d101ec19.jpg?v=1756126841</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -38523,7 +38497,7 @@
     <item>
       <g:id>15066836369772</g:id>
       <g:title>Hanging tarjetero con espejo lex</g:title>
-      <g:description> Variantes disponibles: Rosa Viejo / Única, Verde Agua / Única.</g:description>
+      <g:description> Variantes disponibles: Verde Agua / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/hanging-tarjetero-con-espejo-lex</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-7032h24540-1-2e42e2ae-bb3c-44fa-aaa1-c95c90414cf7.jpg?v=1757428102</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -40093,7 +40067,7 @@
     <item>
       <g:id>15075331801452</g:id>
       <g:title>Cartera bandolera nuit mediana</g:title>
-      <g:description> Variantes disponibles: Beige / Única, Negro / Única, Rojo Oscuro / Única.</g:description>
+      <g:description> Variantes disponibles: Beige / Única, Negro / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-bandolera-nuit-mediana</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036422040005-1-3264de88-352d-4469-a4c7-9b3d6ad8e1a0.jpg?v=1772455843</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -40339,7 +40313,7 @@
     <item>
       <g:id>15075428204908</g:id>
       <g:title>Cartera tote magdalena grande</g:title>
-      <g:description> Variantes disponibles: Denim / Única, Negro / Única.</g:description>
+      <g:description> Variantes disponibles: Denim / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-tote-magdalena-grande</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4043423530020-1-cd368c50-8490-4f5d-8c81-f96b7ca8ff23.jpg?v=1776975078</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -40408,7 +40382,7 @@
     <item>
       <g:id>15075429351788</g:id>
       <g:title>Cartera fiesta perla pequeña</g:title>
-      <g:description> Variantes disponibles: Plateado Oscuro / Única, Blanco Crudo / Única, Negro / Única, Rojo Oscuro / Única.</g:description>
+      <g:description> Variantes disponibles: Blanco Crudo / Única, Negro / Única, Rojo Oscuro / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-fiesta-perla-pequena</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4072424330062-1-16c9b2d8-34fb-4d27-8d78-44daae86c327.jpg?v=1775680245</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -41063,12 +41037,11 @@
     <item>
       <g:id>15089722229100</g:id>
       <g:title>Cartera bandolera cloe pequeña</g:title>
-      <g:description> Variantes disponibles: Café / Única.</g:description>
+      <g:description></g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-bandolera-cloe-pequena</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042423400001-1-ff12c6fd-4953-4e54-8edd-36ec05390231.jpg?v=1775680774</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>38990.00 CLP</g:price>
-      <g:sale_price>34990.00 CLP</g:sale_price>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>23990.00 CLP</g:price>
       <g:brand>Amphora Chile</g:brand>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
@@ -41720,7 +41693,7 @@
       <g:link>https://amphora-cl.myshopify.com/products/botin-taco-samy-cuero</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-samyz23757-1-d74eb4e5-6cf5-4b3b-b109-fe6aff27b559.jpg?v=1762169445</g:image_link>
       <g:availability>out_of_stock</g:availability>
-      <g:price>84990.00 CLP</g:price>
+      <g:price>50990.00 CLP</g:price>
       <g:brand>Amphora Chile</g:brand>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
@@ -41755,7 +41728,7 @@
     <item>
       <g:id>15100870984044</g:id>
       <g:title>Zapato tipo reina luna cuero</g:title>
-      <g:description> Variantes disponibles: Beige Oscuro / 36, Beige Oscuro / 37, Beige Oscuro / 38, Beige Oscuro / 39, Negro / 35, Negro / 36, Negro / 37, Negro / 38, Negro / 39, Negro especial / 36, Negro especial / 37, Burdeo / 35, Burdeo / 36, Burdeo / 37, Burdeo / 38, Camel / 35, Camel / 36, Camel / 37, Camel / 38, Camel / 39.</g:description>
+      <g:description> Variantes disponibles: Beige Oscuro / 37, Beige Oscuro / 38, Beige Oscuro / 39, Negro / 35, Negro / 36, Negro / 37, Negro / 38, Negro / 39, Negro especial / 36, Negro especial / 37, Burdeo / 35, Burdeo / 36, Burdeo / 37, Burdeo / 38, Camel / 35, Camel / 36, Camel / 37, Camel / 38, Camel / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/zapato-tipo-reina-luna-cuero</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-lunaz28306-1-8252c4a3-b138-4dbe-9f15-ebca248a93fe.jpg?v=1787288403</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -43085,7 +43058,7 @@
     <item>
       <g:id>15091406700908</g:id>
       <g:title>Zapato tipo reina luna cuero camel</g:title>
-      <g:description>Luna es un zapato tipo reina en cuero camel, de estilo clásico con herrajes dorado claro. Elegante y versátil, combina looks de oficina con salidas casuales sin esfuerzo. Un básico versátil que se adapta a cualquier ocasión sin sacrificar comodidad.. Variantes disponibles: Camel / 35, Camel / 36, Camel / 37, Camel / 38, Camel / 39.</g:description>
+      <g:description>Luna es un zapato tipo reina en cuero camel, de estilo clásico con herrajes dorado claro. Elegante y versátil, combina looks de oficina con salidas casuales sin esfuerzo. Un básico versátil que se adapta a cualquier ocasión sin sacrificar comodidad. Variantes disponibles: Camel / 35, Camel / 36, Camel / 37, Camel / 38, Camel / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/zapato-tipo-reina-luna-cuero-camel</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/lunaz28307-1-c27a800a-2609-4c11-b60a-cdba4cdc4419.jpg?v=1776864667</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -43259,7 +43232,7 @@
     <item>
       <g:id>15090413535596</g:id>
       <g:title>Zapatilla susana cuero blanco</g:title>
-      <g:description>Susana es una zapatilla en cuero grano blanco, de estilo clásico con herrajes dorado claro. Cómoda para el día a día y fácil de combinar con looks casuales. Un básico versátil que se adapta a cualquier ocasión sin sacrificar comodidad.. Variantes disponibles: Negro especial / 35, Negro especial / 36, Negro especial / 37, Negro especial / 38, Negro especial / 39.</g:description>
+      <g:description>Susana es una zapatilla en cuero grano blanco, de estilo clásico con herrajes dorado claro. Cómoda para el día a día y fácil de combinar con looks casuales. Un básico versátil que se adapta a cualquier ocasión sin sacrificar comodidad. Variantes disponibles: Negro especial / 35, Negro especial / 36, Negro especial / 37, Negro especial / 38, Negro especial / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/zapatilla-susana-cuero-negro-especial</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/susanaz23156-1-c1d7f65a-f81c-4c7c-a950-87294ae4b352.jpg?v=1776790210</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -43570,7 +43543,7 @@
     <item>
       <g:id>15079268024684</g:id>
       <g:title>Cinturón sofia negro</g:title>
-      <g:description>Un toque cowboy chic reinventado. El cinturón Sofía de Amphora en negro, mezcla vibra boho con actitud moderna gracias a su diseño lleno de detalles en plateado. Es ese acento justo que eleva cualquier look sin esfuerzo. Confeccionado en PU liso, suma carácter y es perfecto para complementar, por ejemplo, un outfit monocromático. Versátil, con personalidad y mucho estilo. Sofía es un must total.. Variantes disponibles: Negro / S, Negro / M, Negro / L.</g:description>
+      <g:description>Un toque cowboy chic reinventado. El cinturón Sofía de Amphora en negro, mezcla vibra boho con actitud moderna gracias a su diseño lleno de detalles en plateado. Es ese acento justo que eleva cualquier look sin esfuerzo. Confeccionado en PU liso, suma carácter y es perfecto para complementar, por ejemplo, un outfit monocromático. Versátil, con personalidad y mucho estilo. Sofía es un must total. Variantes disponibles: Negro / S, Negro / M, Negro / L.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cinturon-sofia-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-sofiab48201-1-149fa081-a63e-4947-acf3-4b115485fb07.jpg?v=1775681477</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -43751,7 +43724,7 @@
     <item>
       <g:id>15079263797612</g:id>
       <g:title>Cinturón josefa beige</g:title>
-      <g:description>El estilo se define en los detalles y en la textura. El cinturón Josefa de Amphora en beige es ese complemento clave que eleva tu look sin esfuerzo. Su acabado en PU liso, junto a los detalles en hebilla plateada, hacen que destaque y le dé un toque cool a cualquier outfit. Moderno y versátil, este cinturón suma personalidad a cualquier tenida. We love Josefa.. Variantes disponibles: Beige / L, Beige / S, Beige / M.</g:description>
+      <g:description>El estilo se define en los detalles y en la textura. El cinturón Josefa de Amphora en beige es ese complemento clave que eleva tu look sin esfuerzo. Su acabado en PU liso, junto a los detalles en hebilla plateada, hacen que destaque y le dé un toque cool a cualquier outfit. Moderno y versátil, este cinturón suma personalidad a cualquier tenida. We love Josefa. Variantes disponibles: Beige / L, Beige / S, Beige / M.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cinturon-josefa-beige</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-josefab47505-1-26cd9eef-987f-4847-82cf-871af92e40dc.jpg?v=1775680923</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -43882,19 +43855,6 @@
       <g:price>38990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
       <g:product_type>CORTE OVAL</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>15079263830380</g:id>
-      <g:title>Cartera fiesta perla pequeña plateado oscuro</g:title>
-      <g:description>La cartera Perla de Amphora, en color plateado oscuro, es ese detalle perfecto que eleva cualquier look sin robar protagonismo. Su cadena dorada aporta luz y sofisticación, convirtiéndola en la elección ideal tanto para eventos de día como para noches especiales. Perla se posiciona como el bolso que no puede faltar en tu armario. Variantes disponibles: Plateado Oscuro / Única.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/cartera-fiesta-perla-pequena-plateado-oscuro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4072424330062-1-16c9b2d8-34fb-4d27-8d78-44daae86c327.jpg?v=1775680245</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>29990.00 CLP</g:price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>CARTERA FIESTA</g:product_type>
       <g:condition>new</g:condition>
       <g:identifier_exists>no</g:identifier_exists>
     </item>
@@ -44330,7 +44290,7 @@
     <item>
       <g:id>15065148752236</g:id>
       <g:title>Longstrap militar verde oliva</g:title>
-      <g:description>Militar es un longstrap en verde oliva, ese accesorio versátil que te permite personalizar y renovar el look de tu cartera favorita con un toque utilitario. Un accesorio práctico que renueva el look de tus carteras favoritas sin esfuerzo.. Variantes disponibles: Única.</g:description>
+      <g:description>Militar es un longstrap en verde oliva, ese accesorio versátil que te permite personalizar y renovar el look de tu cartera favorita con un toque utilitario. Un accesorio práctico que renueva el look de tus carteras favoritas sin esfuerzo. Variantes disponibles: Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/longstrap-militar-verde-oliva</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-7032l00138-1-dfaf9106-0526-40f3-8ab9-864d056ee480.jpg?v=1774294645</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -53812,7 +53772,7 @@
     <item>
       <g:id>15007446466924</g:id>
       <g:title>Mochila de viaje college taupe</g:title>
-      <g:description>La mochila College de Trinus se consagra como tu compañera ideal. Confeccionada en nylon y en tono verde oscuro, con un sutil estampado animal print que combina con todo, se convierte en un must de tu clóset. Cuenta con correas regulables, tres bolsillos interiores con dos divisiones y compartimientos exteriores con broches anchos, además de apertura mediante cierre. Este modelo es liviano y de tamaño grande, perfecto para un día de oficina o para paseos por la ciudad. ¿Lo mejor? Su estilo casual y su estampado interno que destaca donde quiera que la lleves. College, va a todas contigo!. Variantes disponibles: Taupe / Única.</g:description>
+      <g:description>La mochila College de Trinus se consagra como tu compañera ideal. Confeccionada en nylon y en tono verde oscuro, con un sutil estampado animal print que combina con todo, se convierte en un must de tu clóset. Cuenta con correas regulables, tres bolsillos interiores con dos divisiones y compartimientos exteriores con broches anchos, además de apertura mediante cierre. Este modelo es liviano y de tamaño grande, perfecto para un día de oficina o para paseos por la ciudad. ¿Lo mejor? Su estilo casual y su estampado interno que destaca donde quiera que la lleves. College, va a todas contigo! Variantes disponibles: Taupe / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/mochila-travel-college-taupe</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/college4264008-1-9305bb91-fe49-48eb-856f-a1a98a2ff5e6.jpg?v=1772539248</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -55724,7 +55684,7 @@
     <item>
       <g:id>14946198618476</g:id>
       <g:title>Billetera school mediana beige</g:title>
-      <g:description>Stay organized! La billetera School en beige es ese accesorio que simplifica tu día. Su diseño en nylon con detalles niquelados la hace resistente y liviana. Su tamaño mediano permite guardar lo esencial sin perder comodidad. Perfecta para quienes buscan practicidad con un look relajado y versátil.. Variantes disponibles: Beige / Única.</g:description>
+      <g:description>Stay organized! La billetera School en beige es ese accesorio que simplifica tu día. Su diseño en nylon con detalles niquelados la hace resistente y liviana. Su tamaño mediano permite guardar lo esencial sin perder comodidad. Perfecta para quienes buscan practicidad con un look relajado y versátil. Variantes disponibles: Beige / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/billetera-mediana-school-beige</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-90355497905-1-f650491f-1b23-41e0-ae92-49780a0dd2cb.jpg?v=1762964860</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -56072,7 +56032,7 @@
     <item>
       <g:id>14946195210604</g:id>
       <g:title>Billetera school pequeña negro</g:title>
-      <g:description>Pack light! La billetera pequeña School en negro es el accesorio perfecto para quienes buscan un formato compacto sin perder funcionalidad. Su diseño en nylon la hace resistente y liviana, con cierre seguro y espacio suficiente para tarjetas y billetes. Práctica y lista para cualquier plan.. Variantes disponibles: Negro / Única.</g:description>
+      <g:description>Pack light! La billetera pequeña School en negro es el accesorio perfecto para quienes buscan un formato compacto sin perder funcionalidad. Su diseño en nylon la hace resistente y liviana, con cierre seguro y espacio suficiente para tarjetas y billetes. Práctica y lista para cualquier plan. Variantes disponibles: Negro / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/billetera-pequena-school-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-90355498001-1-2f257814-a6e4-46a8-a411-572097376f6c.jpg?v=1762964657</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -56128,7 +56088,7 @@
     <item>
       <g:id>14946194850156</g:id>
       <g:title>Monedero school pequeña verde oliva</g:title>
-      <g:description>Adventure approved! El monedero School en verde oliva es tu mejor aliado para llevar lo esencial con comodidad. Diseñado en nylon, con detalles metálicos y cierre seguro, tiene el tamaño ideal para monedas y tarjetas. Su color y estilo sport casual lo hacen perfecto para quienes buscan un toque práctico y versátil en su día a día.. Variantes disponibles: Verde Oliva / Única.</g:description>
+      <g:description>Adventure approved! El monedero School en verde oliva es tu mejor aliado para llevar lo esencial con comodidad. Diseñado en nylon, con detalles metálicos y cierre seguro, tiene el tamaño ideal para monedas y tarjetas. Su color y estilo sport casual lo hacen perfecto para quienes buscan un toque práctico y versátil en su día a día. Variantes disponibles: Verde Oliva / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/monedero-pequena-school-verde-oliva</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-90355497838-1-7cc6c227-2f84-4ed6-8b82-6a5eab7ea1ee.jpg?v=1762964626</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -56170,7 +56130,7 @@
     <item>
       <g:id>14946194653548</g:id>
       <g:title>Billetera school pequeña verde oliva</g:title>
-      <g:description>Pocket-size essential! La billetera pequeña School en verde oliva es compacta, resistente y con un diseño pensado para la comodidad. Fabricada en nylon, con cierre seguro y detalles niquelados, te permite organizar tus tarjetas y billetes sin ocupar espacio de más. Perfecta para llevar lo justo y necesario sin complicaciones.. Variantes disponibles: Verde Oliva / Única.</g:description>
+      <g:description>Pocket-size essential! La billetera pequeña School en verde oliva es compacta, resistente y con un diseño pensado para la comodidad. Fabricada en nylon, con cierre seguro y detalles niquelados, te permite organizar tus tarjetas y billetes sin ocupar espacio de más. Perfecta para llevar lo justo y necesario sin complicaciones. Variantes disponibles: Verde Oliva / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/billetera-pequena-school-verde-oliva</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-90355498038-1-34ac6818-ec1a-4b69-b8e1-489078c77e0e.jpg?v=1762964619</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -56586,7 +56546,7 @@
     <item>
       <g:id>14946191671660</g:id>
       <g:title>Billetera school mediana denim</g:title>
-      <g:description>Minimal &amp;amp; cool! La billetera School en denim es la opción ideal para quienes buscan un accesorio compacto y funcional. Confeccionada en nylon con detalles niquelados, su tamaño mediano permite llevar lo esencial sin perder comodidad. Su diseño sport casual la hace perfecta para cualquier ocasión.. Variantes disponibles: Denim / Única.</g:description>
+      <g:description>Minimal &amp;amp; cool! La billetera School en denim es la opción ideal para quienes buscan un accesorio compacto y funcional. Confeccionada en nylon con detalles niquelados, su tamaño mediano permite llevar lo esencial sin perder comodidad. Su diseño sport casual la hace perfecta para cualquier ocasión. Variantes disponibles: Denim / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/billetera-mediana-school-denim</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-90355497920-1-ade06329-278a-439e-82a7-b995b542607f.jpg?v=1762964444</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -56600,7 +56560,7 @@
     <item>
       <g:id>14946191933804</g:id>
       <g:title>Billetera school mediana verde oliva</g:title>
-      <g:description>Small but mighty! La billetera School en verde oliva es compacta, funcional y con mucho estilo. Fabricada en nylon, con cierre seguro y detalles metálicos, es perfecta para llevar tarjetas y dinero sin ocupar espacio de más. Su color y diseño sport casual la convierten en un accesorio clave para el día a día.. Variantes disponibles: Verde Oliva / Única.</g:description>
+      <g:description>Small but mighty! La billetera School en verde oliva es compacta, funcional y con mucho estilo. Fabricada en nylon, con cierre seguro y detalles metálicos, es perfecta para llevar tarjetas y dinero sin ocupar espacio de más. Su color y diseño sport casual la convierten en un accesorio clave para el día a día. Variantes disponibles: Verde Oliva / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/billetera-mediana-school-verde-oliva</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-90355497938-1-fd3beb86-58e1-4bdc-b606-36a9b046e9da.jpg?v=1762964424</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -56781,7 +56741,7 @@
     <item>
       <g:id>14946195997036</g:id>
       <g:title>Billetera school pequeña beige</g:title>
-      <g:description>Less bulk, more style! La billetera pequeña School en beige combina practicidad y diseño en un formato compacto. Fabricada en nylon con detalles metálicos, es ligera y fácil de llevar en cualquier bolso. Su cierre mantiene todo en su lugar, ideal para un estilo relajado y funcional.. Variantes disponibles: Beige / Única.</g:description>
+      <g:description>Less bulk, more style! La billetera pequeña School en beige combina practicidad y diseño en un formato compacto. Fabricada en nylon con detalles metálicos, es ligera y fácil de llevar en cualquier bolso. Su cierre mantiene todo en su lugar, ideal para un estilo relajado y funcional. Variantes disponibles: Beige / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/billetera-pequena-school-beige</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-90355498005-1-2786f5a4-6d61-4315-8b5b-fde6ed497296.jpg?v=1762963850</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -58707,7 +58667,7 @@
     <item>
       <g:id>14914658632044</g:id>
       <g:title>Cinturón santana camel</g:title>
-      <g:description>Santana es un cinturón en PU liso camel, de perfil clásico básico con hebilla dorado claro. El accesorio ideal para marcar la cintura con estilo. Ideal para combinar con jeans, vestidos o faldas, sumando un toque de estilo a tu outfit.. Variantes disponibles: Camel / S, Camel / M, Camel / L.</g:description>
+      <g:description>Santana es un cinturón en PU liso camel, de perfil clásico básico con hebilla dorado claro. El accesorio ideal para marcar la cintura con estilo. Ideal para combinar con jeans, vestidos o faldas, sumando un toque de estilo a tu outfit. Variantes disponibles: Camel / S, Camel / M, Camel / L.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cinturon-santana-camel</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-santanab40207-1-6edb9cd9-dc4b-4905-a319-794e81181caa.jpg?v=1760701135</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -58903,9 +58863,9 @@
     <item>
       <g:id>14914657223020</g:id>
       <g:title>Cinturón sara negro</g:title>
-      <g:description>Sara es un cinturón en PU liso negro, de perfil clásico básico con hebilla dorado claro. El accesorio infaltable para marcar la cintura con estilo. El accesorio perfecto para marcar la cintura y darle estructura a cualquier look, casual o formal.. Variantes disponibles: Negro / S, Negro / M, Negro / L.</g:description>
+      <g:description>Sara es un cinturón en PU liso negro, de perfil clásico básico con hebilla dorado claro. El accesorio infaltable para marcar la cintura con estilo. El accesorio perfecto para marcar la cintura y darle estructura a cualquier look, casual o formal. Variantes disponibles: Negro / S, Negro / M, Negro / L.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cinturon-sara-negro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-sarab45801-1-4929bc9c-921e-4039-9473-83d7ae82cfdc.jpg?v=1760700993</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-sarab45801-1-48d099fb-836e-4eb3-8f2f-e1a05d8da19d.jpg?v=1760700993</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>11990.00 CLP</g:price>
       <g:sale_price>9990.00 CLP</g:sale_price>
@@ -59098,7 +59058,7 @@
     <item>
       <g:id>14914656469356</g:id>
       <g:title>Cinturón santana negro</g:title>
-      <g:description>Santana es un cinturón en PU liso negro, de perfil clásico básico con hebilla dorado claro. El accesorio ideal para marcar la cintura con estilo. Ideal para combinar con jeans, vestidos o faldas, sumando un toque de estilo a tu outfit.. Variantes disponibles: Negro / S, Negro / M, Negro / L.</g:description>
+      <g:description>Santana es un cinturón en PU liso negro, de perfil clásico básico con hebilla dorado claro. El accesorio ideal para marcar la cintura con estilo. Ideal para combinar con jeans, vestidos o faldas, sumando un toque de estilo a tu outfit. Variantes disponibles: Negro / S, Negro / M, Negro / L.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cinturon-santana-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-santanab40201-1-675c2781-eb06-47f4-bde4-2f6337f414c1.jpg?v=1760700899</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -60001,9 +59961,9 @@
     <item>
       <g:id>14914663448940</g:id>
       <g:title>Cinturón victoria beige</g:title>
-      <g:description>Victoria es un cinturón en PU liso beige, de perfil clásico básico con hebilla dorado claro. El accesorio infaltable para marcar la cintura con estilo. El accesorio perfecto para marcar la cintura y darle estructura a cualquier look, casual o formal.. Variantes disponibles: Beige / M, Beige / L.</g:description>
+      <g:description>Victoria es un cinturón en PU liso beige, de perfil clásico básico con hebilla dorado claro. El accesorio infaltable para marcar la cintura con estilo. El accesorio perfecto para marcar la cintura y darle estructura a cualquier look, casual o formal. Variantes disponibles: Beige / M, Beige / L.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cinturon-victoria-beige</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-victoriab45605-1-f8ac86cb-23af-402b-bb4d-1fc4faa52085.jpg?v=1760700358</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-victoriab45605-1-5cf69711-0ecc-4d48-a2a3-46c9397f0442.jpg?v=1760700358</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>11990.00 CLP</g:price>
       <g:sale_price>9990.00 CLP</g:sale_price>
@@ -60323,7 +60283,7 @@
     <item>
       <g:id>14914662039916</g:id>
       <g:title>Cinturón sara rojo</g:title>
-      <g:description>Sara es un cinturón en PU liso rojo, de perfil clásico básico con hebilla dorado claro. El accesorio infaltable para marcar la cintura con estilo. El accesorio perfecto para marcar la cintura y darle estructura a cualquier look, casual o formal.. Variantes disponibles: Rojo / S, Rojo / M, Rojo / L.</g:description>
+      <g:description>Sara es un cinturón en PU liso rojo, de perfil clásico básico con hebilla dorado claro. El accesorio infaltable para marcar la cintura con estilo. El accesorio perfecto para marcar la cintura y darle estructura a cualquier look, casual o formal. Variantes disponibles: Rojo / S, Rojo / M, Rojo / L.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cinturon-sara-rojo</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-sarab45840-1-090774fa-6301-4332-b41a-f3126336d7d5.jpg?v=1760700209</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -61159,7 +61119,7 @@
     <item>
       <g:id>14904531026284</g:id>
       <g:title>Billetera lizel mediana petroleo oscuro</g:title>
-      <g:description>Pack light, move fast! La billetera Lizel en petróleo oscuro es el accesorio funcional que necesitas. Con su material de nylon y detalles en niquelado, combina durabilidad y un look moderno. Sus 10 cm x 16 cm x 3 cm te permiten llevar lo necesario sin ocupar espacio extra. Ideal para quienes están siempre en movimiento.. Variantes disponibles: Petróleo Oscuro / Única.</g:description>
+      <g:description>Pack light, move fast! La billetera Lizel en petróleo oscuro es el accesorio funcional que necesitas. Con su material de nylon y detalles en niquelado, combina durabilidad y un look moderno. Sus 10 cm x 16 cm x 3 cm te permiten llevar lo necesario sin ocupar espacio extra. Ideal para quienes están siempre en movimiento. Variantes disponibles: Petróleo Oscuro / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/billetera-mediana-lizel-petroleo-oscuro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-90355496830-1-e7b533e5-6b81-4572-a63f-379d207dbe95.jpg?v=1759509895</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -61186,7 +61146,7 @@
     <item>
       <g:id>14904530895212</g:id>
       <g:title>Billetera lizel pequeña petroleo oscuro</g:title>
-      <g:description>Your new travel mate! La billetera Lizel pequeña en petróleo oscuro es sinónimo de practicidad. Su material de nylon y dimensiones funcionales la hacen ideal para quienes buscan viajar ligero.. Variantes disponibles: Petróleo Oscuro / Única.</g:description>
+      <g:description>Your new travel mate! La billetera Lizel pequeña en petróleo oscuro es sinónimo de practicidad. Su material de nylon y dimensiones funcionales la hacen ideal para quienes buscan viajar ligero. Variantes disponibles: Petróleo Oscuro / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/billetera-pequena-lizel-petroleo-oscuro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-90355497030-1-64c29df2-f5e9-4bac-bc00-4a52b286df41.jpg?v=1759509891</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -61200,7 +61160,7 @@
     <item>
       <g:id>14904531059052</g:id>
       <g:title>Monedero school pequeña beige</g:title>
-      <g:description>Let&apos;s move! El monedero School en beige es ese accesorio pequeño pero clave que te sigue el ritmo. Confeccionado en nylon y con detalles metálicos niquelados, es resistente y ligero. Su tamaño compacto te permite llevarlo en cualquier bolsillo o bolso sin ocupar espacio de más. Práctico y funcional, perfecto para esos días en los que necesitas moverte sin peso extra.. Variantes disponibles: Beige / Única.</g:description>
+      <g:description>Let&apos;s move! El monedero School en beige es ese accesorio pequeño pero clave que te sigue el ritmo. Confeccionado en nylon y con detalles metálicos niquelados, es resistente y ligero. Su tamaño compacto te permite llevarlo en cualquier bolsillo o bolso sin ocupar espacio de más. Práctico y funcional, perfecto para esos días en los que necesitas moverte sin peso extra. Variantes disponibles: Beige / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/monedero-pequena-school-beige</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-90355497805-1-127b0979-d4e4-4502-89d5-2379af316dd3.jpg?v=1759509889</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -61214,7 +61174,7 @@
     <item>
       <g:id>14904530796908</g:id>
       <g:title>Billetera lizel mediana rosa viejo</g:title>
-      <g:description>Adventure-ready! La billetera Lizel en rosa viejo le da un toque de frescura a tu estilo. Fabricada en nylon resistente y con detalles en niquelado, está pensada para acompañarte en cada exploración. Su diseño práctico con cierre seguro y dimensiones compactas garantizan comodidad y organización en todo momento.. Variantes disponibles: Rosa Viejo / Única.</g:description>
+      <g:description>Adventure-ready! La billetera Lizel en rosa viejo le da un toque de frescura a tu estilo. Fabricada en nylon resistente y con detalles en niquelado, está pensada para acompañarte en cada exploración. Su diseño práctico con cierre seguro y dimensiones compactas garantizan comodidad y organización en todo momento. Variantes disponibles: Rosa Viejo / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/billetera-mediana-lizel-rosa-viejo</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-90355496858-1-36ffee63-c708-4044-91bf-b3cdc80cdc3f.jpg?v=1759509887</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -61228,7 +61188,7 @@
     <item>
       <g:id>14904531222892</g:id>
       <g:title>Monedero lizel pequeña negro</g:title>
-      <g:description>Stay light, stay ready! El monedero Lizel en negro es un imprescindible para quienes buscan practicidad. Fabricado en nylon ligero, cuenta con cierre seguro y un diseño compacto de 10 cm x 12 cm x 1 cm. Su tono negro lo hace una opción versátil para cualquier ocasión.. Variantes disponibles: Negro / Única.</g:description>
+      <g:description>Stay light, stay ready! El monedero Lizel en negro es un imprescindible para quienes buscan practicidad. Fabricado en nylon ligero, cuenta con cierre seguro y un diseño compacto de 10 cm x 12 cm x 1 cm. Su tono negro lo hace una opción versátil para cualquier ocasión. Variantes disponibles: Negro / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/monedero-pequena-lizel-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-90355496901-1-b38a9550-26bf-4200-9eb0-da2d994d0699.jpg?v=1759509883</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -61242,7 +61202,7 @@
     <item>
       <g:id>14904531124588</g:id>
       <g:title>Billetera lizel mediana verde oliva</g:title>
-      <g:description>Just grab &amp;amp; go! La billetera Lizel en verde oliva es una opción versátil y funcional. Confeccionada en nylon resistente, cuenta con un cómodo cierre y un diseño compacto. Su color verde oliva le da un aire fresco y casual, perfecto para complementar cualquier outfit.. Variantes disponibles: Verde Oliva / Única.</g:description>
+      <g:description>Just grab &amp;amp; go! La billetera Lizel en verde oliva es una opción versátil y funcional. Confeccionada en nylon resistente, cuenta con un cómodo cierre y un diseño compacto. Su color verde oliva le da un aire fresco y casual, perfecto para complementar cualquier outfit. Variantes disponibles: Verde Oliva / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/billetera-mediana-lizel-verde-oliva</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-90355496838-1-42da165d-7958-4045-afa5-f23a563cc0fa.jpg?v=1759509881</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -61256,7 +61216,7 @@
     <item>
       <g:id>14904531321196</g:id>
       <g:title>Billetera lizel pequeña verde oliva</g:title>
-      <g:description>Less bulk, more freedom! La billetera Lizel pequeña en verde oliva es un accesorio esencial para cualquier aventura. Con cierre seguro y diseño en nylon, es la opción ideal para quienes priorizan la comodidad y el estilo.. Variantes disponibles: Verde Oliva / Única.</g:description>
+      <g:description>Less bulk, more freedom! La billetera Lizel pequeña en verde oliva es un accesorio esencial para cualquier aventura. Con cierre seguro y diseño en nylon, es la opción ideal para quienes priorizan la comodidad y el estilo. Variantes disponibles: Verde Oliva / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/billetera-pequena-lizel-verde-oliva</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-90355497038-1-0952b0dd-0af9-4b0c-a3d1-35fee20a0e6f.jpg?v=1759509876</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -61270,7 +61230,7 @@
     <item>
       <g:id>14904531353964</g:id>
       <g:title>Billetera lizel pequeña rosa viejo</g:title>
-      <g:description>Go light, go far! La billetera Lizel pequeña en rosa viejo ofrece un diseño compacto con cierre práctico. Fabricada en nylon, está pensada para acompañarte en cada movimiento sin preocupaciones.. Variantes disponibles: Rosa Viejo / Única.</g:description>
+      <g:description>Go light, go far! La billetera Lizel pequeña en rosa viejo ofrece un diseño compacto con cierre práctico. Fabricada en nylon, está pensada para acompañarte en cada movimiento sin preocupaciones. Variantes disponibles: Rosa Viejo / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/billetera-pequena-lizel-rosa-viejo</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-90355497058-1-0f643a7f-e323-4d70-bfaa-980576272488.jpg?v=1759509873</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -61284,7 +61244,7 @@
     <item>
       <g:id>14904531419500</g:id>
       <g:title>Monedero lizel pequeña rosa viejo</g:title>
-      <g:description>For everyday explorers! El monedero Lizel en rosa viejo es pequeño pero funcional. Confeccionado en nylon resistente, su diseño minimalista y cierre seguro lo convierten en el aliado ideal para llevar monedas y tarjetas sin complicaciones.. Variantes disponibles: Rosa Viejo / Única.</g:description>
+      <g:description>For everyday explorers! El monedero Lizel en rosa viejo es pequeño pero funcional. Confeccionado en nylon resistente, su diseño minimalista y cierre seguro lo convierten en el aliado ideal para llevar monedas y tarjetas sin complicaciones. Variantes disponibles: Rosa Viejo / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/monedero-pequena-lizel-rosa-viejo</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-90355496958-1-59fc22d0-e4fe-49b4-a6f8-9bdf2e72ac88.jpg?v=1759509868</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -61298,7 +61258,7 @@
     <item>
       <g:id>14904530862444</g:id>
       <g:title>Billetera lizel pequeña negro</g:title>
-      <g:description>Adventure in style! La billetera Lizel pequeña en negro combina funcionalidad y diseño. Hecha en nylon resistente y con cierre seguro, es ideal para llevar lo esencial sin ocupar espacio de más.. Variantes disponibles: Negro / Única.</g:description>
+      <g:description>Adventure in style! La billetera Lizel pequeña en negro combina funcionalidad y diseño. Hecha en nylon resistente y con cierre seguro, es ideal para llevar lo esencial sin ocupar espacio de más. Variantes disponibles: Negro / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/billetera-pequena-lizel-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-90355497001-1-dcfed8a6-5e1e-421a-9a1d-8d248eba152a.jpg?v=1759509868</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -61312,7 +61272,7 @@
     <item>
       <g:id>14904530927980</g:id>
       <g:title>Monedero lizel pequeña petroleo oscuro</g:title>
-      <g:description>Adventure compact! El monedero Lizel en petróleo oscuro es perfecto para quienes buscan un accesorio liviano y resistente. Su tamaño reducido de 10 cm x 12 cm x 1 cm lo hace ideal para quienes aman la comodidad sin renunciar al estilo.. Variantes disponibles: Petróleo Oscuro / Única.</g:description>
+      <g:description>Adventure compact! El monedero Lizel en petróleo oscuro es perfecto para quienes buscan un accesorio liviano y resistente. Su tamaño reducido de 10 cm x 12 cm x 1 cm lo hace ideal para quienes aman la comodidad sin renunciar al estilo. Variantes disponibles: Petróleo Oscuro / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/monedero-pequena-lizel-petroleo-oscuro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-90355496930-1-8a940f25-7113-495f-8151-ea3cee807563.jpg?v=1759509867</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -61326,7 +61286,7 @@
     <item>
       <g:id>14904530960748</g:id>
       <g:title>Monedero school pequeña negro</g:title>
-      <g:description>Ready to go? El monedero School en negro es compacto, práctico y siempre listo para acompañarte en cualquier aventura. Fabricado en nylon con detalles niquelados, es ligero y resistente. Su diseño de mano y su cierre seguro lo convierten en un esencial para llevar tus monedas y tarjetas sin complicaciones. Un must-have para quienes buscan practicidad con un toque sport casual.. Variantes disponibles: Negro / Única.</g:description>
+      <g:description>Ready to go? El monedero School en negro es compacto, práctico y siempre listo para acompañarte en cualquier aventura. Fabricado en nylon con detalles niquelados, es ligero y resistente. Su diseño de mano y su cierre seguro lo convierten en un esencial para llevar tus monedas y tarjetas sin complicaciones. Un must-have para quienes buscan practicidad con un toque sport casual. Variantes disponibles: Negro / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/monedero-pequena-school-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-90355497801-1-c25902d3-c41a-4791-ac53-e9409a2bdf3a.jpg?v=1759509865</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -61340,7 +61300,7 @@
     <item>
       <g:id>14904531091820</g:id>
       <g:title>Monedero lizel pequeña verde oliva</g:title>
-      <g:description>Keep it simple! El monedero Lizel en verde oliva es la solución ideal para quienes buscan organización en formato compacto. Su material de nylon, su cómodo cierre y su diseño ligero lo hacen perfecto para cualquier aventura.. Variantes disponibles: Verde Oliva / Única.</g:description>
+      <g:description>Keep it simple! El monedero Lizel en verde oliva es la solución ideal para quienes buscan organización en formato compacto. Su material de nylon, su cómodo cierre y su diseño ligero lo hacen perfecto para cualquier aventura. Variantes disponibles: Verde Oliva / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/monedero-pequena-lizel-verde-oliva</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-90355496938-1-de438f10-06cb-4708-a972-6cdfe3d204db.jpg?v=1759509865</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -61354,7 +61314,7 @@
     <item>
       <g:id>14904530993516</g:id>
       <g:title>Monedero school pequeña denim</g:title>
-      <g:description>Keep it simple! El monedero School en denim combina funcionalidad y estilo en un solo accesorio. Compacto y liviano, su confección en nylon lo hace resistente y fácil de llevar a cualquier parte. Con un cierre seguro y detalles metálicos, es ese básico que nunca puede faltar en tu día a día.. Variantes disponibles: Denim / Única.</g:description>
+      <g:description>Keep it simple! El monedero School en denim combina funcionalidad y estilo en un solo accesorio. Compacto y liviano, su confección en nylon lo hace resistente y fácil de llevar a cualquier parte. Con un cierre seguro y detalles metálicos, es ese básico que nunca puede faltar en tu día a día. Variantes disponibles: Denim / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/monedero-pequena-school-denim</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-90355497820-1-396b3434-463b-4685-8bdd-15df2956ca43.jpg?v=1759509782</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -61368,7 +61328,7 @@
     <item>
       <g:id>14904530829676</g:id>
       <g:title>Billetera lizel mediana negro</g:title>
-      <g:description>Take it anywhere! La billetera Lizel en negro está diseñada para quienes buscan practicidad sin perder estilo. Su material de nylon ligero y resistente la hace perfecta para acompañarte en cada viaje. Con cierre seguro y un diseño de 10 cm x 16 cm x 3 cm, ofrece el espacio justo para tus esenciales. Su color negro la convierte en un clásico infalible para cualquier ocasión.. Variantes disponibles: Negro / Única.</g:description>
+      <g:description>Take it anywhere! La billetera Lizel en negro está diseñada para quienes buscan practicidad sin perder estilo. Su material de nylon ligero y resistente la hace perfecta para acompañarte en cada viaje. Con cierre seguro y un diseño de 10 cm x 16 cm x 3 cm, ofrece el espacio justo para tus esenciales. Su color negro la convierte en un clásico infalible para cualquier ocasión. Variantes disponibles: Negro / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/billetera-mediana-lizel-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-90355496801-1-cf73b828-0d12-4d3b-8660-3816266ddcb6.jpg?v=1759509767</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -63239,7 +63199,7 @@
     <item>
       <g:id>14881676853612</g:id>
       <g:title>Ballerina iris cuero animal print</g:title>
-      <g:description>Sandalias de plataforma Capri con taco cuadrado y tiras cruzadas, un diseño versátil y actual. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Ideal para quienes buscan un diseño versátil que combine con cualquier look.. Variantes disponibles: Negro especial / 35, Negro especial / 36, Negro especial / 37, Negro especial / 38, Negro especial / 39.</g:description>
+      <g:description>Sandalias de plataforma Capri con taco cuadrado y tiras cruzadas, un diseño versátil y actual. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Variantes disponibles: Negro especial / 35, Negro especial / 36, Negro especial / 37, Negro especial / 38, Negro especial / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/ballerina-iris-cuero-negro-especial</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-irisz28256-1-2e020471-a144-4c68-bae2-a5310c92659a.jpg?v=1757431247</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -63253,7 +63213,7 @@
     <item>
       <g:id>14881672593772</g:id>
       <g:title>Sandalia bianca cuero negro</g:title>
-      <g:description>Sandalia Amphora Bianca fabricada en cuero con textura suave y taco cuadrado medio, un diseño cómodo y elegante para acompañar tus looks de oficina y salidas sociales. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día.. Variantes disponibles: Negro / 35, Negro / 36, Negro / 37, Negro / 38, Negro / 39.</g:description>
+      <g:description>Sandalia Amphora Bianca fabricada en cuero con textura suave y taco cuadrado medio, un diseño cómodo y elegante para acompañar tus looks de oficina y salidas sociales. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Variantes disponibles: Negro / 35, Negro / 36, Negro / 37, Negro / 38, Negro / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-bianca-cuero-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-biancaz28501-1-4fc980ec-403b-46f0-9727-d1bc1b972daf.jpg?v=1757431225</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -63267,7 +63227,7 @@
     <item>
       <g:id>14881677279596</g:id>
       <g:title>Sandalia coral cuero plateado oscuro</g:title>
-      <g:description>Mule Coral de Amphora: cuero sintético, taco medio y tachas decorativas que convierten un look sencillo en un outfit de impacto. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Ideal para quienes buscan un diseño versátil que combine con cualquier look.. Variantes disponibles: Plateado Oscuro / 35, Plateado Oscuro / 36, Plateado Oscuro / 37, Plateado Oscuro / 38, Plateado Oscuro / 39.</g:description>
+      <g:description>Mule Coral de Amphora: cuero sintético, taco medio y tachas decorativas que convierten un look sencillo en un outfit de impacto. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Variantes disponibles: Plateado Oscuro / 35, Plateado Oscuro / 36, Plateado Oscuro / 37, Plateado Oscuro / 38, Plateado Oscuro / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-coral-cuero-plateado-oscuro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-coralz28762-1-40cfe263-73ff-49a0-889b-1309eaba61d1.jpg?v=1757430279</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -63281,7 +63241,7 @@
     <item>
       <g:id>14881668202860</g:id>
       <g:title>Sandalia marina cuero beige</g:title>
-      <g:description>Confeccionadas en cuero sintético durable, las sandalias Marina de Amphora son cómodas y versátiles, perfectas para looks de media estación. Ideal para quienes buscan un diseño versátil que combine con cualquier look.. Variantes disponibles: Beige / 35, Beige / 36, Beige / 37, Beige / 38, Beige / 39.</g:description>
+      <g:description>Confeccionadas en cuero sintético durable, las sandalias Marina de Amphora son cómodas y versátiles, perfectas para looks de media estación. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Variantes disponibles: Beige / 35, Beige / 36, Beige / 37, Beige / 38, Beige / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-marina-cuero-beige</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-marinaz28605-1-30b8dd66-4254-4f57-b88e-948ace504a94.jpg?v=1757430265</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -63295,7 +63255,7 @@
     <item>
       <g:id>14881667219820</g:id>
       <g:title>Sandalia amber cuero blanco crudo</g:title>
-      <g:description>Sandalias Amber de Amphora: moda y practicidad en un diseño de plataforma que estiliza tu look. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Un básico que se convierte en el complemento perfecto para tu estilo personal.. Variantes disponibles: Blanco Crudo / 35, Blanco Crudo / 36, Blanco Crudo / 37, Blanco Crudo / 38, Blanco Crudo / 39.</g:description>
+      <g:description>Sandalias Amber de Amphora: moda y practicidad en un diseño de plataforma que estiliza tu look. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Un básico que se convierte en el complemento perfecto para tu estilo personal. Variantes disponibles: Blanco Crudo / 35, Blanco Crudo / 36, Blanco Crudo / 37, Blanco Crudo / 38, Blanco Crudo / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-amber-cuero-blanco-crudo</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-amberz29757-1-3f1eec0b-ebdb-4c87-a8b4-257693bdc8d3.jpg?v=1757430187</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -65203,20 +65163,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>14881583726956</g:id>
-      <g:title>Cartera tote samanta grande beige</g:title>
-      <g:description>Samanta es una tote grande en PU suede beige, de perfil clásico básico con cierre y herrajes dorado claro, para llevar al hombro. Un básico que no puede faltar en tu colección, versátil para cualquier ocasión del día. Variantes disponibles: Beige / Única.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/cartera-dos-asas-samanta-grande-beige</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-40434205905-1-b52f85a5-20e7-4b57-a24d-fb08c4b652c0.jpg?v=1757427400</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>39990.00 CLP</g:price>
-      <g:sale_price>31990.00 CLP</g:sale_price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>TOTE</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>14881583300972</g:id>
       <g:title>Monedero eiza pequeña negro</g:title>
       <g:description>Eiza es un monedero de perfil étnico, en ecocuero snake negro con cierre y herrajes niquelados. Su textura distinta le suma personalidad a tu cartera del día a día. La opción ideal si buscas renovar tus accesorios con un diseño práctico y actual. Variantes disponibles: Negro / Única.</g:description>
@@ -65801,7 +65747,7 @@
     <item>
       <g:id>14879321162092</g:id>
       <g:title>Ballerina iris cuero camel</g:title>
-      <g:description>Diseño cómodo y llamativo: las Capri son el must-have de la temporada. Un básico que se convierte en el complemento perfecto para tu estilo personal. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día.. Variantes disponibles: Camel / 35, Camel / 36, Camel / 37, Camel / 38, Camel / 39.</g:description>
+      <g:description>Diseño cómodo y llamativo: las Capri son el must-have de la temporada. Un básico que se convierte en el complemento perfecto para tu estilo personal. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Variantes disponibles: Camel / 35, Camel / 36, Camel / 37, Camel / 38, Camel / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/ballerina-iris-cuero-camel</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-irisz28207-1-86de4ada-af55-48f0-8bc5-6d7234deba18.jpg?v=1757075312</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -65815,7 +65761,7 @@
     <item>
       <g:id>14879320899948</g:id>
       <g:title>Sandalia freya cuero negro especial</g:title>
-      <g:description>Con un diseño llamativo, las sandalias Freya son la opción ideal para destacar en cualquier ocasión casual. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Ideal para quienes buscan un diseño versátil que combine con cualquier look.. Variantes disponibles: Negro especial / 35, Negro especial / 36, Negro especial / 37, Negro especial / 38, Negro especial / 39.</g:description>
+      <g:description>Con un diseño llamativo, las sandalias Freya son la opción ideal para destacar en cualquier ocasión casual. Un accesorio pensado para sumar estilo y funcionalidad a tu día a día. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Variantes disponibles: Negro especial / 35, Negro especial / 36, Negro especial / 37, Negro especial / 38, Negro especial / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-freya-cuero-negro-especial</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-freyaz30056-1-747fee54-8a44-4bea-91ee-f4c3035072ea.jpg?v=1757075110</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -66487,20 +66433,6 @@
       <g:availability>in_stock</g:availability>
       <g:price>9990.00 CLP</g:price>
       <g:sale_price>5990.00 CLP</g:sale_price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>HANGING</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>14871855792492</g:id>
-      <g:title>Hanging lucy verde claro</g:title>
-      <g:description>Fresh &amp;amp; trendy! El accesorio Lucy en verde claro es un acento perfecto para complementar cualquier look. Confeccionado en ecocuero grano y con broche de cierre niquelado, su tamaño de 9 cm de alto y 9 cm de ancho lo hace funcional y estiloso. Just the right touch! Variantes disponibles: Verde Claro / Única.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/hanging-lucy-verde-claro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-7032h23336-1-923d6c80-5de9-46db-b833-fe66c5f00740.jpg?v=1756126762</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>11990.00 CLP</g:price>
-      <g:sale_price>6990.00 CLP</g:sale_price>
       <g:brand>Amphora</g:brand>
       <g:product_type>HANGING</g:product_type>
       <g:condition>new</g:condition>
@@ -70125,7 +70057,7 @@
     <item>
       <g:id>14700958318956</g:id>
       <g:title>Biker jacket nancy negro</g:title>
-      <g:description>La chaqueta Nancy en negro es un básico infaltable para el invierno. Su acabado brillante en ecocuero le da un toque moderno y sofisticado, mientras que el cierre frontal y los detalles en herrajes niquelados suman estilo y funcionalidad. Disponible en diferentes tamaños, para que elijas el fit perfecto para ti. Ideal para combinar con cualquier look casual y darle un upgrade instantáneo. Ready to shine? Get yours now!. Variantes disponibles: Negro / S, Negro / M, Negro / L, Negro / XL.</g:description>
+      <g:description>La chaqueta Nancy en negro es un básico infaltable para el invierno. Su acabado brillante en ecocuero le da un toque moderno y sofisticado, mientras que el cierre frontal y los detalles en herrajes niquelados suman estilo y funcionalidad. Disponible en diferentes tamaños, para que elijas el fit perfecto para ti. Ideal para combinar con cualquier look casual y darle un upgrade instantáneo. Ready to shine? Get yours now! Variantes disponibles: Negro / S, Negro / M, Negro / L, Negro / XL.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/chaqueta-nancy-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-nancyj04001-2-023dc574-3b1e-4ef2-9002-2037c46b8cbc.jpg?v=1789586785</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -70334,7 +70266,7 @@
     <item>
       <g:id>9719008002363</g:id>
       <g:title>Sandalia salma cuero negro</g:title>
-      <g:description>Salma es una sandalia en cuero negro, con hebilla ajustable para un calce perfecto. El calzado infaltable de la temporada cálida, cómodo para caminar todo el día sin perder estilo. Cómodo para el uso diario y fácil de combinar con looks casuales o más formales.. Variantes disponibles: Negro / 37, Negro / 38, Negro / 36, Negro / 35, Negro / 39.</g:description>
+      <g:description>Salma es una sandalia en cuero negro, con hebilla ajustable para un calce perfecto. El calzado infaltable de la temporada cálida, cómodo para caminar todo el día sin perder estilo. Cómodo para el uso diario y fácil de combinar con looks casuales o más formales. Variantes disponibles: Negro / 37, Negro / 38, Negro / 36, Negro / 35, Negro / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-salma-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-salmaz19101-1-f75e6d28-2062-4b21-92a2-ffc2194766de_8d985614-a6b2-404e-bade-81a7a8b3183c.jpg?v=1733311686</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -70348,7 +70280,7 @@
     <item>
       <g:id>14623994937708</g:id>
       <g:title>Sandalia carolina cuero negro</g:title>
-      <g:description>Descubre las sandalias Carolina by Amphora, una fusión perfecta entre estilo y comodidad. Confeccionadas en cuero, estas sandalias de color negro, presentan un diseño elegante y versátil, ideal para acompañarte en cualquier ocasión, desde un día de oficina hasta una salida nocturna. Con un taco de 4 cm estilo cuña y detalles en dorado claro, son la elección perfecta para esta temporada.. Variantes disponibles: Negro / 35, Negro / 36, Negro / 37, Negro / 38, Negro / 39, Negro / 40.</g:description>
+      <g:description>Descubre las sandalias Carolina by Amphora, una fusión perfecta entre estilo y comodidad. Confeccionadas en cuero, estas sandalias de color negro, presentan un diseño elegante y versátil, ideal para acompañarte en cualquier ocasión, desde un día de oficina hasta una salida nocturna. Con un taco de 4 cm estilo cuña y detalles en dorado claro, son la elección perfecta para esta temporada. Variantes disponibles: Negro / 35, Negro / 36, Negro / 37, Negro / 38, Negro / 39, Negro / 40.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-carolina-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/carolinaz23101-2-1-384a000d-8418-4f18-9e16-a2667a9cd7ed.jpg?v=1733311576</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -70571,7 +70503,7 @@
     <item>
       <g:id>14721349878124</g:id>
       <g:title>Botin Taco cristina cuero negro</g:title>
-      <g:description>Cristina es un botín con taco en cuero brillante negro, de estilo clásico con cierre lateral. Cómodo y con actitud para looks casuales de temporada fría. Un básico versátil que se adapta a cualquier ocasión sin sacrificar comodidad.. Variantes disponibles: 38, 37, 36, 39, 35.</g:description>
+      <g:description>Cristina es un botín con taco en cuero brillante negro, de estilo clásico con cierre lateral. Cómodo y con actitud para looks casuales de temporada fría. Un básico versátil que se adapta a cualquier ocasión sin sacrificar comodidad. Variantes disponibles: 38, 37, 36, 39, 35.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/botin-taco-cristina-negro-1</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-cristinaz25901-1-f6b9449e-0d5a-479a-b05a-3f333561fb5d.jpg?v=1745261146</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -74544,7 +74476,7 @@
     <item>
       <g:id>9478570410299</g:id>
       <g:title>Cinturón flaviana café</g:title>
-      <g:description>El estilo está en los detalles y su textura. Nuestro cinturón Flaviana es el complemento perfecto para darle un toque a tu outfit. Su material PU y su hebilla color dorada, le añaden personalidad que lo convertirán un esencial en tu closet. Thank you Flaviana!. Variantes disponibles: Café / S, Café / M, Café / L.</g:description>
+      <g:description>El estilo está en los detalles y su textura. Nuestro cinturón Flaviana es el complemento perfecto para darle un toque a tu outfit. Su material PU y su hebilla color dorada, le añaden personalidad que lo convertirán un esencial en tu closet. Thank you Flaviana! Variantes disponibles: Café / S, Café / M, Café / L.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cinturon-flaviana-cafe</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-flavianab18610-1-9da54fbd-6e09-47eb-9779-64b2a132ed28.jpg?v=1789585216</g:image_link>
       <g:availability>in_stock</g:availability>
