@@ -5,6 +5,20 @@
     <link>https://amphora-cl.myshopify.com</link>
     <description>Catalogo completo de productos</description>
     <item>
+      <g:id>14871856709996</g:id>
+      <g:title>Hanging devon negro</g:title>
+      <g:description>Devon es un colgante hanging en PU graneado negro, de perfil clásico básico con cierre y herrajes niquelados. Ese detalle práctico para llevar en la mano. Ideal para personalizar tus accesorios y sumar un toque distinto a tu estilo diario. Variantes disponibles: Negro / Única.</g:description>
+      <g:link>https://amphora-cl.myshopify.com/products/hanging-devon-negro</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-7032h22201-1-2cfe4256-9e77-43ad-8e09-e72068a7cd4d.jpg?v=1756126841</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>9990.00 CLP</g:price>
+      <g:sale_price>5990.00 CLP</g:sale_price>
+      <g:brand>Amphora</g:brand>
+      <g:product_type>HANGING</g:product_type>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>15484728607084</g:id>
       <g:title>Mochila cloe mediana azul oscuro</g:title>
       <g:description>Amamos los accesorios minimalistas. Te presentamos a Cloe de Amphora, la mochila perfecta en color azúl para acompañarte a todas partes, ya sea a la oficina o en tu día a día. Su combinación de colores y detalles exclusivos la hacen un modelo muy versátil. Confeccionada en PU graneado, de tamaño mediano, cuenta con dos compartimentos externos, tres internos y una tapa que protege todos tus objetos. Elegancia concentrada en un solo accesorio: Cloe, moderna y atemporal. Variantes disponibles: Única.</g:description>
@@ -23223,20 +23237,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>14888731574636</g:id>
-      <g:title>Mochila porta notebook nesta grande verde oliva</g:title>
-      <g:description>Nesta es una mochila porta notebook grande en verde oliva, de estilo urban sport con capacidad de 13 litros, cierre y herrajes niquelados. Pensada para quienes se mueven rápido y necesitan espacio para el computador y todo lo demás. Variantes disponibles: Verde Oliva / Única.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/mochila-porta-notebook-nesta-grande-verde-oliva</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-40064107338-1-4c8cfeac-80eb-4369-93a6-87c12f2841f0.jpg?v=1757968573</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>38990.00 CLP</g:price>
-      <g:sale_price>23990.00 CLP</g:sale_price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>MOCHILA PORTA NOTEBOOK</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>15217989321068</g:id>
       <g:title>Cartera bandolera reversible raven</g:title>
       <g:description></g:description>
@@ -31824,7 +31824,7 @@
     <item>
       <g:id>15064948277612</g:id>
       <g:title>Mochila porta notebook nesta grande</g:title>
-      <g:description> Variantes disponibles: Gris Claro / Única, Negro / Única, Verde Oliva / Única.</g:description>
+      <g:description> Variantes disponibles: Gris Claro / Única, Negro / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/mochila-porta-notebook-nesta-grande</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-40064107368-1-515fcebd-5521-47cf-ae08-e09a1582e151.jpg?v=1757968559</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -67038,20 +67038,6 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-7032h07501-1-ea4caca2-8e5e-4b9c-b222-90b596dfd56f.jpg?v=1718974341</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>12990.00 CLP</g:price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>HANGING</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>14871856709996</g:id>
-      <g:title>Hanging devon negro</g:title>
-      <g:description>Devon es un colgante hanging en PU graneado negro, de perfil clásico básico con cierre y herrajes niquelados. Ese detalle práctico para llevar en la mano. Ideal para personalizar tus accesorios y sumar un toque distinto a tu estilo diario. Variantes disponibles: Negro / Única.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/hanging-devon-negro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-7032h22201-1-2cfe4256-9e77-43ad-8e09-e72068a7cd4d.jpg?v=1756126841</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>9990.00 CLP</g:price>
-      <g:sale_price>5990.00 CLP</g:sale_price>
       <g:brand>Amphora</g:brand>
       <g:product_type>HANGING</g:product_type>
       <g:condition>new</g:condition>
