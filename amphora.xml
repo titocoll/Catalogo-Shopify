@@ -5,6 +5,20 @@
     <link>https://amphora-cl.myshopify.com</link>
     <description>Catalogo completo de productos</description>
     <item>
+      <g:id>9478433374523</g:id>
+      <g:title>Lentes de sol malibú negro</g:title>
+      <g:description>Malibú es un lente de sol en policarbonato negro con acabado plástico brillante. Ese básico atemporal que completa cualquier look de verano con actitud. Ese accesorio que suma un toque de estilo a cualquier look, de día o de noche. Variantes disponibles: Única.</g:description>
+      <g:link>https://amphora-cl.myshopify.com/products/lentes-de-sol-malibu-negro</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-7025g02601-2-0a045dec-e2a3-4d68-88dc-8f99cefec7a6-c23eda4f-a66a-49fb-9e42-c709e681f57d_003f4ca1-e3d7-4b08-9247-af69c81c4f4b.jpg?v=1738975966</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>29990.00 CLP</g:price>
+      <g:sale_price>20990.00 CLP</g:sale_price>
+      <g:brand>Amphora</g:brand>
+      <g:product_type>LENTES DE SOL</g:product_type>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>15487373214060</g:id>
       <g:title>Lentes de sol prisma negro</g:title>
       <g:description>Prisma es un lente de sol en negro, ese básico atemporal que combina con todo y suma un toque de misterio a cualquier look de verano. Ese accesorio que suma un toque de estilo a cualquier look, de día o de noche. Variantes disponibles: Única.</g:description>
