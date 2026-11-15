@@ -5,6 +5,19 @@
     <link>https://amphora-cl.myshopify.com</link>
     <description>Catalogo completo de productos</description>
     <item>
+      <g:id>15257596100972</g:id>
+      <g:title>Cartera de fiesta jones dorado</g:title>
+      <g:description>Jones es una cartera de fiesta de perfil sofisticado, en dorado con broche y herrajes dorado claro. Pequeña, elegante y fácil de llevar en la mano, es el accesorio ideal para looks de gala o eventos especiales. Variantes disponibles: Dorado / Única.</g:description>
+      <g:link>https://amphora-cl.myshopify.com/products/cartera-de-fiesta-jones-dorado</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-40714007151-1-5542003a-3130-4bbe-b64e-90ce1fe9a55c.jpg?v=1792151453</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>24990.00 CLP</g:price>
+      <g:brand>Amphora</g:brand>
+      <g:product_type>DE FIESTA</g:product_type>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>9468446277947</g:id>
       <g:title>Cartera tote tres divisiones noix mediana negro</g:title>
       <g:description>Aquellos clásicos modelos atemporales que son siempre bienvenidos en tu armario. Conoce nuestra cartera dos asas tres divisones Noix. Este modelo de Amphora confeccionada en PU graneado y es totalmente atemporal. Puedes usarla durante el díay llevar todo lo necesario, dado sus compartimientos internos. Además, cuenta con tres bolsillos internos para mantener todo de forma ordenada. Viene con asas cortas de mano y su strap regulable, que te permite llevarla al hombro o cruzada. So long, hello Dear Noix! Variantes disponibles: Única.</g:description>
@@ -273,20 +286,6 @@
       <g:sale_price>17990.00 CLP</g:sale_price>
       <g:brand>Amphora</g:brand>
       <g:product_type>BANDOLERA</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>14914658435436</g:id>
-      <g:title>Billetera bissau mediana burdeo</g:title>
-      <g:description>Rich &amp;amp; elegant! La billetera mediana Bissau en burdeo es el complemento perfecto para quienes buscan un accesorio sofisticado. Confeccionada en ecocuero graneado con herrajes en niquelado, su diseño con broche combina funcionalidad y estilo. Add a bold touch! Variantes disponibles: Burdeo / Única.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/billetera-mediana-bissau-burdeo</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-70355484045-1-e98c9143-e839-45ab-b690-0646dd3fcc56.jpg?v=1760701096</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>17990.00 CLP</g:price>
-      <g:sale_price>14990.00 CLP</g:sale_price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>BILLETERA</g:product_type>
       <g:condition>new</g:condition>
       <g:identifier_exists>no</g:identifier_exists>
     </item>
@@ -6807,7 +6806,7 @@
     <item>
       <g:id>15422703042924</g:id>
       <g:title>Cartera de fiesta jones</g:title>
-      <g:description> Variantes disponibles: Negro / Única.</g:description>
+      <g:description> Variantes disponibles: Negro / Única, Dorado / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-de-fiesta-jones</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-40714007101-1-54f23757-7d10-4f95-8420-8a7566604a47.jpg?v=1792151444</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -7004,7 +7003,7 @@
     <item>
       <g:id>15422702354796</g:id>
       <g:title>Zapato catalina</g:title>
-      <g:description> Variantes disponibles: Negro / 35, Negro / 36, Negro / 37, Negro / 38, Negro / 39, Blanco Crudo / 36, Blanco Crudo / 37, Blanco Crudo / 38, Blanco Crudo / 39, Rojo / 35, Rojo / 36, Rojo / 38, Rojo / 39.</g:description>
+      <g:description> Variantes disponibles: Negro / 35, Negro / 36, Negro / 37, Negro / 38, Negro / 39, Blanco Crudo / 36, Blanco Crudo / 37, Blanco Crudo / 38, Blanco Crudo / 39, Rojo / 36, Rojo / 38, Rojo / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/zapato-catalina</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-catalinaz38301-1-d0a988a9-2454-4103-897f-e1e7f58ad75b.jpg?v=1790853537</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -9244,7 +9243,7 @@
     <item>
       <g:id>15399028654444</g:id>
       <g:title>Zapato catalina rojo</g:title>
-      <g:description>Catalina suma el rojo a su línea de zapatos, ese color vibrante que combina con looks de oficina y también con salidas casuales. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Variantes disponibles: Rojo / 35, Rojo / 36, Rojo / 38, Rojo / 39.</g:description>
+      <g:description>Catalina suma el rojo a su línea de zapatos, ese color vibrante que combina con looks de oficina y también con salidas casuales. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Variantes disponibles: Rojo / 36, Rojo / 38, Rojo / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/zapato-catalina-rojo</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-catalinaz38340-1-1d81c79c-f9ad-4e52-ae9a-4c0c22f6de10.jpg?v=1790853708</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -35004,12 +35003,11 @@
     <item>
       <g:id>15065148522860</g:id>
       <g:title>Billetera bissau mediana</g:title>
-      <g:description> Variantes disponibles: Burdeo / Única.</g:description>
+      <g:description></g:description>
       <g:link>https://amphora-cl.myshopify.com/products/billetera-bissau-mediana</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-70355484005-1-2e69040e-5f2b-41f3-97a1-ffb574b34074.jpg?v=1760700458</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>17990.00 CLP</g:price>
-      <g:sale_price>14990.00 CLP</g:sale_price>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>14990.00 CLP</g:price>
       <g:brand>Amphora Chile</g:brand>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
