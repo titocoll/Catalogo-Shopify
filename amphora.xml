@@ -5,6 +5,20 @@
     <link>https://amphora-cl.myshopify.com</link>
     <description>Catalogo completo de productos</description>
     <item>
+      <g:id>15433800581484</g:id>
+      <g:title>Reloj noa celeste</g:title>
+      <g:description>Noa es un reloj en metal y PU celeste, de perfil clásico básico con hebilla. Un tono fresco que suma un detalle femenino a tu muñeca. Ese accesorio que suma un toque de estilo a cualquier look, de día o de noche. Variantes disponibles: Única.</g:description>
+      <g:link>https://amphora-cl.myshopify.com/products/reloj-noa-celeste</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-7061w08826-2-3c06b694-6e39-4779-989d-64fd20ebcf12.jpg?v=1792428231</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>24990.00 CLP</g:price>
+      <g:sale_price>14990.00 CLP</g:sale_price>
+      <g:brand>Amphora</g:brand>
+      <g:product_type>RELOJ</g:product_type>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>15257596100972</g:id>
       <g:title>Cartera de fiesta jones dorado</g:title>
       <g:description>Jones es una cartera de fiesta de perfil sofisticado, en dorado con broche y herrajes dorado claro. Pequeña, elegante y fácil de llevar en la mano, es el accesorio ideal para looks de gala o eventos especiales. Variantes disponibles: Dorado / Única.</g:description>
@@ -5614,20 +5628,6 @@
       <g:price>12990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
       <g:product_type>HANGING</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>15433800581484</g:id>
-      <g:title>Reloj noa celeste</g:title>
-      <g:description>Noa es un reloj en metal y PU celeste, de perfil clásico básico con hebilla. Un tono fresco que suma un detalle femenino a tu muñeca. Ese accesorio que suma un toque de estilo a cualquier look, de día o de noche. Variantes disponibles: Única.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/reloj-noa-celeste</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-7061w08826-2-3c06b694-6e39-4779-989d-64fd20ebcf12.jpg?v=1792428231</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>24990.00 CLP</g:price>
-      <g:sale_price>14990.00 CLP</g:sale_price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>RELOJ</g:product_type>
       <g:condition>new</g:condition>
       <g:identifier_exists>no</g:identifier_exists>
     </item>
