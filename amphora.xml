@@ -5,6 +5,20 @@
     <link>https://amphora-cl.myshopify.com</link>
     <description>Catalogo completo de productos</description>
     <item>
+      <g:id>9478433374523</g:id>
+      <g:title>Lentes de sol malibú negro</g:title>
+      <g:description>Malibú es un lente de sol en policarbonato negro con acabado plástico brillante. Ese básico atemporal que completa cualquier look de verano con actitud. Ese accesorio que suma un toque de estilo a cualquier look, de día o de noche. Variantes disponibles: Única.</g:description>
+      <g:link>https://amphora-cl.myshopify.com/products/lentes-de-sol-malibu-negro</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-7025g02601-2-0a045dec-e2a3-4d68-88dc-8f99cefec7a6-c23eda4f-a66a-49fb-9e42-c709e681f57d_003f4ca1-e3d7-4b08-9247-af69c81c4f4b.jpg?v=1738975966</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>29990.00 CLP</g:price>
+      <g:sale_price>20990.00 CLP</g:sale_price>
+      <g:brand>Amphora</g:brand>
+      <g:product_type>LENTES DE SOL</g:product_type>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>15433800581484</g:id>
       <g:title>Reloj noa celeste</g:title>
       <g:description>Noa es un reloj en metal y PU celeste, de perfil clásico básico con hebilla. Un tono fresco que suma un detalle femenino a tu muñeca. Ese accesorio que suma un toque de estilo a cualquier look, de día o de noche. Variantes disponibles: Única.</g:description>
@@ -30937,7 +30951,7 @@
     <item>
       <g:id>15064907153772</g:id>
       <g:title>Cartera bandolera jani pequeña</g:title>
-      <g:description> Variantes disponibles: Blanco / Única, Plateado Oscuro / Única.</g:description>
+      <g:description> Variantes disponibles: Plateado Oscuro / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-bandolera-jani-pequena</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-40364077902-1-005b0aad-56b3-40f5-9d3e-cec0647e8838.jpg?v=1757073598</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -36963,7 +36977,7 @@
     <item>
       <g:id>15065613107564</g:id>
       <g:title>Tarjetero monedero anira</g:title>
-      <g:description> Variantes disponibles: Negro / Única, Rojo / Única.</g:description>
+      <g:description> Variantes disponibles: Rojo / Única.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/tarjetero-monedero-anira</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-7019552040001-1-7ad4c1e0-b0a1-4a15-9efc-ae60ca168680.jpg?v=1773065938</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -46585,19 +46599,6 @@
       <g:price>12990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
       <g:product_type>MONEDERO</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>15043213754732</g:id>
-      <g:title>Tarjetero monedero anira negro</g:title>
-      <g:description>El monedero tarjetero Anira de Amphora es el aliado perfecto para quienes buscan practicidad en formato compacto. Elaborado en PU de color negro, combina espacio para monedas con compartimentos para tarjetas, manteniéndote organizada en todo momento. Un accesorio chic e indispensable para el día a día. Variantes disponibles: Negro / Única.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/tarjetero-monedero-anira-negro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-7019552040001-1-7ad4c1e0-b0a1-4a15-9efc-ae60ca168680.jpg?v=1773065938</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>12990.00 CLP</g:price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>TARJETERO</g:product_type>
       <g:condition>new</g:condition>
       <g:identifier_exists>no</g:identifier_exists>
     </item>
@@ -66232,20 +66233,6 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-40424085701-1-3477024d-9ce0-4619-875d-c83933273085.jpg?v=1757073598</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>33990.00 CLP</g:price>
-      <g:sale_price>23990.00 CLP</g:sale_price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>BANDOLERA</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>14878522802540</g:id>
-      <g:title>Cartera bandolera jani pequeña blanco</g:title>
-      <g:description>Atrévete a destacar con la Jani bandolera Amphora, un accesorio que fusiona tendencia animal print con detalles en negro y cadena. Ideal tanto para outfits urbanos como para una salida nocturna chic. Un básico que se convierte en el complemento perfecto para tu estilo personal. Variantes disponibles: Blanco / Única.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/cartera-bandolera-jani-pequena-blanco</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-40364077902-1-005b0aad-56b3-40f5-9d3e-cec0647e8838.jpg?v=1757073598</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>29990.00 CLP</g:price>
       <g:sale_price>23990.00 CLP</g:sale_price>
       <g:brand>Amphora</g:brand>
       <g:product_type>BANDOLERA</g:product_type>
