@@ -3127,7 +3127,7 @@
     <item>
       <g:id>10329890062436</g:id>
       <g:title>CAZADORA DENIM ALAMARES</g:title>
-      <g:description>Cazadora vaquera con cuello mao y alamares, de color azul. Variantes disponibles: XS, S, XL.</g:description>
+      <g:description>Cazadora vaquera con cuello mao y alamares, de color azul. Variantes disponibles: XS, S.</g:description>
       <g:link>https://renattandgo.cl/products/cazadora-denim-alamares</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0766/7738/2244/files/p-57662-1-acbcc538-cc53-4f5d-9f47-ac5edc7f1ff8.jpg?v=1790687488</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -4934,7 +4934,7 @@
     <item>
       <g:id>8513262846052</g:id>
       <g:title>CAMISETA ESCOTE EN V MANGA RANGLAN</g:title>
-      <g:description>Camiseta de manga corta de color antracita con escote en V y detalle de manga ranglan. Variantes disponibles: ANTRACITA / XS, ANTRACITA / S, ANTRACITA / L, ANTRACITA / XL.</g:description>
+      <g:description>Camiseta de manga corta de color antracita con escote en V y detalle de manga ranglan. Variantes disponibles: ANTRACITA / XS, ANTRACITA / S, ANTRACITA / L.</g:description>
       <g:link>https://renattandgo.cl/products/camiseta-escote-pico-manga-ranglan-antracita-57208</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0766/7738/2244/files/p-57208-1-a6055578-6704-4e74-9c31-05019b83f1db.jpg?v=1776175973</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -5080,10 +5080,10 @@
     <item>
       <g:id>8513286832228</g:id>
       <g:title>BLUSA MANGA CORTA FRUNCE</g:title>
-      <g:description>Blusa de manga corta con escote en V y frunce en delantero, de color negro. Variantes disponibles: NEGRO / S.</g:description>
+      <g:description>Blusa de manga corta con escote en V y frunce en delantero, de color negro.</g:description>
       <g:link>https://renattandgo.cl/products/blusa-manga-corta-frunce-negro-57173</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0766/7738/2244/files/p-57173-1-d470bb3c-b1fe-4438-805b-e4ec068b1c71.jpg?v=1776176962</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>19990.00 CLP</g:price>
       <g:sale_price>15990.00 CLP</g:sale_price>
       <g:brand>Renatta&amp;Go</g:brand>
@@ -5227,7 +5227,7 @@
     <item>
       <g:id>8617141207140</g:id>
       <g:title>FALDA DENIM COSTURAS AZUL OSCURO</g:title>
-      <g:description>Falda tipo denim en color azul oscuro con detalle de costuras en delantero y cierre con cremallera y botón. Variantes disponibles: 34, 36, 38, 40.</g:description>
+      <g:description>Falda tipo denim en color azul oscuro con detalle de costuras en delantero y cierre con cremallera y botón. Variantes disponibles: 34, 36, 38.</g:description>
       <g:link>https://renattandgo.cl/products/falda-denim-costuras-azul-oscuro-57159</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0766/7738/2244/files/p-57159-1-3adf2338-60a2-44d0-8238-0d3c188ffc6e.jpg?v=1783453907</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -9048,7 +9048,7 @@
     <item>
       <g:id>8513520238692</g:id>
       <g:title>CAMISETA ESCOTE PICO MANGA RANGLAN</g:title>
-      <g:description> Variantes disponibles: ANTRACITA / XS, ANTRACITA / S, ANTRACITA / L, ANTRACITA / XL, VERDE OSCURO / XS, VERDE OSCURO / S, VERDE OSCURO / XL.</g:description>
+      <g:description> Variantes disponibles: ANTRACITA / XS, ANTRACITA / S, ANTRACITA / L, VERDE OSCURO / XS, VERDE OSCURO / S, VERDE OSCURO / XL.</g:description>
       <g:link>https://renattandgo.cl/products/camiseta-escote-pico-manga-ranglan</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0766/7738/2244/files/p-57208-1-a6055578-6704-4e74-9c31-05019b83f1db.jpg?v=1776175973</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -9174,10 +9174,10 @@
     <item>
       <g:id>8513514799204</g:id>
       <g:title>BLUSA MANGA CORTA FRUNCE</g:title>
-      <g:description> Variantes disponibles: NEGRO / S.</g:description>
+      <g:description></g:description>
       <g:link>https://renattandgo.cl/products/blusa-manga-corta-frunce</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0766/7738/2244/files/p-57048-1-4093b519-7ffb-4a86-8954-5db4ad95f88d.jpg?v=1776176216</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>19990.00 CLP</g:price>
       <g:sale_price>15990.00 CLP</g:sale_price>
       <g:brand>Renatta Chile</g:brand>
