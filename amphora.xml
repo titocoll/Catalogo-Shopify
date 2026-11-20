@@ -5,12 +5,53 @@
     <link>https://amphora-cl.myshopify.com</link>
     <description>Catalogo completo de productos</description>
     <item>
+      <g:id>15035733999980</g:id>
+      <g:title>Cartera bandolera sabrina plateado oscuro</g:title>
+      <g:description>Sabrina suma el plateado oscuro a su versión bandolera, de estilo sport casual en PU graneado con cierre y herrajes niquelados. Ese brillo distinto. Un diseño pensado para acompañarte del trabajo a la salida, sin perder su encanto. Variantes disponibles: Plateado Oscuro / PEQUEÑA.</g:description>
+      <g:link>https://amphora-cl.myshopify.com/products/cartera-bandolera-sabrina-plateado-oscuro</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042427050062-1-98bcb810-3ba6-4fd9-ba2c-4284cf258849.jpg?v=1772454636</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>32990.00 CLP</g:price>
+      <g:sale_price>29990.00 CLP</g:sale_price>
+      <g:brand>Amphora</g:brand>
+      <g:product_type>BANDOLERA</g:product_type>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>14944409321836</g:id>
+      <g:title>Pañuelo voyage blanco crudo</g:title>
+      <g:description>El pañuelo Voyage en blanco crudo es un básico con mucho carácter. Su diseño en poliéster satinado twill tiene el equilibrio perfecto entre suavidad y estructura, ideal para darle un aire sofisticado a cualquier look. Con sus 90 x 90 cm, puedes llevarlo de mil maneras y hacerlo parte de tu sello personal. #Voyage ¡Descúbrelo y hazlo tuyo! Variantes disponibles: MEDIANA.</g:description>
+      <g:link>https://amphora-cl.myshopify.com/products/panuelo-mediana-voyage-blanco-crudo</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/voyagep09657-1-d4104a5d-0467-4b49-8168-7e9f13af3457.jpg?v=1762779820</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>16990.00 CLP</g:price>
+      <g:sale_price>11990.00 CLP</g:sale_price>
+      <g:brand>Amphora</g:brand>
+      <g:product_type>PAÑUELO</g:product_type>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>15465867968876</g:id>
+      <g:title>Mochila de viaje prisma mediana mix color</g:title>
+      <g:description>Prisma es una mochila travel mediana en mix color, diseñada para acompañarte en cada viaje con espacio de sobra y un diseño que combina con todo. El básico infaltable para tus próximas aventuras. Se convierte en tu compañera ideal para cualquier plan, del trabajo a los viajes cortos. Variantes disponibles: Mix Colores / MEDIANA.</g:description>
+      <g:link>https://amphora-cl.myshopify.com/products/mochila-de-viaje-prisma-mediana-mix-color</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036435120055-1-6f7ec838-92c8-49bd-bba8-0f015354c39a.jpg?v=1793738173</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>79990.00 CLP</g:price>
+      <g:brand>Amphora</g:brand>
+      <g:product_type>MOCHILA DE VIAJE</g:product_type>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>9468446277947</g:id>
       <g:title>Cartera tote tres divisiones noix mediana negro</g:title>
-      <g:description>Aquellos clásicos modelos atemporales que son siempre bienvenidos en tu armario. Conoce nuestra cartera dos asas tres divisones Noix. Este modelo de Amphora confeccionada en PU graneado y es totalmente atemporal. Puedes usarla durante el díay llevar todo lo necesario, dado sus compartimientos internos. Además, cuenta con tres bolsillos internos para mantener todo de forma ordenada. Viene con asas cortas de mano y su strap regulable, que te permite llevarla al hombro o cruzada. So long, hello Dear Noix! Variantes disponibles: MEDIANA.</g:description>
+      <g:description>Aquellos clásicos modelos atemporales que son siempre bienvenidos en tu armario. Conoce nuestra cartera dos asas tres divisones Noix. Este modelo de Amphora confeccionada en PU graneado y es totalmente atemporal. Puedes usarla durante el díay llevar todo lo necesario, dado sus compartimientos internos. Además, cuenta con tres bolsillos internos para mantener todo de forma ordenada. Viene con asas cortas de mano y su strap regulable, que te permite llevarla al hombro o cruzada. So long, hello Dear Noix!</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-dos-asas-tres-divisiones-mediana-noix-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/40363538301-negro-1.jpg?v=1795031197</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>49990.00 CLP</g:price>
       <g:sale_price>24990.00 CLP</g:sale_price>
       <g:brand>Amphora</g:brand>
@@ -803,7 +844,7 @@
     <item>
       <g:id>15497377055084</g:id>
       <g:title>Mochila de viaje prisma mediana</g:title>
-      <g:description> Variantes disponibles: Negro / MEDIANA.</g:description>
+      <g:description> Variantes disponibles: Negro / MEDIANA, Mix Colores / MEDIANA.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/mochila-de-viaje-prisma-mediana</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036435120001-1-b4400cf0-5a79-4cca-b280-8edfff557fa8.jpg?v=1793718053</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -7696,7 +7737,7 @@
     <item>
       <g:id>15422703829356</g:id>
       <g:title>Chaqueta flavia</g:title>
-      <g:description> Variantes disponibles: Negro / M, Negro / L, Negro / XL, Verde Oliva / S, Verde Oliva / L, Verde Oliva / XL.</g:description>
+      <g:description> Variantes disponibles: Negro / M, Negro / L, Negro / XL, Verde Oliva / S, Verde Oliva / M, Verde Oliva / L, Verde Oliva / XL.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/chaqueta-flavia</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/ef3dd91abde07d2d-web-1600-afeabdf5-62e4-4d27-9645-b71d50506eb8.jpg?v=1793984151</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -11180,7 +11221,7 @@
     <item>
       <g:id>15307149017452</g:id>
       <g:title>Chaqueta flavia verde oliva</g:title>
-      <g:description>Flavia es una chaqueta en mezclilla verde oliva, de perfil clásico básico con cierre de botón y herrajes niquelados. Un básico rebelde que se lleva con todo, de día o de noche. Una pieza clave para elevar cualquier look casual, de día o de noche. Variantes disponibles: Verde Oliva / S, Verde Oliva / L, Verde Oliva / XL.</g:description>
+      <g:description>Flavia es una chaqueta en mezclilla verde oliva, de perfil clásico básico con cierre de botón y herrajes niquelados. Un básico rebelde que se lleva con todo, de día o de noche. Una pieza clave para elevar cualquier look casual, de día o de noche. Variantes disponibles: Verde Oliva / S, Verde Oliva / M, Verde Oliva / L, Verde Oliva / XL.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/chaqueta-flavia-verde-oliva</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/26ab73893d36b59b-web-1600-370a2ec8-6640-48cd-bc06-8f276c8eafda.jpg?v=1793984157</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -18133,20 +18174,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>14944409321836</g:id>
-      <g:title>Pañuelo voyage blanco crudo</g:title>
-      <g:description>El pañuelo Voyage en blanco crudo es un básico con mucho carácter. Su diseño en poliéster satinado twill tiene el equilibrio perfecto entre suavidad y estructura, ideal para darle un aire sofisticado a cualquier look. Con sus 90 x 90 cm, puedes llevarlo de mil maneras y hacerlo parte de tu sello personal. #Voyage ¡Descúbrelo y hazlo tuyo! Variantes disponibles: MEDIANA.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/panuelo-mediana-voyage-blanco-crudo</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/voyagep09657-1-d4104a5d-0467-4b49-8168-7e9f13af3457.jpg?v=1762779820</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>16990.00 CLP</g:price>
-      <g:sale_price>11990.00 CLP</g:sale_price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>PAÑUELO</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>15035735474540</g:id>
       <g:title>Billetera simple samay pequeña negro</g:title>
       <g:description>La billetera Samay de Amphora es el accesorio esencial para quienes buscan simplicidad y elegancia. Confeccionada en PU print de color negro, su diseño minimalista y funcional permite llevar tus tarjetas y documentos de manera ordenada. Un clásico que nunca falla. Variantes disponibles: Negro / PEQUEÑA.</g:description>
@@ -24774,7 +24801,7 @@
     <item>
       <g:id>15217984012652</g:id>
       <g:title>Cartera bandolera sabrina</g:title>
-      <g:description> Variantes disponibles: Negro / PEQUEÑA.</g:description>
+      <g:description> Variantes disponibles: Plateado Oscuro / PEQUEÑA, Negro / PEQUEÑA.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-bandolera-sabrina</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042427050062-1-98bcb810-3ba6-4fd9-ba2c-4284cf258849.jpg?v=1772454636</g:image_link>
       <g:availability>in_stock</g:availability>
