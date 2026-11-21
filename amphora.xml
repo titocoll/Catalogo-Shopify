@@ -5,12 +5,39 @@
     <link>https://amphora-cl.myshopify.com</link>
     <description>Catalogo completo de productos</description>
     <item>
+      <g:id>15043211755884</g:id>
+      <g:title>Cosmetiquero fabula beige</g:title>
+      <g:description>Fabula es un cosmetiquero en nylon beige, de perfil clásico básico con cierre y herrajes niquelados. Compacto y funcional, es el compañero ideal para llevar tu maquillaje organizado dentro del bolso. Perfecto para mantener tus esenciales organizados con un diseño práctico y elegante. Variantes disponibles: Beige / ST.</g:description>
+      <g:link>https://amphora-cl.myshopify.com/products/cosmetiquero-fabula-beige</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-7019553000005-1-7cad7f97-8a81-4fd5-8564-650b401e9689.jpg?v=1776801015</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>16990.00 CLP</g:price>
+      <g:brand>Amphora</g:brand>
+      <g:product_type>COSMETIQUERO</g:product_type>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>15005435003244</g:id>
+      <g:title>Cartera bandolera henry animal print</g:title>
+      <g:description>Henry es la bandolera de Amphora con un estilo animal print, que no pasará desapercibido. Confeccionada en PU y de tamaño pequeña, cuenta con una tapa que brinda mayor seguridad. Incluye un bolsillo interno para tus esenciales y otro en la parte trasera. Perfecta para salidas con amigas o eventos donde quieras sumar un toque cool, Henry es la opción ideal si buscás un bolso elegante y con estilo propio. Variantes disponibles: PEQUEÑA.</g:description>
+      <g:link>https://amphora-cl.myshopify.com/products/cartera-bandolera-henry-camel</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036426690007-1-5debdd8e-0874-4f99-9d15-0d1884493022.jpg?v=1769184738</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>32990.00 CLP</g:price>
+      <g:sale_price>29990.00 CLP</g:sale_price>
+      <g:brand>Amphora</g:brand>
+      <g:product_type>BANDOLERA</g:product_type>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>15257612452204</g:id>
       <g:title>Billetera cuore mediana fucsia</g:title>
-      <g:description>Cuore suma el fucsia a su formato mediano, en PU con cierre y botón, herrajes niquelados. Un color vibrante con estilo. Compacto, funcional y con el estilo justo para acompañarte todos los días. Un diseño pensado para la funcionalidad, sin dejar de lado el estilo que te representa. Variantes disponibles: Fucsia / MEDIANA.</g:description>
+      <g:description>Cuore suma el fucsia a su formato mediano, en PU con cierre y botón, herrajes niquelados. Un color vibrante con estilo. Compacto, funcional y con el estilo justo para acompañarte todos los días. Un diseño pensado para la funcionalidad, sin dejar de lado el estilo que te representa.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/billetera-cuore-mediana-fucsia</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-7019553240042-1-be8d463f-9089-43d3-b298-dd6b7f525ca8.jpg?v=1787285590</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>22990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
       <g:product_type>BILLETERA</g:product_type>
@@ -3888,19 +3915,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>15429430739308</g:id>
-      <g:title>DUNA SANDALIA</g:title>
-      <g:description>Duna es una sandalia plana en cafe, cómoda y versátil para los días de calor. El calzado que combina con todo, de looks urbanos a paseos de playa. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Variantes disponibles: Café / 37.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/sandalia-duna-cafe</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-dunaz28810-1-7da1a08d-2bea-45f5-b79e-de0feb2fdedf.jpg?v=1792149464</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>69990.00 CLP</g:price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>SANDALIA</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>14623430312300</g:id>
       <g:title>Zapatilla fepa cuero negro</g:title>
       <g:description>Just wow, las zapatillas Fepa by Amphora marcarán un antes y un después en tus tenidas. Su cómodidad y diseño, confeccionado en cuero, de color negro y con una plataforma blanca de 2 cm, la posicionan como un must en tu closet. Si buscas darle un toque casual y cool a tu outfit, nuestras Fepa son las indicadas. We love it! Variantes disponibles: Negro / 35.</g:description>
@@ -6831,7 +6845,7 @@
     <item>
       <g:id>15439626502508</g:id>
       <g:title>Sandalia duna cuero</g:title>
-      <g:description> Variantes disponibles: Negro / 36, Negro / 37, Negro / 38, Café / 37.</g:description>
+      <g:description> Variantes disponibles: Negro / 36, Negro / 37, Negro / 38.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-duna-cuero</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/dunaz28801-1-2b75b584-1d56-4b5d-9a30-5461002484d4.jpg?v=1758811160</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -12701,7 +12715,7 @@
     <item>
       <g:id>9628274786619</g:id>
       <g:title>Sandalia marta cuero negro</g:title>
-      <g:description>Marta es una sandalia en cuero negro, cómoda y versátil para los días de calor. El calzado que combina con todo, de looks urbanos a paseos de playa. Ideal para acompañarte todo el día, de la oficina a tus planes después del trabajo. Variantes disponibles: Negro / 38, Negro / 37, Negro / 36, Negro / 35.</g:description>
+      <g:description>Marta es una sandalia en cuero negro, cómoda y versátil para los días de calor. El calzado que combina con todo, de looks urbanos a paseos de playa. Ideal para acompañarte todo el día, de la oficina a tus planes después del trabajo. Variantes disponibles: Negro / 37, Negro / 36, Negro / 35.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-marta-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/martaz17701-negro-1.jpg?v=1795036529</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -18329,7 +18343,7 @@
     <item>
       <g:id>15261648388460</g:id>
       <g:title>Billetera cuore mediana</g:title>
-      <g:description> Variantes disponibles: Plateado Oscuro / MEDIANA, Negro / MEDIANA, Rojo / MEDIANA, Fucsia / MEDIANA.</g:description>
+      <g:description> Variantes disponibles: Plateado Oscuro / MEDIANA, Negro / MEDIANA, Rojo / MEDIANA.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/billetera-cuore-mediana</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-7019553240062-1-08dcffe8-6c5d-4d97-a2f6-d647f11f6038.jpg?v=1787285994</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -25309,7 +25323,7 @@
     <item>
       <g:id>15217979064684</g:id>
       <g:title>Sandalia marta cuero</g:title>
-      <g:description> Variantes disponibles: Negro / 38, Negro / 37, Negro / 36, Negro / 35.</g:description>
+      <g:description> Variantes disponibles: Negro / 37, Negro / 36, Negro / 35.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-marta-cuero</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/martaz17701-negro-1.jpg?v=1795036529</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -38613,10 +38627,10 @@
     <item>
       <g:id>15065630802284</g:id>
       <g:title>Cosmetiquero fabula</g:title>
-      <g:description></g:description>
+      <g:description> Variantes disponibles: Beige / ST.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cosmetiquero-fabula</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-7019553000005-1-7cad7f97-8a81-4fd5-8564-650b401e9689.jpg?v=1776801015</g:image_link>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>16990.00 CLP</g:price>
       <g:brand>Amphora Chile</g:brand>
       <g:product_type></g:product_type>
@@ -43062,7 +43076,7 @@
     <item>
       <g:id>15089792844140</g:id>
       <g:title>Zapato taco diana cuero</g:title>
-      <g:description> Variantes disponibles: Blanco Crudo / 37, Negro / 36, Negro / 37, Negro / 38, Burdeo / 36, Burdeo / 37, Burdeo / 39, Animal Print / 35, Animal Print / 36, Animal Print / 37, Animal Print / 38, Animal Print / 39, Rojo / 37, Rojo / 38, Rojo / 36, Rojo / 35.</g:description>
+      <g:description> Variantes disponibles: Blanco Crudo / 37, Negro / 36, Negro / 37, Negro / 38, Negro / 39, Burdeo / 36, Burdeo / 37, Burdeo / 39, Animal Print / 35, Animal Print / 36, Animal Print / 37, Animal Print / 38, Animal Print / 39, Rojo / 37, Rojo / 38, Rojo / 36, Rojo / 35.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/zapato-taco-diana-cuero</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-dianaz22257-1-4d4904a9-7bca-4f8d-899b-2fae1d2fe26f.jpg?v=1790868312</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -53317,7 +53331,7 @@
     <item>
       <g:id>15028434764140</g:id>
       <g:title>Zapato taco diana cuero negro</g:title>
-      <g:description>Diana es un zapato de taco tipo reina en cuero negro, de estilo clásico con herrajes niquelados. Elegante y versátil, es la opción perfecta para looks de oficina o eventos formales. Perfecto para renovar tu colección de calzado con un diseño que combina con todo. Variantes disponibles: Negro / 36, Negro / 37, Negro / 38.</g:description>
+      <g:description>Diana es un zapato de taco tipo reina en cuero negro, de estilo clásico con herrajes niquelados. Elegante y versátil, es la opción perfecta para looks de oficina o eventos formales. Perfecto para renovar tu colección de calzado con un diseño que combina con todo. Variantes disponibles: Negro / 36, Negro / 37, Negro / 38, Negro / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/zapato-tipo-reina-diana-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/4d717c10-5866-49b6-86e9-84e688dbf36a-p-dianaz22201-1-d521f027-949a-482d-8bab-b63e65564f2c.jpg?v=1772121022</g:image_link>
       <g:availability>in_stock</g:availability>
