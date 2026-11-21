@@ -5,6 +5,34 @@
     <link>https://amphora-cl.myshopify.com</link>
     <description>Catalogo completo de productos</description>
     <item>
+      <g:id>14881592705388</g:id>
+      <g:title>Cartera bandolera fany mediana blanco crudo</g:title>
+      <g:description>La bandolera Evany de Amphora reinventa el estilo urbano. Confeccionada en nylon resistente, su diseño compacto integra bolsillos externos funcionales y un monedero de moda que suma estilo y practicidad. Ideal para llevar cruzada y moverte con total libertad. Variantes disponibles: Blanco Crudo / MEDIANA.</g:description>
+      <g:link>https://amphora-cl.myshopify.com/products/cartera-bandolera-fany-mediana-blanco-crudo</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-40064072057-1-b20c004b-2f5d-4a38-93d7-53937b22df7d.jpg?v=1757427048</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>38990.00 CLP</g:price>
+      <g:sale_price>19990.00 CLP</g:sale_price>
+      <g:brand>Amphora</g:brand>
+      <g:product_type>BANDOLERA</g:product_type>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>9767964475707</g:id>
+      <g:title>Mochila leina pequeña negro</g:title>
+      <g:description>La mochila Leina se posiciona como la partner ideal. este modelo de Amphora te acompañará a todas y te da estilo como nunca. Confeccionada en PU graneado, este diseño te permitirá llevar todo imprescindible de forma cómoda y compacta. De tamaño mediana, cuenta con tres bolsillos internos y cuatro externos y uno con cierre en la parte trasera para guardar tus daily essentials. Bienvenida Leina, pleased to meet you! Variantes disponibles: Negro / PEQUEÑA.</g:description>
+      <g:link>https://amphora-cl.myshopify.com/products/mochila-pequena-leina-negro</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-40363881101-1-b8c5aabd-9adc-4a66-95a0-2386466b231a_f32d3e78-686c-4aaf-9584-a5257b3ec6c8.jpg?v=1732759020</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>36990.00 CLP</g:price>
+      <g:sale_price>25990.00 CLP</g:sale_price>
+      <g:brand>Amphora</g:brand>
+      <g:product_type>MOCHILA</g:product_type>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>15043211755884</g:id>
       <g:title>Cosmetiquero fabula beige</g:title>
       <g:description>Fabula es un cosmetiquero en nylon beige, de perfil clásico básico con cierre y herrajes niquelados. Compacto y funcional, es el compañero ideal para llevar tu maquillaje organizado dentro del bolso. Perfecto para mantener tus esenciales organizados con un diseño práctico y elegante. Variantes disponibles: Beige / ST.</g:description>
@@ -28856,7 +28884,7 @@
     <item>
       <g:id>15062433300844</g:id>
       <g:title>Mochila pequeña leina</g:title>
-      <g:description> Variantes disponibles: Café / PEQUEÑA.</g:description>
+      <g:description> Variantes disponibles: Café / PEQUEÑA, Negro / PEQUEÑA.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/mochila-pequena-leina</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-40363881110-1-956c61b3-13e3-4679-8bde-363ef7990187_30a626d1-c6ac-406b-bce6-89e86327e93d.jpg?v=1732742783</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -56321,20 +56349,6 @@
       <g:availability>in_stock</g:availability>
       <g:price>42990.00 CLP</g:price>
       <g:sale_price>38990.00 CLP</g:sale_price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>BANDOLERA</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>14881592705388</g:id>
-      <g:title>Cartera bandolera fany mediana blanco crudo</g:title>
-      <g:description>La bandolera Evany de Amphora reinventa el estilo urbano. Confeccionada en nylon resistente, su diseño compacto integra bolsillos externos funcionales y un monedero de moda que suma estilo y practicidad. Ideal para llevar cruzada y moverte con total libertad. Variantes disponibles: Blanco Crudo / MEDIANA.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/cartera-bandolera-fany-mediana-blanco-crudo</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-40064072057-1-b20c004b-2f5d-4a38-93d7-53937b22df7d.jpg?v=1757427048</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>38990.00 CLP</g:price>
-      <g:sale_price>19990.00 CLP</g:sale_price>
       <g:brand>Amphora</g:brand>
       <g:product_type>BANDOLERA</g:product_type>
       <g:condition>new</g:condition>
