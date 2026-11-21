@@ -5,6 +5,33 @@
     <link>https://amphora-cl.myshopify.com</link>
     <description>Catalogo completo de productos</description>
     <item>
+      <g:id>15257612452204</g:id>
+      <g:title>Billetera cuore mediana fucsia</g:title>
+      <g:description>Cuore suma el fucsia a su formato mediano, en PU con cierre y botón, herrajes niquelados. Un color vibrante con estilo. Compacto, funcional y con el estilo justo para acompañarte todos los días. Un diseño pensado para la funcionalidad, sin dejar de lado el estilo que te representa. Variantes disponibles: Fucsia / MEDIANA.</g:description>
+      <g:link>https://amphora-cl.myshopify.com/products/billetera-cuore-mediana-fucsia</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-7019553240042-1-be8d463f-9089-43d3-b298-dd6b7f525ca8.jpg?v=1787285590</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>22990.00 CLP</g:price>
+      <g:brand>Amphora</g:brand>
+      <g:product_type>BILLETERA</g:product_type>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>9478476136763</g:id>
+      <g:title>Mochila clou mediana negro</g:title>
+      <g:description>Somos fans de esta cartera Clou. Dos asas de naturaleza, fue diseñada con diferentes cortes que le entregan ese toque casual insuperable. Realizada en PU liso tiene tres bolsillos en su interior, tres exteriores y además una correa ajustable para que la uses al hombro o cruzada. Su tamaño grande es perfecto para guardar todas tus cosas. ¡Thank you Clou! Variantes disponibles: MEDIANA.</g:description>
+      <g:link>https://amphora-cl.myshopify.com/products/mochila-mediana-clou-negro</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-40423413401-1-16b602a1-23e8-4edb-afa3-90f02c8244a5.jpg?v=1794828829</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>44990.00 CLP</g:price>
+      <g:sale_price>21990.00 CLP</g:sale_price>
+      <g:brand>Amphora</g:brand>
+      <g:product_type>MOCHILA</g:product_type>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>14663849476460</g:id>
       <g:title>Billetera muller negro</g:title>
       <g:description>Muller suma el negro a su formato billetera, en PU liso de perfil clásico básico con broche. Un tono neutro con estilo. Compacto, funcional y con el estilo justo para acompañarte todos los días. Un diseño pensado para la funcionalidad, sin dejar de lado el estilo que te representa. Variantes disponibles: Negro / PEQUEÑA.</g:description>
@@ -8636,7 +8663,7 @@
     <item>
       <g:id>15422701863276</g:id>
       <g:title>Cartera de fiesta con tapa davies pequeña</g:title>
-      <g:description> Variantes disponibles: Plateado / PEQUEÑA, Negro / ST.</g:description>
+      <g:description> Variantes disponibles: Plateado / PEQUEÑA, Dorado / ST, Negro / ST.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-de-fiesta-con-tapa-davies-pequena</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-40714007761-1-e7d59074-77fe-41f5-86c3-6cda6095395c_313c92a2-8250-478a-b234-1c9fcfe1c2aa.jpg?v=1732807762</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -9638,10 +9665,10 @@
     <item>
       <g:id>15257595674988</g:id>
       <g:title>Cartera de fiesta davies dorado</g:title>
-      <g:description>Davies es una cartera de fiesta de perfil sofisticado, en dorado con broche y herrajes niquelados. Pequeña y elegante, es el accesorio ideal para looks de gala. La opción ideal si buscas renovar tu colección de carteras con un toque de actitud.</g:description>
+      <g:description>Davies es una cartera de fiesta de perfil sofisticado, en dorado con broche y herrajes niquelados. Pequeña y elegante, es el accesorio ideal para looks de gala. La opción ideal si buscas renovar tu colección de carteras con un toque de actitud. Variantes disponibles: Dorado / ST.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-de-fiesta-davies-dorado</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-40714007751-1-d86a9174-6799-45be-8d52-2cab125fbb12.jpg?v=1792151464</g:image_link>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>24990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
       <g:product_type>DE FIESTA</g:product_type>
@@ -20117,19 +20144,6 @@
       <g:price>16990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
       <g:product_type>TARJETERO</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>15257612452204</g:id>
-      <g:title>Billetera cuore mediana fucsia</g:title>
-      <g:description>Cuore suma el fucsia a su formato mediano, en PU con cierre y botón, herrajes niquelados. Un color vibrante con estilo. Compacto, funcional y con el estilo justo para acompañarte todos los días. Un diseño pensado para la funcionalidad, sin dejar de lado el estilo que te representa. Variantes disponibles: Fucsia / MEDIANA.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/billetera-cuore-mediana-fucsia</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-7019553240042-1-be8d463f-9089-43d3-b298-dd6b7f525ca8.jpg?v=1787285590</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>22990.00 CLP</g:price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>BILLETERA</g:product_type>
       <g:condition>new</g:condition>
       <g:identifier_exists>no</g:identifier_exists>
     </item>
