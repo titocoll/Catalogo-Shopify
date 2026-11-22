@@ -89,10 +89,10 @@
     <item>
       <g:id>14663849476460</g:id>
       <g:title>Billetera muller negro</g:title>
-      <g:description>Muller suma el negro a su formato billetera, en PU liso de perfil clásico básico con broche. Un tono neutro con estilo. Compacto, funcional y con el estilo justo para acompañarte todos los días. Un diseño pensado para la funcionalidad, sin dejar de lado el estilo que te representa. Variantes disponibles: Negro / PEQUEÑA.</g:description>
+      <g:description>Muller suma el negro a su formato billetera, en PU liso de perfil clásico básico con broche. Un tono neutro con estilo. Compacto, funcional y con el estilo justo para acompañarte todos los días. Un diseño pensado para la funcionalidad, sin dejar de lado el estilo que te representa.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/billletera-muller-pequena-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-70355471001-1-d5e80406-fdff-4499-b3d2-12b4352db7e0.jpg?v=1737555513</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>19990.00 CLP</g:price>
       <g:sale_price>12990.00 CLP</g:sale_price>
       <g:brand>Amphora</g:brand>
@@ -35979,7 +35979,7 @@
     <item>
       <g:id>15065144459628</g:id>
       <g:title>Billetera muller</g:title>
-      <g:description> Variantes disponibles: Beige / PEQUEÑA, Negro / PEQUEÑA, Plateado / PEQUEÑA.</g:description>
+      <g:description> Variantes disponibles: Beige / PEQUEÑA, Plateado / PEQUEÑA.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/billetera-muller</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-70355471005-1-f39a12c2-4de3-49da-a123-3a45a5886f0e.jpg?v=1737555830</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -43622,7 +43622,7 @@
     <item>
       <g:id>15102087659884</g:id>
       <g:title>Mochila fabula</g:title>
-      <g:description> Variantes disponibles: Beige / ST, Negro / ST, Verde Claro / ST.</g:description>
+      <g:description> Variantes disponibles: Beige / ST, Verde Claro / ST.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/mochila-fabula</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042427800005-1-17322b07-bdb2-4b47-8be1-157369b8ba6a.jpg?v=1789584370</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -44616,20 +44616,6 @@
       <g:price>22990.00 CLP</g:price>
       <g:brand>Amphora</g:brand>
       <g:product_type>BILLETERA</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>15090561286508</g:id>
-      <g:title>Mochila fabula negro</g:title>
-      <g:description>Fabula es una mochila de estilo sport casual, en nylon negro con cierre, herrajes niquelados, ideal para llevar al hombro. Un diseño pensado para quienes están siempre en movimiento y necesitan practicidad sin perder estilo. Variantes disponibles: Negro / ST.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/mochila-fabula-negro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4042427800001-1-c2cf0ad9-675a-4473-969e-1d50cc0e7645.jpg?v=1776971576</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>39990.00 CLP</g:price>
-      <g:sale_price>24990.00 CLP</g:sale_price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>MOCHILA</g:product_type>
       <g:condition>new</g:condition>
       <g:identifier_exists>no</g:identifier_exists>
     </item>
