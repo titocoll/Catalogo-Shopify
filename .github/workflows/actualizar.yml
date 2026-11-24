@@ -41,7 +41,16 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .
+      - name: Esperar a que el archivo este disponible
+        run: sleep 20
       - id: deployment
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+      - name: Esperar antes de reintentar
+        if: steps.deployment.outcome == 'failure'
+        run: sleep 60
+      - name: Reintentar publicacion
+        if: steps.deployment.outcome == 'failure'
         uses: actions/deploy-pages@v4
       - name: Avisar si algo fallo
         if: always()
