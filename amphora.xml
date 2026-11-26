@@ -5,6 +5,20 @@
     <link>https://amphora-cl.myshopify.com</link>
     <description>Catalogo completo de productos</description>
     <item>
+      <g:id>15193770951020</g:id>
+      <g:title>Billetera con aleta fabio negro</g:title>
+      <g:description>Fabio también viene con aleta, en cuero negro, un básico atemporal y elegante para llevar en el bolsillo. La opción ideal si buscas renovar tus accesorios con un diseño práctico y actual. Ideal para llevar siempre contigo, ese básico que no puede faltar en tu día a día. Variantes disponibles: Negro / PEQUEÑA.</g:description>
+      <g:link>https://amphora-cl.myshopify.com/products/billetera-con-aleta-fabio-negro</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-80225171101-1jpg-355eb60a-da43-4d75-b30c-a0a4c2eff703.jpg?v=1786114029</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>29990.00 CLP</g:price>
+      <g:sale_price>17990.00 CLP</g:sale_price>
+      <g:brand>Amphora</g:brand>
+      <g:product_type>BILLETERA</g:product_type>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>14756072915308</g:id>
       <g:title>Aros con colgante alada dorado claro</g:title>
       <g:description>Despierta tu lado más auténtico con #Alada. Estos aros en metal dorado claro con baño de oro 18K capturan la esencia del movimiento y la transformación. Su diseño con colgante añade un sutil dinamismo, como un recordatorio de que siempre podemos ir más allá. Con cierre de broche, garantizan comodidad y seguridad para acompañarte en cada nueva aventura. Porque atreverse a explorar y cambiar también es un statement. #Alada es para las que se atreven a volar. Variantes disponibles: Dorado Claro / TU.</g:description>
@@ -620,20 +634,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>14881592574316</g:id>
-      <g:title>Cartera bandolera fany mediana negro</g:title>
-      <g:description>Evany en negro es la bandolera Amphora perfecta para el día a día: liviana, resistente y con múltiples compartimentos que organizan tu rutina. Incluye un mini monedero externo que sigue la tendencia más cool del momento. Con correa ajustable y diseño versátil, se adapta a cada paso. Variantes disponibles: Negro / MEDIANA.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/cartera-bandolera-fany-mediana-negro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-40064072001-1-f3cf813a-3afe-4ac2-92f3-16e6dd597b0e.jpg?v=1757427883</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>38990.00 CLP</g:price>
-      <g:sale_price>22990.00 CLP</g:sale_price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>BANDOLERA</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>15065146818924</g:id>
       <g:title>Cartera corte recto iris grande gris</g:title>
       <g:description>Detalles que marcan la diferencia. La cartera Iris es ideal para acompañarte en el día a día. En color gris y con el tamaño justo para llevar todo lo esencial y con cierres para una mayor seguridad. Iris combina funcionalidad y estilo. Confeccionada en PU graneado, fusiona un diseño clásico con un toque elegante y distintivo gracias a sus correas trenzadas. ¿Lo mejor? Su estética atemporal, que aporta un detalle sutil y llamativo a cualquier look. Variantes disponibles: Gris / GRANDE.</g:description>
@@ -664,10 +664,10 @@
     <item>
       <g:id>15263702614380</g:id>
       <g:title>Cartera corte recto isna café</g:title>
-      <g:description>Isna suma el café a su formato corte recto en PU suede, con cierre y herrajes niquelados. Un diseño minimalista con una textura que se siente distinta al tacto. Perfecta para llevar tus esenciales organizados sin sacrificar el estilo que te caracteriza. Variantes disponibles: Café / ST.</g:description>
+      <g:description>Isna suma el café a su formato corte recto en PU suede, con cierre y herrajes niquelados. Un diseño minimalista con una textura que se siente distinta al tacto. Perfecta para llevar tus esenciales organizados sin sacrificar el estilo que te caracteriza.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-corte-recto-isna-cafe</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4006435310010-1-670bcf3b-b0bc-40d0-a717-b254d74d0d94.jpg?v=1787923560</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>42990.00 CLP</g:price>
       <g:sale_price>37990.00 CLP</g:sale_price>
       <g:brand>Amphora</g:brand>
@@ -1251,10 +1251,10 @@
     <item>
       <g:id>15035741176172</g:id>
       <g:title>Cartera bandolera pricila pequeña café oscuro</g:title>
-      <g:description>Love at first sight! Nuestra bandolera Pricila, de tamaño pequeño, con dos divisiones, es perfecta para pasear y acompañarte en tu rutina diaria. Confeccionada en nylon color café oscuro, este modelo de Amphora combina un diseño étnico-chic con funcionalidad, ofreciendo el espacio ideal para mantener todo organizado y a tu alcance. Cuenta con tres bolsillos internos, uno externo y uno trasero. Además, viene con su strap del mismo color ajustable, que la hacen perfecta para llevar a todos lados.</g:description>
+      <g:description>Love at first sight! Nuestra bandolera Pricila, de tamaño pequeño, con dos divisiones, es perfecta para pasear y acompañarte en tu rutina diaria. Confeccionada en nylon color café oscuro, este modelo de Amphora combina un diseño étnico-chic con funcionalidad, ofreciendo el espacio ideal para mantener todo organizado y a tu alcance. Cuenta con tres bolsillos internos, uno externo y uno trasero. Además, viene con su strap del mismo color ajustable, que la hacen perfecta para llevar a todos lados. Variantes disponibles: Café Oscuro / PEQUEÑA.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-bandolera-pricila-pequena-cafe-oscuro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036422380013-1-b74372f5-814b-4bef-a62e-de869a647206.jpg?v=1772455608</g:image_link>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>32990.00 CLP</g:price>
       <g:sale_price>18990.00 CLP</g:sale_price>
       <g:brand>Amphora</g:brand>
@@ -1313,20 +1313,6 @@
       <g:availability>out_of_stock</g:availability>
       <g:price>19990.00 CLP</g:price>
       <g:sale_price>11990.00 CLP</g:sale_price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>BILLETERA</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>15193770951020</g:id>
-      <g:title>Billetera con aleta fabio negro</g:title>
-      <g:description>Fabio también viene con aleta, en cuero negro, un básico atemporal y elegante para llevar en el bolsillo. La opción ideal si buscas renovar tus accesorios con un diseño práctico y actual. Ideal para llevar siempre contigo, ese básico que no puede faltar en tu día a día. Variantes disponibles: Negro / PEQUEÑA.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/billetera-con-aleta-fabio-negro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-80225171101-1jpg-355eb60a-da43-4d75-b30c-a0a4c2eff703.jpg?v=1786114029</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>29990.00 CLP</g:price>
-      <g:sale_price>17990.00 CLP</g:sale_price>
       <g:brand>Amphora</g:brand>
       <g:product_type>BILLETERA</g:product_type>
       <g:condition>new</g:condition>
@@ -1657,10 +1643,10 @@
     <item>
       <g:id>14944409321836</g:id>
       <g:title>Pañuelo voyage blanco crudo</g:title>
-      <g:description>El pañuelo Voyage en blanco crudo es un básico con mucho carácter. Su diseño en poliéster satinado twill tiene el equilibrio perfecto entre suavidad y estructura, ideal para darle un aire sofisticado a cualquier look. Con sus 90 x 90 cm, puedes llevarlo de mil maneras y hacerlo parte de tu sello personal. #Voyage ¡Descúbrelo y hazlo tuyo!</g:description>
+      <g:description>El pañuelo Voyage en blanco crudo es un básico con mucho carácter. Su diseño en poliéster satinado twill tiene el equilibrio perfecto entre suavidad y estructura, ideal para darle un aire sofisticado a cualquier look. Con sus 90 x 90 cm, puedes llevarlo de mil maneras y hacerlo parte de tu sello personal. #Voyage ¡Descúbrelo y hazlo tuyo! Variantes disponibles: MEDIANA.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/panuelo-mediana-voyage-blanco-crudo</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/voyagep09657-1-d4104a5d-0467-4b49-8168-7e9f13af3457.jpg?v=1762779820</g:image_link>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>16990.00 CLP</g:price>
       <g:sale_price>9990.00 CLP</g:sale_price>
       <g:brand>Amphora</g:brand>
@@ -15364,7 +15350,7 @@
       <g:title>Sandalia helga cuero camel</g:title>
       <g:description>Las plataformas que no podrás sacarte esta temporada. Nuestras Helga by Amphora, confeccionada en cuero son de alto impacto. Con un color camel predominante y una plataforma de 7 cm y pequeños detalles en dorado, son perfectas para usarla de día o de noche. Helga no pasa desapercibida en ningún lugar. Variantes disponibles: Camel / 37, Camel / 38.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-helga-camel</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/helgaz22707-camel-1.jpg?v=1795038444</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/helgaz22707-camel-1_a27ed61a-18d7-47be-a184-d31eb560026b.jpg?v=1795696460</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>89990.00 CLP</g:price>
       <g:sale_price>53990.00 CLP</g:sale_price>
@@ -18538,7 +18524,7 @@
     <item>
       <g:id>15264114966892</g:id>
       <g:title>Cartera corte recto isna</g:title>
-      <g:description> Variantes disponibles: Negro / ST, Café / ST, Denim / ST.</g:description>
+      <g:description> Variantes disponibles: Negro / ST, Denim / ST.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-corte-recto-isna</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4006435310001-1-ee78c7a2-f950-4b9b-9f38-3e247368d1f6.jpg?v=1787923688</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -28188,20 +28174,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>9478401458491</g:id>
-      <g:title>Pañuelo greta petroleo</g:title>
-      <g:description>Si quieres un accesorio que puede completar tu outfit con máximo estilo, elige nuestro pañuelo Greta. Este pañuelo en color petróleo es un must have para pasar los días y noches un poco fríos. Su material de tela poliéster satín twill, se caracteriza por ser un tejido fino y con algo de brillo. Sutileza y estilo chic con Greta. Variantes disponibles: GRANDE.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/panuelo-greta-petroleo</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-7034p06222-4-c21cc4dd-c2ab-45bf-818d-6e510b99b24f.jpg?v=1732759601</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>21990.00 CLP</g:price>
-      <g:sale_price>12990.00 CLP</g:sale_price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>PAÑUELO</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>14914651193708</g:id>
       <g:title>Bolso playa giuliana mediana negro</g:title>
       <g:description>El bolso de playa Giuliana mediano ofrece el equilibrio ideal entre estilo y comodidad. Con diseño en rayas y asas en contraste, es perfecto para llevar lo esencial a la playa con un toque chic. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Variantes disponibles: Negro / MEDIANA.</g:description>
@@ -33984,12 +33956,11 @@
     <item>
       <g:id>15063059661164</g:id>
       <g:title>Cartera bandolera fany mediana</g:title>
-      <g:description> Variantes disponibles: Negro / MEDIANA.</g:description>
+      <g:description></g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-bandolera-fany-mediana</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-40064072057-1-b20c004b-2f5d-4a38-93d7-53937b22df7d.jpg?v=1757427048</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>38990.00 CLP</g:price>
-      <g:sale_price>22990.00 CLP</g:sale_price>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>18990.00 CLP</g:price>
       <g:brand>Amphora Chile</g:brand>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
@@ -34110,7 +34081,7 @@
     <item>
       <g:id>15063064445292</g:id>
       <g:title>Mochila con tapa rosy mediana</g:title>
-      <g:description> Variantes disponibles: Camel / MEDIANA, Negro / MEDIANA, Rojo / MEDIANA.</g:description>
+      <g:description> Variantes disponibles: Camel / MEDIANA, Negro / MEDIANA.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/mochila-con-tapa-rosy-mediana</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-40364074107-1-231c7d39-5872-4795-b3a5-524ce7398143.jpg?v=1760701097</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -36500,7 +36471,7 @@
     <item>
       <g:id>15064960303468</g:id>
       <g:title>Cartera bandolera pricila pequeña</g:title>
-      <g:description> Variantes disponibles: Negro / PEQUEÑA, Petróleo Oscuro / PEQUEÑA.</g:description>
+      <g:description> Variantes disponibles: Café Oscuro / PEQUEÑA, Negro / PEQUEÑA, Petróleo Oscuro / PEQUEÑA.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-bandolera-pricila-pequena</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4036422380013-1-b74372f5-814b-4bef-a62e-de869a647206.jpg?v=1772455608</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -37183,7 +37154,7 @@
     <item>
       <g:id>15064992612716</g:id>
       <g:title>Cartera corte recto maida grande</g:title>
-      <g:description> Variantes disponibles: Beige / GRANDE, Café Oscuro / GRANDE, Camel / GRANDE, Negro / GRANDE.</g:description>
+      <g:description> Variantes disponibles: Beige / GRANDE, Camel / GRANDE, Negro / GRANDE.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-corte-recto-maida-grande</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4043424100005-1-f8e6a61e-ed69-498f-ad1e-268ec72735fb.jpg?v=1773066069</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -43258,7 +43229,7 @@
     <item>
       <g:id>15066869170540</g:id>
       <g:title>Sandalia amber cuero</g:title>
-      <g:description> Variantes disponibles: Blanco Crudo / 35, Blanco Crudo / 36, Blanco Crudo / 37, Blanco Crudo / 38, Blanco Crudo / 39, Café / 37, Café / 38, Café / 39, Negro / 36, Negro / 37, Negro / 38.</g:description>
+      <g:description> Variantes disponibles: Blanco Crudo / 35, Blanco Crudo / 36, Blanco Crudo / 37, Blanco Crudo / 38, Café / 37, Café / 38, Café / 39, Negro / 36, Negro / 37, Negro / 38.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-amber-cuero</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-amberz29757-1-3f1eec0b-ebdb-4c87-a8b4-257693bdc8d3.jpg?v=1757430187</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -45475,7 +45446,7 @@
     <item>
       <g:id>15089792844140</g:id>
       <g:title>Zapato taco diana cuero</g:title>
-      <g:description> Variantes disponibles: Blanco Crudo / 37, Negro / 36, Negro / 37, Negro / 38, Negro / 39, Burdeo / 36, Burdeo / 37, Burdeo / 39, Animal Print / 35, Animal Print / 36, Animal Print / 37, Animal Print / 38, Rojo / 37, Rojo / 38, Rojo / 36, Rojo / 35.</g:description>
+      <g:description> Variantes disponibles: Blanco Crudo / 37, Negro / 36, Negro / 37, Negro / 38, Burdeo / 36, Burdeo / 37, Burdeo / 39, Animal Print / 35, Animal Print / 36, Animal Print / 37, Animal Print / 38, Rojo / 37, Rojo / 38, Rojo / 36, Rojo / 35.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/zapato-taco-diana-cuero</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-dianaz22257-1-4d4904a9-7bca-4f8d-899b-2fae1d2fe26f.jpg?v=1790868312</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -45533,7 +45504,7 @@
       <g:title>Sandalia helga cuero</g:title>
       <g:description> Variantes disponibles: Camel / 37, Camel / 38.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-helga-cuero</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/helgaz22707-camel-1.jpg?v=1795038444</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/helgaz22707-camel-1_a27ed61a-18d7-47be-a184-d31eb560026b.jpg?v=1795696460</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>89990.00 CLP</g:price>
       <g:sale_price>53990.00 CLP</g:sale_price>
@@ -54406,20 +54377,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>15035735146860</g:id>
-      <g:title>Cartera corte recto maida grande café oscuro</g:title>
-      <g:description>Somos fans de los bolsos versátiles. Nuestra Maida de Amphora es perfecta para cualquier momento del día. Confeccionada en PU graneado y con detalles en cordón, aporta un toque elegante y chic a tu look. En color café oscuro, Maida es ideal para llevar todo lo necesario de manera organizada. Cuenta con un bolsillo externo y un espacio interno con cierre, y viene con un mango a juego para recorrer la ciudad con comodidad. Su tamaño mediano la convierte en tu compañera inseparable. Variantes disponibles: Café Oscuro / GRANDE.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/cartera-corte-recto-maida-grande-cafe-oscuro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-4043424100013-1-6874d67f-9fb4-4f16-8d96-5f5baab2b2ed.jpg?v=1772454758</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>44990.00 CLP</g:price>
-      <g:sale_price>26990.00 CLP</g:sale_price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>CORTE RECTO</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>15035736129900</g:id>
       <g:title>Cartera tote tres divisiones daranita mediana negro</g:title>
       <g:description>La cartera tote Daranita de Amphora con tres divisiones es el accesorio perfecto para quienes necesitan orden y espacio sin renunciar al estilo. Elaborada en PU de color negro, sus compartimentos facilitan la organización de todo lo que llevas. Daranita es ideal para el trabajo, viajes o el día a día. Variantes disponibles: Negro / MEDIANA.</g:description>
@@ -56060,7 +56017,7 @@
     <item>
       <g:id>15028434764140</g:id>
       <g:title>Zapato taco diana cuero negro</g:title>
-      <g:description>Diana es un zapato de taco tipo reina en cuero negro, de estilo clásico con herrajes niquelados. Elegante y versátil, es la opción perfecta para looks de oficina o eventos formales. Perfecto para renovar tu colección de calzado con un diseño que combina con todo. Variantes disponibles: Negro / 36, Negro / 37, Negro / 38, Negro / 39.</g:description>
+      <g:description>Diana es un zapato de taco tipo reina en cuero negro, de estilo clásico con herrajes niquelados. Elegante y versátil, es la opción perfecta para looks de oficina o eventos formales. Perfecto para renovar tu colección de calzado con un diseño que combina con todo. Variantes disponibles: Negro / 36, Negro / 37, Negro / 38.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/zapato-tipo-reina-diana-negro</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/4d717c10-5866-49b6-86e9-84e688dbf36a-p-dianaz22201-1-d521f027-949a-482d-8bab-b63e65564f2c.jpg?v=1772121022</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -67140,7 +67097,7 @@
     <item>
       <g:id>14881667219820</g:id>
       <g:title>Sandalia amber cuero blanco crudo</g:title>
-      <g:description>Sandalias Amber de Amphora: moda y practicidad en un diseño de plataforma que estiliza tu look. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Un básico que se convierte en el complemento perfecto para tu estilo personal. Variantes disponibles: Blanco Crudo / 35, Blanco Crudo / 36, Blanco Crudo / 37, Blanco Crudo / 38, Blanco Crudo / 39.</g:description>
+      <g:description>Sandalias Amber de Amphora: moda y practicidad en un diseño de plataforma que estiliza tu look. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Un básico que se convierte en el complemento perfecto para tu estilo personal. Variantes disponibles: Blanco Crudo / 35, Blanco Crudo / 36, Blanco Crudo / 37, Blanco Crudo / 38.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/sandalia-amber-cuero-blanco-crudo</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-amberz29757-1-3f1eec0b-ebdb-4c87-a8b4-257693bdc8d3.jpg?v=1757430187</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -70967,20 +70924,6 @@
       <g:sale_price>23990.00 CLP</g:sale_price>
       <g:brand>Amphora</g:brand>
       <g:product_type>BANDOLERA</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>14869803499884</g:id>
-      <g:title>Mochila con tapa rosy mediana rojo</g:title>
-      <g:description>Diseñada por Amphora para acompañarte con estilo en reuniones, traslados o jornadas de oficina. Su tono rojo, costuras destacadas y herrajes metálicos elevan cualquier outfit, mientras su conector externo facilita tener tu cargador siempre a mano. Variantes disponibles: Rojo / MEDIANA.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/mochila-con-tapa-rosy-mediana-rojo</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-40364074140-1-824498e7-1c8a-4501-a165-75f063d3fcd2.jpg?v=1755879559</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>46990.00 CLP</g:price>
-      <g:sale_price>27990.00 CLP</g:sale_price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>MOCHILA</g:product_type>
       <g:condition>new</g:condition>
       <g:identifier_exists>no</g:identifier_exists>
     </item>
