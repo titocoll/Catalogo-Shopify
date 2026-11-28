@@ -5,6 +5,34 @@
     <link>https://amphora-cl.myshopify.com</link>
     <description>Catalogo completo de productos</description>
     <item>
+      <g:id>9478539411771</g:id>
+      <g:title>Cartera bandolera leroy pequeña negro especial</g:title>
+      <g:description>Moverse con libertad es una forma de expresar quien eres, y #Leroy sabe de eso, esta bandolera de ecocuero negro esta diseñada para acompañarte en cada paso. Nacida para esos días en los que necesitas ligereza sin renunciar al estilo. Gracias a sus 3 compartimentos interiores te permite organizarlo todo con facilidad. Además cuenta con una correa ajustable que te da la libertad de llevarla a tu manera. #Leroy es la bandolera de Amphora ideal para quienes se expresan con confianza y estilo. Variantes disponibles: Negro especial / PEQUEÑA.</g:description>
+      <g:link>https://amphora-cl.myshopify.com/products/cartera-bandolera-pequena-leroy-negro-especial</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-40363810956-1-9c98c2da-ec02-454b-8d5a-10290f02217b_b22fe36e-b7f2-4fa0-9f70-32cc26cd6e4a.jpg?v=1732735480</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>38990.00 CLP</g:price>
+      <g:sale_price>22990.00 CLP</g:sale_price>
+      <g:brand>Amphora</g:brand>
+      <g:product_type>BANDOLERA</g:product_type>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>14699689148780</g:id>
+      <g:title>Mochila nissi mediana negro especial</g:title>
+      <g:description>Own the city! La mochila Nissi en negro especial, confeccionada en ecocuero texturizado, combina un diseño urbano con detalles funcionales. Cuenta con un amplio compartimento con cierre, bolsillos internos y un bolsillo externo que facilita el acceso a lo esencial. Add it to your collection today! Variantes disponibles: Negro especial / MEDIANA.</g:description>
+      <g:link>https://amphora-cl.myshopify.com/products/mochila-mediana-nissi-negro-especial</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-40364012356-1-6b990bc1-e74d-4e44-bf2e-6ebf14d0a115.jpg?v=1741955059</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>44990.00 CLP</g:price>
+      <g:sale_price>26990.00 CLP</g:sale_price>
+      <g:brand>Amphora</g:brand>
+      <g:product_type>MOCHILA</g:product_type>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>14878522868076</g:id>
       <g:title>Cartera bandolera porta celular beatriz pequeña blanco crudo</g:title>
       <g:description>Diseñada para acompañarte a todas partes. Beatriz es ese accesorio que mezcla funcionalidad y un diseño moderno para llevar tu celular con estilo. Ideal para quienes buscan un diseño versátil que combine con cualquier look. Variantes disponibles: Blanco Crudo / PEQUEÑA.</g:description>
@@ -19,20 +47,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>14732726665580</g:id>
-      <g:title>Botin Taco sandra cuero negro</g:title>
-      <g:description>Sandra es un botín con taco en cuero suave negro, de estilo clásico con cierre lateral. Cómodo y versátil, es tu aliado para looks casuales de temporada fría. Ideal para acompañarte todo el día, de la oficina a tus planes después del trabajo. Variantes disponibles: Negro / 36.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/botin-taco-sandra-negro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-sandraz24401-1-0ad0e076-9e4a-473a-9a72-489e37d5c7a1.jpg?v=1746813119</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>99990.00 CLP</g:price>
-      <g:sale_price>59990.00 CLP</g:sale_price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>BOTIN TACO</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>15035743830380</g:id>
       <g:title>Tarjetero con ventana exterior aneu rojo</g:title>
       <g:description>La billetera Aneu de Amphora en color rojo es la combinación perfecta de estilo y funcionalidad. Confeccionada en PU graneado, se destaca por su diseño elegante y práctico. Cuenta con un compartimiento externo con cierre metálico que aporta seguridad, mientras que en su interior ofrece el espacio ideal para organizar documentos de identidad y esenciales diarios. Gracias a su tamaño pequeño, Aneu es perfecta para llevar en cualquier bolso. Un accesorio versátil que amamos. Variantes disponibles: Rojo / PEQUEÑA.</g:description>
@@ -43,20 +57,6 @@
       <g:sale_price>6990.00 CLP</g:sale_price>
       <g:brand>Amphora</g:brand>
       <g:product_type>TARJETERO</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>14914656141676</g:id>
-      <g:title>Cinturón joaquina negro</g:title>
-      <g:description>Joaquina es un cinturón en PU liso negro, de perfil clásico básico con hebilla y herrajes niquelados. El accesorio ideal para marcar la cintura con estilo. Perfecto para renovar tu clóset con un accesorio que nunca pasa de moda. Variantes disponibles: Negro / S.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/cinturon-joaquina-negro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-joaquinab40101-1-1f811cd7-e96d-41ed-a6f3-1d1e01733d69.jpg?v=1760700848</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>16990.00 CLP</g:price>
-      <g:sale_price>7990.00 CLP</g:sale_price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>CINTURON</g:product_type>
       <g:condition>new</g:condition>
       <g:identifier_exists>no</g:identifier_exists>
     </item>
@@ -5506,20 +5506,6 @@
       <g:availability>in_stock</g:availability>
       <g:price>99990.00 CLP</g:price>
       <g:sale_price>59990.00 CLP</g:sale_price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>BOTIN</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>15086340768108</g:id>
-      <g:title>Botin irina cuero café</g:title>
-      <g:description>Irina es un botín en cuero café, de estilo clásico para uso casual. Un calzado versátil que se adapta a cualquier look de temporada fría. Ideal para acompañarte todo el día, de la oficina a tus planes después del trabajo. Variantes disponibles: Café / 36.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/botin-irina-cuero-cafe</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/irinaz36210-1-2d785c02-052e-4dd8-b46b-9277387d3779.jpg?v=1776371789</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>99990.00 CLP</g:price>
-      <g:sale_price>79990.00 CLP</g:sale_price>
       <g:brand>Amphora</g:brand>
       <g:product_type>BOTIN</g:product_type>
       <g:condition>new</g:condition>
@@ -16182,20 +16168,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>14623993889132</g:id>
-      <g:title>Zapato Taco nelia cuero negro</g:title>
-      <g:description>El zapato Nelia by Amphora es la máxima expresión de elegancia y sofisticación. Diseñada para destacar tu feminidad, esta sandalia confeccionada en cuero y con un tacón de 2 cm, combina un diseño vanguardista con un toque clásico. De color negro predominante, es ideal para marcar tendencia este verano. Variantes disponibles: Negro / 35.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/zapato-taco-nelia-negro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-neliaz22701-1-8f109b3b-8745-4cd5-b59b-b3b17b7c7733_0253bad5-ff48-4446-82d3-c0e70d32d9b1.jpg?v=1733311646</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>79900.00 CLP</g:price>
-      <g:sale_price>38990.00 CLP</g:sale_price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>ZAPATO TACO</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>14710115205484</g:id>
       <g:title>Puffy jacket margarita azul</g:title>
       <g:description>Si buscas un básico con actitud, la chaqueta Margarita en tono denim es la opción perfecta. Hecha de nylon con acabado resistente, es ideal para llevar en cualquier ocasión, ya sea con un look relajado o algo más audaz. Su cierre frontal permite un ajuste práctico y sus detalles en niquelado aportan un aire moderno. Disponible en varias tallas para que elijas la que mejor se adapte a tu estilo. A new season, a new you! Add it to your cart now. Variantes disponibles: Azul / L.</g:description>
@@ -26628,20 +26600,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>9767978664251</g:id>
-      <g:title>Cartera tote tres divisiones bluma mediana negro</g:title>
-      <g:description>La cartera Bluma con dos asas y tres divisiones by Amphora, es un accesorio ideal para la oficina o esos días que debes verte chic. Confecionada en PU gastado, Bluma es perfecta para quienes buscan organización y estilo en su día a día. Con varios compartimientos, un tamaño mediano y sus dos asas predominantes, is the bag of yours dreams! Variantes disponibles: Negro / MEDIANA.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/cartera-dos-asas-tres-divisiones-mediana-bluma-negro</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-40663871601-1-c68010ac-01b0-4819-9fe7-8de98816e5aa_05b0fc77-3b86-4a6e-a73a-3b32b6990dae.jpg?v=1732743050</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>44990.00 CLP</g:price>
-      <g:sale_price>26990.00 CLP</g:sale_price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>TOTE</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>14881590444396</g:id>
       <g:title>Cartera bandolera jazmin grande rojo oscuro</g:title>
       <g:description>Jazmin suma el rojo oscuro a su versión bandolera grande, de estilo sport casual en PU graneado con cierre y herrajes pintados en negro. Un básico que no puede faltar en tu colección, versátil para cualquier ocasión del día. Variantes disponibles: Rojo Oscuro / GRANDE.</g:description>
@@ -31838,12 +31796,11 @@
     <item>
       <g:id>15063027482988</g:id>
       <g:title>Cartera tote tres divisiones bluma mediana</g:title>
-      <g:description> Variantes disponibles: Negro / MEDIANA.</g:description>
+      <g:description></g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cartera-tote-tres-divisiones-bluma-mediana</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-40663871601-1-c68010ac-01b0-4819-9fe7-8de98816e5aa_05b0fc77-3b86-4a6e-a73a-3b32b6990dae.jpg?v=1732743050</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>44990.00 CLP</g:price>
-      <g:sale_price>26990.00 CLP</g:sale_price>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>26990.00 CLP</g:price>
       <g:brand>Amphora Chile</g:brand>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
@@ -40626,7 +40583,7 @@
     <item>
       <g:id>15065652232556</g:id>
       <g:title>Cinturon joaquina</g:title>
-      <g:description> Variantes disponibles: Camel / S, Camel / M, Negro / S.</g:description>
+      <g:description> Variantes disponibles: Camel / S, Camel / M.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/cinturon-joaquina</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-joaquinab40107-1-f1615cff-83c6-4cc7-a0f8-b4d690bbf7e1.jpg?v=1760653054</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -42290,7 +42247,7 @@
     <item>
       <g:id>15066867106156</g:id>
       <g:title>Botin Taco sandra cuero</g:title>
-      <g:description> Variantes disponibles: Camel / 37, Camel / 36, Camel / 35, Negro / 36.</g:description>
+      <g:description> Variantes disponibles: Camel / 37, Camel / 36, Camel / 35.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/botin-taco-sandra-cuero</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-sandraz24407-1-86dc659c-afb2-43d3-a17a-6c6ca1c80d59.jpg?v=1746813154</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -44669,12 +44626,12 @@
     <item>
       <g:id>15100868657516</g:id>
       <g:title>Zapato Taco nelia cuero</g:title>
-      <g:description> Variantes disponibles: Negro / 35, Plateado / 35, Plateado / 36, Plateado / 37, Plateado / 38.</g:description>
+      <g:description> Variantes disponibles: Plateado / 35, Plateado / 36, Plateado / 37, Plateado / 38.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/zapato-taco-nelia-cuero</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-neliaz22701-1-8f109b3b-8745-4cd5-b59b-b3b17b7c7733_0253bad5-ff48-4446-82d3-c0e70d32d9b1.jpg?v=1733311646</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>79900.00 CLP</g:price>
-      <g:sale_price>38990.00 CLP</g:sale_price>
+      <g:sale_price>46990.00 CLP</g:sale_price>
       <g:brand>Amphora Chile</g:brand>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
@@ -44711,7 +44668,7 @@
     <item>
       <g:id>15100870984044</g:id>
       <g:title>Zapato tipo reina luna cuero</g:title>
-      <g:description> Variantes disponibles: Beige Oscuro / 36, Beige Oscuro / 37, Beige Oscuro / 38, Beige Oscuro / 39, Negro / 35, Negro / 36, Negro / 37, Negro / 38, Negro / 39, Negro especial / 36, Negro especial / 37, Burdeo / 35, Burdeo / 36, Burdeo / 37, Burdeo / 38, Camel / 35, Camel / 36, Camel / 37, Camel / 38, Camel / 39.</g:description>
+      <g:description> Variantes disponibles: Beige Oscuro / 36, Beige Oscuro / 37, Beige Oscuro / 38, Beige Oscuro / 39, Negro / 35, Negro / 36, Negro / 37, Negro / 38, Negro / 39, Negro especial / 36, Negro especial / 37, Burdeo / 35, Burdeo / 36, Burdeo / 37, Burdeo / 38, Camel / 36, Camel / 37, Camel / 38, Camel / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/zapato-tipo-reina-luna-cuero</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-lunaz28306-1-8252c4a3-b138-4dbe-9f15-ebca248a93fe.jpg?v=1787288403</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -44949,12 +44906,11 @@
     <item>
       <g:id>15100885959020</g:id>
       <g:title>Botin irina cuero</g:title>
-      <g:description> Variantes disponibles: Café / 36.</g:description>
+      <g:description></g:description>
       <g:link>https://amphora-cl.myshopify.com/products/botin-irina-cuero</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/irinaz36210-1-2d785c02-052e-4dd8-b46b-9277387d3779.jpg?v=1776371789</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>99990.00 CLP</g:price>
-      <g:sale_price>79990.00 CLP</g:sale_price>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>79990.00 CLP</g:price>
       <g:brand>Amphora Chile</g:brand>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
@@ -46041,7 +45997,7 @@
     <item>
       <g:id>15091406700908</g:id>
       <g:title>Zapato tipo reina luna cuero camel</g:title>
-      <g:description>Luna es un zapato tipo reina en cuero camel, de estilo clásico con herrajes dorado claro. Elegante y versátil, combina looks de oficina con salidas casuales sin esfuerzo. Un básico versátil que se adapta a cualquier ocasión sin sacrificar comodidad. Variantes disponibles: Camel / 35, Camel / 36, Camel / 37, Camel / 38, Camel / 39.</g:description>
+      <g:description>Luna es un zapato tipo reina en cuero camel, de estilo clásico con herrajes dorado claro. Elegante y versátil, combina looks de oficina con salidas casuales sin esfuerzo. Un básico versátil que se adapta a cualquier ocasión sin sacrificar comodidad. Variantes disponibles: Camel / 36, Camel / 37, Camel / 38, Camel / 39.</g:description>
       <g:link>https://amphora-cl.myshopify.com/products/zapato-tipo-reina-luna-cuero-camel</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/lunaz28307-1-c27a800a-2609-4c11-b60a-cdba4cdc4419.jpg?v=1776864667</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -73887,20 +73843,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>9478539411771</g:id>
-      <g:title>Cartera bandolera leroy pequeña negro especial</g:title>
-      <g:description>Moverse con libertad es una forma de expresar quien eres, y #Leroy sabe de eso, esta bandolera de ecocuero negro esta diseñada para acompañarte en cada paso. Nacida para esos días en los que necesitas ligereza sin renunciar al estilo. Gracias a sus 3 compartimentos interiores te permite organizarlo todo con facilidad. Además cuenta con una correa ajustable que te da la libertad de llevarla a tu manera. #Leroy es la bandolera de Amphora ideal para quienes se expresan con confianza y estilo. Variantes disponibles: Negro especial / PEQUEÑA.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/cartera-bandolera-pequena-leroy-negro-especial</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-40363810956-1-9c98c2da-ec02-454b-8d5a-10290f02217b_b22fe36e-b7f2-4fa0-9f70-32cc26cd6e4a.jpg?v=1732735480</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>38990.00 CLP</g:price>
-      <g:sale_price>22990.00 CLP</g:sale_price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>BANDOLERA</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>14699687870828</g:id>
       <g:title>Cartera tote corte recto asmara mediana negro</g:title>
       <g:description>Style that moves with you. La cartera Asmara en negro es un básico infaltable con un twist. Su diseño de dos asas con corte recto y detalles en gamuza le da una vibra casual pero sofisticada. Con amplio espacio interior, múltiples compartimentos y cierre seguro, es la combinación perfecta entre funcionalidad y actitud. Súmate a la tendencia y llévala contigo! Variantes disponibles: Negro / MEDIANA.</g:description>
@@ -74021,20 +73963,6 @@
       <g:availability>in_stock</g:availability>
       <g:price>46990.00 CLP</g:price>
       <g:sale_price>27990.00 CLP</g:sale_price>
-      <g:brand>Amphora</g:brand>
-      <g:product_type>MOCHILA</g:product_type>
-      <g:condition>new</g:condition>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>14699689148780</g:id>
-      <g:title>Mochila nissi mediana negro especial</g:title>
-      <g:description>Own the city! La mochila Nissi en negro especial, confeccionada en ecocuero texturizado, combina un diseño urbano con detalles funcionales. Cuenta con un amplio compartimento con cierre, bolsillos internos y un bolsillo externo que facilita el acceso a lo esencial. Add it to your collection today! Variantes disponibles: Negro especial / MEDIANA.</g:description>
-      <g:link>https://amphora-cl.myshopify.com/products/mochila-mediana-nissi-negro-especial</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0856/4686/8795/files/p-40364012356-1-6b990bc1-e74d-4e44-bf2e-6ebf14d0a115.jpg?v=1741955059</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>44990.00 CLP</g:price>
-      <g:sale_price>26990.00 CLP</g:sale_price>
       <g:brand>Amphora</g:brand>
       <g:product_type>MOCHILA</g:product_type>
       <g:condition>new</g:condition>
